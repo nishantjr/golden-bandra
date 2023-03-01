@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+src_prefix=archive/www.goldenbandra.com/
+for f in $(cd "$src_prefix"; find -name '*.htm*'); do
+    mkdir -p rebuild/"$(dirname $f)"
+    pandoc -f html -t markdown "$src_prefix"/"$f" --filter pandoc-filter -o rebuild/"${f}".md
+done
