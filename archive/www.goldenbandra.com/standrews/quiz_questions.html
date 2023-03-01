@@ -1,0 +1,138 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<HTML>
+<HEAD>
+	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=iso-8859-1">
+	<TITLE> New Document </TITLE>
+	<LINK REL=StyleSheet HREF="style.css" TYPE="text/css" MEDIA=screen>
+
+<script Language="JavaScript">
+	function validate(theForm)
+	{   
+        if( check_blank(theForm.Name)) 
+		{
+            alert('Please Enter Your Name');
+		    return false;
+        
+        }
+		
+		
+		if( check_blank(theForm.Age))
+		{
+            alert('Please Enter Your Age ');
+		    return false;
+        
+        }
+		
+		if ( check_blank(theForm.Email))
+		{
+            alert('Please Enter Your Email ID ');
+		    return false;
+        
+        }
+		
+	return true;
+	}
+
+	
+	
+
+	function check_blank(s)
+	{
+		if (s.value.length <= 0)
+		{
+			return true
+		}
+	}
+
+</SCRIPT>
+
+</HEAD>
+<BODY>
+<h1>Olympics Quiz&nbsp; &nbsp; <img width="157" height="75" src="olymring1.gif" alt="Olympics" align=middle></h1>
+<P>Hello there. In keeping with the theme of the Olympics this is a small quiz to test your general knowledge.
+For the correct answers do log in next week and also participate in the next
+quiz.<br>
+Please remember to enter your name.
+</P>
+<A href="quizans.html">View Last Weeks Answers and Winners</A>
+<FORM ACTION="autoEmailer.php" METHOD="POST" onsubmit="return validate(this)">
+	<TABLE WIDTH=100% BORDER=0 CELLPADDING=4 CELLSPACING=0 STYLE="page-break-inside: avoid">
+		<COL WIDTH=128*>
+		<COL WIDTH=128*>
+		
+			<TR VALIGN=TOP>
+				<TD WIDTH=50%>
+					<P>Enter Your Name:</P>
+				</TD>
+				<TD WIDTH=50%>
+					<P><INPUT TYPE=TEXT NAME="Name" SIZE=28></P>
+				</TD>
+			</TR>
+		
+		
+			<TR VALIGN=TOP>
+				<TD WIDTH=50%>
+					<P>Enter Your Age: 
+					</P>
+				</TD>
+				<TD WIDTH=50%>
+					<P><INPUT TYPE=TEXT NAME="Age" SIZE=28></P>
+				</TD>
+			</TR>
+		
+			<TR VALIGN=TOP>
+				<TD WIDTH=50%>
+					<P>Enter Your Email Address: 
+					</P>
+				</TD>
+				<TD WIDTH=50%>
+					<P><INPUT TYPE=TEXT NAME="Email" SIZE=28></P>
+				</TD>
+			</TR>
+
+	</TABLE>
+	<P>      
+	</P>
+	<H3 ALIGN=CENTER>HAPPY QUIZZING 
+	</H3>
+	<P><BR><BR>
+	</P>
+	<ol>
+	
+  <li>What is the serial number of the 2000 Sydney Olympics?<br>
+    <INPUT type="radio" name="Qst1" value="a">27th<br>
+    <INPUT type="radio" name="Qst1" value="b">37th<br>
+    <INPUT type="radio" name="Qst1" value="c">47th<br>
+    <INPUT type="radio" name="Qst1" value="d">17th<br>
+    </li>
+  <li>Which new game has been introduced at the 2000 Sydney Olympics?<br>
+    <INPUT type="radio" name="Qst2" value="a">Triathlon<br>
+    <INPUT type="radio" name="Qst2" value="b">Hockey<br>
+    <INPUT type="radio" name="Qst2" value="c">Pentathlon<br>
+    <INPUT type="radio" name="Qst2" value="d">Decathlon<br>
+
+    </li>
+  <li>What object did the archers hit during the competition before the target board was introduced ?<br>
+    <INPUT type="radio" name="Qst3" value="a">A ball<br>
+    <INPUT type="radio" name="Qst3" value="b">A fish<br>
+    <INPUT type="radio" name="Qst3" value="c"> A cylinder <br>
+    <INPUT type="radio" name="Qst3" value="d">A bird<br>
+  </li>
+  <li>Which country's team remained undefeated in hockey between 1928 and 1956?<br>
+    <INPUT type="radio" name="Qst4" value="a">Pakistan<br>
+    <INPUT type="radio" name="Qst4" value="b">Italy<br>
+    <INPUT type="radio" name="Qst4" value="c">India<br>
+    <INPUT type="radio" name="Qst4" value="d">France<br>
+  </li>
+ 
+	</ol>
+	<P>
+	</P>
+	<INPUT TYPE=SUBMIT NAME="submit" VALUE="Submit Answers">
+	<INPUT TYPE=HIDDEN NAME="SUBJECT" VALUE="Andrean Quiz(KIDS)- Aug 14-20,2004">
+	<INPUT TYPE=HIDDEN NAME="_thanks_url" VALUE="thanks.html">
+</FORM>
+<P ALIGN=CENTER><BR><BR>
+</P>
+</BODY>
+</HTML>

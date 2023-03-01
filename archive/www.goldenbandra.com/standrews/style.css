@@ -1,0 +1,37 @@
+BODY {
+	font-family	 : "Tahoma","Verdana", "arial", sans-serif;
+	font-size	 : 8pt;
+	text-align: justify }
+	
+
+
+TABLE {
+	font-family	 : "Tahoma","Verdana", "arial", sans-serif;
+	font-size	 : 8pt;
+	text-align: justify }
+
+A:link    { color: #000033 }
+A:active  { color: black; }
+A:visited { color: #000033 }
+
+#SCCTableHead { color: black;
+		font-size : 10pt }
+
+#SCCdata  { height: 20pt;
+	    width: 44pt;
+	    color: navy; }
+
+#SCCRoadName  { color: green; }
+
+LI { list-style-type: lower-roman}
+
+hr { color: navy;
+     size=2 	}
+
+P { text-align: justify }
+
+h3 { text-align: justify }
+h5 { text-align: justify }
+
+div.type1 { font-family: "Tahoma","Verdana", "arial", "sans-serif"; text-align: justify; font-size	 : 8pt }
+div.type2 { font-family: "Tahoma","Verdana", "arial", "sans-serif"; text-align: justify; font-size	 : 8pt;color: red }
