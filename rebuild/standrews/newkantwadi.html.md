@@ -1,3 +1,7 @@
+![](SCCNewKantPerryRd.jpg){height="100" width="550" border="0"}
+
+The New Kantwadi Road
+
 New Kantwady, Perry Road. The A & B communities of our parish come are
 located at New Kantwady and Perry Road (N). It is a large community
 comprised of 83+24 families. It\'s patron saint is St. Peter. Closing of

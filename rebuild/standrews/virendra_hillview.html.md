@@ -1,3 +1,5 @@
+![](SCCVirendra.jpg){height="100" width="550" border="0"}
+
 The 'Y' community of our parish is located at at Hill View and Virendra
 colony. This community consists of 84 families and its patron is Pope
 John XXIII.\

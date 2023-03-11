@@ -1,3 +1,4 @@
+::: Section1
 [ ]{style="FONT-FAMILY: Arial; mso-bidi-font-family: " roman??="" new=""
 times=""}
 
@@ -189,6 +190,8 @@ PLAY[                    ]{style="mso-spacerun: yes"}**[Tic20
 Soda]{.underline}**]{style="FONT-FAMILY: Arial; mso-bidi-font-family: "
 roman??="" new="" times=""}
 
+## And
+
 [FOR ]{style="FONT-FAMILY: Arial; mso-bidi-font-family: " roman??=""
 new="" times=""}
 
@@ -256,9 +259,13 @@ times=""}
 [ ]{style="FONT-FAMILY: Arial; mso-bidi-font-family: " roman??="" new=""
 times=""}
 
+# THIRD PLACE WITH[  ]{style="mso-spacerun: yes"}**[187]{.underline}**[  ]{style="mso-spacerun: yes"}MARKS[  ]{style="mso-spacerun: yes"}THE[  ]{style="mso-spacerun: yes"}**[NE[  ]{style="mso-spacerun: yes"}]{.underline}**[ ]{style="mso-spacerun: yes"}ZONE
+
  
 
  
+
+# SECOND PLACE[  ]{style="mso-spacerun: yes"}**[188.33]{.underline}** [  ]{style="mso-spacerun: yes"}MARKS THE[    ]{style="mso-spacerun: yes"}**[SW[  ]{style="mso-spacerun: yes"}]{.underline}**[ ]{style="mso-spacerun: yes"}ZONE
 
  
 
@@ -368,3 +375,4 @@ times=""}
 roman??="" new="" times=""}
 
  
+:::

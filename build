@@ -3,9 +3,9 @@
 set -euo pipefail
 
 src_prefix=archive/www.goldenbandra.com/
-
 IFS=$'\n'
 files=($(cd "$src_prefix"; find -name '*.htm*'))
+
 
 for f in  "${files[@]}"; do
     mkdir -p rebuild/"$(dirname $f)"

@@ -1,5 +1,7 @@
 [Back to Golden Bandra](index.htm)
 
+# Historical Tidbits
+
 (Historical and other information from the personal researches of Mr
 Clarence Fernandes)
 

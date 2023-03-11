@@ -56,6 +56,8 @@ Date of Sale of tickets for the dramatics will be announce shortly 
 
 **TELEPHONE  NO**
 
+### SE {#se style="border: 1.00pt solid #000000; padding: 0.02in"}
+
 Nandita Gomes
 
 26407749
@@ -71,6 +73,8 @@ Leandro Dsylva
  
 
  
+
+### NW {#nw style="border: 1.00pt solid #000000; padding: 0.02in"}
 
 Justin DeNies
 
@@ -88,6 +92,8 @@ Samantha Dsouza
 
  
 
+### SW {#sw style="border: 1.00pt solid #000000; padding: 0.02in"}
+
 Blossom Furtado
 
 9892863448
@@ -104,6 +110,8 @@ Ivonne Reis
 
  
 
+### NE {#ne style="border: 1.00pt solid #000000; padding: 0.02in"}
+
 Karan Misquitta
 
 26431413
@@ -115,6 +123,8 @@ Janice Vaz
 26423952
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+
+# **gnikooL \.....  !!     (Figure that one ! It\'s not a typo)*****   From The Andrean Notes Sept 1953 & Sept 1954  ..***
 
 We have reproduced  reports  first published in the **Andrean Notes of
 September 1953 and September 1954** \
@@ -145,6 +155,10 @@ the publication of this newsletter. A mammoth task of a devoted
 professional. As if that were not enough, Mr Curry also took the trouble
 to preserve copies of the Notes over the years and after neatly binding
 them in volumes, he presented them to the Parish. AWT:HJR)
+
+# \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+# The Parish Zonal Dramatic Competition 
 
 -  August 1953 (First Zonal Competition)
 
@@ -286,6 +300,7 @@ mso-bidi-language:AR-SA"}[(Input:YvDm)]{style="font-family: Times New Roman; mso
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
+::: Section1
 **The Parish Zonal Competition  -   August 1954 (Second Zonal
 Competition)**
 
@@ -329,6 +344,8 @@ Secretary Mr. Melville Mendes.[  ]{style="mso-spacerun: yes"}Everybody
 was being congratulated by everybody.[  ]{style="mso-spacerun: yes"}What
 a Show \![  ]{style="mso-spacerun: yes"}What a success !. 
 
+## **Observations** {#observations style="text-align:justify"}
+
 It was apparent after the eliminations that there was no scope for real
 competition -[  ]{style="mso-spacerun: yes"}The Scheme Zone had seven
 contestants for the individual events.[ 
@@ -341,6 +358,8 @@ scope of competition does not exist. 
 The Organizing Committee must bear this in mind at next year's
 competition, and the competing zones must be prepared to accept whatever
 arrangement will be arrived at for real healthy competition next year. 
+
+## **Lost marks** {#lost-marks style="text-align:justify"}
 
 The Scheme lost marks on account of the chatting and whisperings that
 went on by the Spanish Belles clustered around the fruit stalls, and for
@@ -355,6 +374,8 @@ hidden by players during performance. 
 
 Marks were slashed from Hill Road because of the use of the mike in the
 wrong place and for some defects in direction. 
+
+## Colossal success 
 
 We reproduce here Mr. Cecil Mendoza's comment which appeared in The
 Indian Express. 
@@ -405,3 +426,4 @@ Mrs. W. Pereira gave away the Trophy and the prizes.[ 
 of the St. Andrew's Educational Charities. 
 
  
+:::

@@ -1,3 +1,5 @@
+### Civic and Political Cell
+
 The Civic and Political Cell of the parish, was inaugurated on the 30th
 April 2001.  At this meeting, the aims of the cell were spelt out viz.
 

@@ -7,24 +7,21 @@ import json
 content = []
 def collectCells(key, value, format, meta):
   global content
-  if key == 'Para':
-    content += [Para(value)]
-    return
+  if key == 'Table':
+    ret = []
+    attr, caption, colspecs, tablehead, tablebodies, tablefoot = value
+    for body in tablebodies:
+        b_attr, b_rowheadcolumns, rows1, rows2 = body
+        for row in rows1 + rows2:
+            r_attr, cells = row
+            for cell in cells:
+                c_attr, alignment, row_span, col_span, blocks = cell
+                ret += blocks
+    return ret
 
 def dumpCells(key, value, format, meta):
   if key == 'Table':
     return Para([Str('xxx')])
 
 if __name__ == "__main__":
-    input_stream = io.TextIOWrapper(sys.stdin.buffer, encoding='utf-8')
-    source = input_stream.read()
-    if len(sys.argv) > 1:
-        format = sys.argv[1]
-    else:
-        format = ""
-    applyJSONFilters([collectCells], source, format)
-    sys.stdout.write(json.dumps({   "pandoc-api-version":[1,23],
-            "meta":{},
-            "blocks":content}))
-        
-
+    toJSONFilter(collectCells)

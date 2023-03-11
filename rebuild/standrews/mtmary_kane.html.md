@@ -1,3 +1,5 @@
+![](SCCMtMaryKaneRd.jpg){height="100" width="550" border="0"}
+
 Kane Road & Mt.Mary Road Community are home to the X community
 consisting of approximately 70 families. The zonal core group meetings
 are attended by between 5-8 members.\

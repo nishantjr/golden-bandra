@@ -1,3 +1,5 @@
+### Advanced Locality Management
+
 Minutes of the All Bandra ALM Meeting held at 10.30 am. on Sunday 29th.
 Feb. 2004 at Bosco Hall, St. Andrew's Church.
 
@@ -13,6 +15,20 @@ Marie Paul, of D'Monte Park Road had got their ALM registered more
 recently and also added some more information on the subject.
 
 For the benefit of all those interested, the points are listed below:.
+
+-   -get together a few committed people, concerned with the welfare of
+    the neighbourhood.
+-   -appoint a core committee and a coordinator who will be the contact
+    person.
+-   -hold regular monthly meetings (or more frequently initially)
+-   -prepare a list of problem areas in the locality.
+-   -prepare a list of buildings/bungalows and the number of households
+    in each.
+-   -organise the segregation of wet and dry waste and ensure compliance
+    by the residents.
+-   -Select a suitable name for your ALM & address a letter to the BMC
+    H/W Ward, with all the above details requesting registration
+    (ordinarily done by the Complaints Officer).
 
 It was pointed out that the ALM concept was mainly a Waste Management
 initiative, to help the BMC who in return, would give priority to the

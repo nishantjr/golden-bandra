@@ -83,6 +83,8 @@ Fr. Peter Drego
 
  
 
+#### Communities E,F,G,H {#communities-efgh align="left"}
+
 Our Zone **participated** in the Novena Mass in preparation for St.
 Andrew's Feast on Saturday, November 25, 2000 at 7.15 p.m. Fr. Anthony
 D'Souza celebrated the Eucharist. The theme for our Mass was *'We are a
@@ -552,12 +554,182 @@ Milestones:
 
 **Baptisms**
 
+**Name of Parents**
+
+**Baptised               **
+
+**Name of Child**
+
+Bosco and Conception Serrao
+
+09.12.2000
+
+Allan Savio
+
+Jude J. & Megan R. Gonsalves
+
+16.12.2000
+
+Kenneth Le Roy
+
+Colonel C and Akkara E. Kurian
+
+20.12.2000
+
+Anna 
+
+Ralph Anil & Floella Rodrigues
+
+28.12.2000
+
+Sally Ann Ethel
+
+Anthony M. and Paras Pereira
+
+14.01.2001
+
+Anish 
+
 **Marriages**
+
+**Name of Couple**
+
+**Married On**
+
+Ryan Neale J. de Melo and Dezma L Menezes
+
+10.12.2000
+
+Andrew J. Lobo and Sunita P. D'Souza
+
+15.12.2000
+
+Henrick F. Barretto and Claire D. Araujo
+
+15.12.2000
+
+Hamid Ali Khan and Maria A. Dias
+
+20.12.2000
+
+Allen G. M. Lobo and Anna Belle R. Sequeira
+
+23.12.2000
+
+Ivor A. D'Abreo and Michelle Ann A. Fernandez 
+
+27.12.2000
+
+James Dharmai and Leena P. Falcon 
+
+28.12.2000
+
+George Pinto and Harriet C. Ferens
+
+ 28.12.2000
+
+Rafatulla Parkar and Priya Ann Nunes
+
+29.12.2000
+
+Avin P. D'Silva and Neelam C. Lobo
+
+30.12.2000
 
 Christopher A D\'Souza & Lynnstell L \'Mello 
 
+1.1.2001
+
+Neil Menezes & Eureka A Menezes
+
+3.1.2001
+
+Alwyn A Miranda & Anita R D\'Souza 
+
+4.1.2001
+
+Grenville J Ferreira & Samantha A. Pinto
+
+5.1.2001
+
+Roger M Quadros & Melissa S. D\'Souza
+
+6.1.2001
+
+Dinesh A. Sebastian & Shilpa Figer
+
+7.1.2001
+
+Garreth R C Fernandes & Natasha A Fernandes 
+
+17.1.2001
+
 **Deaths**
 
+**Name**
+
+**Died On**
+
+**Age**
+
+ Alex (Alexio) Sequeira
+
+ 4.12.2000
+
+ 71 yrs.
+
+Catherine D'Souza
+
+07.12.2000
+
+85 yrs.
+
+Stanislaus J. Rozario
+
+09.12.2000
+
+70 yrs.
+
+Hilda Bernadine Sylva
+
+21.12.2000
+
+80 yrs.
+
+Rodney Furtado
+
+21.12.2000
+
+41 yrs.
+
 Andrew Francis Rana
+
+25.12.2000
+
+81 yrs.
+
+Christine Menezes
+
+26.12.2000
+
+82 yrs
+
+John Soares
+
+ 07.01.2001
+
+84 yrs.
+
+Peter Philip D'Souza
+
+12.01.2001
+
+69 yrs.
+
+Edmund Gerard Sequeira
+
+15.01.2001
+
+78 yrs.
 
 [Back to the St Andrew\'s Home Page](index.htm)

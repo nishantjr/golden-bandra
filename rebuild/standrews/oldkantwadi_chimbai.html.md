@@ -1,3 +1,7 @@
+![](SCCOldKantChimbai.jpg){height="100" width="550" border="0"}
+
+The Old Kantwadi Road & Chimbai
+
 Old Kantwadi, Chimbai The C &D communities of our parish are located at
 Old Kantwadi/Chimbai. They consist of 61and 62 families respectively.
 The Patron for these communities is The Star Of The Ocean. October

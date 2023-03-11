@@ -1,3 +1,5 @@
+![](SCCNewVeronicaRoad.jpg){height="100" width="550" border="0"}
+
 The 'T' community of our poarish is located on New Veronica Road. This
 Community consists of 80 families and its patron is the Holy Trinity.\
 \

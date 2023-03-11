@@ -1,23 +1,46 @@
+**[Back to GoldenBandra](IndexGB.htm)**
+
+### [Bandra as it was centuries ago  ]{#Bandra as it was centuries ago}
+
+![](shipsmall.jpg){border="0" width="183" height="114"}
+
 [[[**1. Bandra\'s
 Beginnings**]{style="font-family:Verdana;mso-ansi-language:EN-US"}](#1.%20Bandra's%20Beginnings)[]{style="font-family:Verdana;mso-ansi-language:EN-US"}]{style="mso-ansi-language: EN-US"}
+
+[]{style="font-family:Verdana;
+mso-ansi-language:EN-US"}
 
 [**[[2.[ 
 ]{style="font-style: normal; font-variant: normal; font-size: 7.0pt; font-family: Times New Roman; mso-ansi-language: EN-US"}]{style="font-family:Verdana;
 mso-ansi-language:EN-US"}](#2.%20%20%20%20%20%20%20%20%20Name)[[Name](#2.%20%20%20%20%20%20%20%20%20Name)]{style="font-family:Verdana;mso-ansi-language:EN-US"}**]{style="mso-ansi-language: EN-US"}
 
+[]{style="font-family:Verdana;
+mso-ansi-language:EN-US"}
+
 [**[[3.[ 
 ]{style="font-style: normal; font-variant: normal; font-size: 7.0pt; font-family: Times New Roman; mso-ansi-language: EN-US"}]{style="font-family:Verdana;
 mso-ansi-language:EN-US"}[Maps]{style="font-family:Verdana;mso-ansi-language:EN-US"}](#3.%20%20%20%20%20%20%20%20%20Maps)**]{style="mso-ansi-language: EN-US"}
 
+[[](#3.%20%20%20%20%20%20%20%20%20Maps)]{style="font-family:Verdana;
+mso-ansi-language:EN-US"}
+
+[   ]{style="mso-spacerun: yes; mso-ansi-language: EN-US"}
+
 [**[[4.[
 ]{style="font-style: normal; font-variant: normal; font-size: 7.0pt; font-family: Times New Roman; mso-ansi-language: EN-US"}]{style="font-family:Verdana;
 mso-ansi-language:EN-US"}](#4.%20%20%20%20%20%20%20%20%20Port)[[Port](#4.%20%20%20%20%20%20%20%20%20Port)]{style="font-family:Verdana;mso-ansi-language:EN-US"}**]{style="mso-ansi-language: EN-US"}
+
+[]{style="font-family:Verdana;
+mso-ansi-language:EN-US"}
 
 [**[[5.[ 
 ]{style="font-style: normal; font-variant: normal; font-size: 7.0pt; font-family: Times New Roman; mso-ansi-language: EN-US"}]{style="font-family:Verdana;
 mso-ansi-language:EN-US"}](#5.%20%20%20%20%20%20%20%20%20Town,%20Village%20and%20Hamlets)[[Town,
 Village and
 Hamlets](#5.%20%20%20%20%20%20%20%20%20Town,%20Village%20and%20Hamlets)]{style="font-family:Verdana;mso-ansi-language:EN-US"}**]{style="mso-ansi-language: EN-US"}
+
+[]{style="font-family:Verdana;
+mso-ansi-language:EN-US"}
 
 **[[6.[ 
 ]{style="font-style: normal; font-variant: normal; font-size: 7.0pt; font-family: Times New Roman; mso-ansi-language: EN-US"}]{style="font-family:Verdana;
@@ -79,6 +102,9 @@ mso-ansi-language:EN-US"}[[Name]{#2.         Name}]{style="font-family:Verdana;m
 [[Top of
 Page](#Bandra%20as%20it%20was%20centuries%20ago)]{style="font-family: Verdana; mso-ansi-language: EN-US; mso-bidi-font-weight: normal"}**[]{style="font-family:Verdana;mso-ansi-language:EN-US"}**
 
+[]{style="font-family:Verdana;
+mso-ansi-language:EN-US"}
+
 [The name of the place has undergone a metamorphosis from \'Vandra\'
 (Marathi) to \'Bandora\' (Portuguese) to Bandra (English).[ 
 ]{style="mso-spacerun: yes"}Other variants were Bandor, Bandura,
@@ -91,6 +117,9 @@ mso-ansi-language:EN-US"}[[Maps]{#3.         Maps}]{style="font-family:Verdana;m
 
 [[Top of
 Page](#Bandra%20as%20it%20was%20centuries%20ago)]{style="font-family: Verdana; mso-ansi-language: EN-US; mso-bidi-font-weight: normal"}**[]{style="font-family:Verdana;mso-ansi-language:EN-US"}**
+
+[]{style="font-family:Verdana;
+mso-ansi-language:EN-US"}
 
 [When a place grows in importance and fame we say that it is being \'put
 on the map\'.[  ]{style="mso-spacerun: yes"}It is remarkable that
@@ -105,6 +134,9 @@ when we consider that few places are indicated on these maps.[   
 **[[4.[  
 ]{style="font:7.0pt \"Times New Roman\""}]{#4.         Port}]{style="font-family:Verdana;
 mso-ansi-language:EN-US"}[[Port]{#4.         Port}]{style="font-family:Verdana;mso-ansi-language:EN-US"}**
+
+[]{style="font-family:Verdana;
+mso-ansi-language:EN-US"}
 
 [[Top of
 Page](#Bandra%20as%20it%20was%20centuries%20ago)]{style="font-family: Verdana; mso-ansi-language: EN-US; mso-bidi-font-weight: normal"}
@@ -151,6 +183,9 @@ pt.2, pgs. 354 & 355.]{style="mso-ansi-language: EN-US"}
 ]{style="font:7.0pt \"Times New Roman\""}]{#5.         Town, Village and Hamlets}]{style="font-family:Verdana;
 mso-ansi-language:EN-US"}[[Town, Village and
 Hamlets]{#5.         Town, Village and Hamlets}]{style="font-family:Verdana;mso-ansi-language:EN-US"}**
+
+[]{style="font-family:Verdana;
+mso-ansi-language:EN-US"}
 
 [[Top of
 Page](#Bandra%20as%20it%20was%20centuries%20ago)]{style="font-family: Verdana; mso-ansi-language: EN-US; mso-bidi-font-weight: normal"}
@@ -264,6 +299,9 @@ Andrew's.
 ]{style="font:7.0pt \"Times New Roman\""}]{#6.         Fertile Fields}]{style="font-family:Verdana;
 mso-ansi-language:EN-US"}[[Fertile
 Fields]{#6.         Fertile Fields}]{style="font-family:Verdana;mso-ansi-language:EN-US"}**
+
+[]{style="font-family:Verdana;
+mso-ansi-language:EN-US"}
 
 [[Top of
 Page](#Bandra%20as%20it%20was%20centuries%20ago)]{style="font-family: Verdana; mso-ansi-language: EN-US; mso-bidi-font-weight: normal"}

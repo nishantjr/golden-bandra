@@ -1,3 +1,5 @@
+### Finance Committee
+
 This began as the \'Ways and Means Committe\' founded by Fr Henry
 Remedios in June 1950. The responsibilities of this committee are to
 allocate and oversee the various expenditures for routine and special

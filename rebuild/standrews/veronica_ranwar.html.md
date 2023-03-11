@@ -1,3 +1,5 @@
+![](SCCVeronicaStRanwarSq.jpg){height="100" width="550" border="0"}
+
 The 'U' Community of our parish is situated at St. Veronica Road and
 Ranwar Square. 56 families currently reside here and its Patron is St.
 Veronica.\

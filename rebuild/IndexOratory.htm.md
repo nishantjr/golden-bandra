@@ -1,6 +1,15 @@
 ![](TheOratory%20copy.jpg){border="0" width="500" height="400"}
 
-**E mail your articles on Ranwar for inclusion on this site ..**.
+  -------------------------------------------------------------------
+                         **Read About Ranwar**
+             [Background  Article on Ranwar](RanwarCB.htm)
+                 [Development Facade](XavierHouse.htm)
+   **E mail your articles on Ranwar for inclusion on this site ..**.
+  -------------------------------------------------------------------
+
+**[Proposed schedule](Oratory%20Schedule.htm)     [List of
+Ranwarites](ResidentsRanwar.htm)  **  **[Contact
+Us](mailto:RanwarOratory@goldenbandra.com)**
 
 **Please send this website URL to any friends who may be interested**
 

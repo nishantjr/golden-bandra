@@ -48,8 +48,14 @@ and was ordained in 1974. He too always wanted to be a priest.\
 \
 \
 
+------------------------------------------------------------------------
+
+::: {#Rev.Fr. Vernon Aguiar dir="LTR"}
+[]{#Rev.Fr. Vernon Aguiar|region}
+
 ![](frVernon.jpg){#Graphic1 align="LEFT" border="0"}[**\
 Rev.Fr. Vernon Aguiar**]{.underline}
+:::
 
 He is our current Parish Priest. He was originally from \"Our Lady of
 Egypt\" parish, Kalina. He has a brother who is also a priest hence he
@@ -62,6 +68,11 @@ He has been a principal of various schools in the past 22 years since
 
 As the current parish priest his vision for St.Andrews is to make the
 parish as vibrant as possible in reaching out to each and every person.
+
+------------------------------------------------------------------------
+
+::: {#FrRodney dir="LTR"}
+[]{#FrRodney|region}
 
 ![](frRodney.jpg){#Graphic2 align="LEFT" border="0"}[**\
 Rev. Fr. Rodney Esperance**]{.underline}
@@ -85,6 +96,12 @@ communities in the school.
 
 \
 \
+:::
+
+------------------------------------------------------------------------
+
+::: {#FrSanjeev}
+[]{#FrSanjeev|region}
 
 ![](frPrasad.jpg){#Graphic6 align="LEFT" border="0"}[**\
 Rev. Fr. Sanjeev Prasad**]{.underline}
@@ -113,13 +130,37 @@ speaking parishioners for their growth both mentally & spiritually.
 
 \
 \
+:::
+
+------------------------------------------------------------------------
+
+::: {#FrHillary dir="LTR"}
+[]{#FrHillary|region}
 
 ![](frHillary.jpg){#Graphic3 align="LEFT" border="0"}[**\
 Rev. Msgr. Hilary Rodrigues**]{.underline}
 
+He is originally from \"St.Anthony\'s\" parish, Vakola. He had joined
+the priesthood at a young age of 20 years. He has been in the priesthood
+for an incredibly long 50 years. Some of you may not be aware that he
+had served in our parish years ago from 1978-1981 as Parish Priest.
+It\'s great to have him back. He has been active with the \"Alcoholics
+Anonymous Group\"(AA Group). In fact he has had some very touching and
+unforgettable moments and experiences with this group which is also
+special for those who attend. One such moment was at a recent meeting
+held no May 25, 2004 at the A.A.Group (Irla) where they have thanked him
+and mentioned how grateful they are. What an unforgettable experience
+that was !!
+
 His main aim and vision for St.Andrew\'s is to consolidate the
 communities and to soon have the confidence to function as ONE BIG
 Family.
+:::
+
+------------------------------------------------------------------------
+
+::: {#FrSalvador dir="LTR"}
+[]{#FrSalvador|region}
 
 ![](frSalvador.jpg){#Graphic4 align="LEFT" border="0"}[**\
 Rev.Fr.Salvador Serrao**]{.underline}
@@ -138,6 +179,12 @@ His vision is to improve family life where he would like to stress on
 the religious as well as social aspect. Since the family is the Basic
 Unit, this is the need of the hour otherwise many families would break
 up.
+:::
+
+------------------------------------------------------------------------
+
+::: {#FrAdrian dir="LTR"}
+[]{#FrAdrian|region}
 
 ![](frAdrian.jpg){#Graphic4 align="LEFT" border="0"}[**\
 Rev.Fr. Adrian Phillips**]{.underline}
@@ -160,6 +207,12 @@ transforming society.
 
 \
 \
+:::
+
+------------------------------------------------------------------------
+
+::: {#FrBernard}
+[]{#FrBernard|region}
 
 ![](frBernard.jpg){#Graphic5 align="LEFT" border="0"}[**\
 Rev.Fr.Bernard Rodricks**]{.underline}
@@ -180,6 +233,7 @@ secretary to the former Archbishop of Bombay, Cardinal Simon Pimenta in
 
 \
 \
+:::
 
 \
 \

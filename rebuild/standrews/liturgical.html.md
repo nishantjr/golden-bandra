@@ -1,3 +1,5 @@
+### Liturgical Group
+
 The Liturgical Group is 20 years old and comprises of 8-10 members. It
 meets every alternate Monday from 6:30 p.m. onwards. If a member/members
 are unable to attend, the group is informed and a prayer is said. The

@@ -1,6 +1,17 @@
+![](XavierPlaquex.jpg){border="0" width="208" height="273"}
+
 Evidence of a Heritage\
 under Siege\
 HR
+
+![](ranwar70SMx.jpg){border="0" width="350" height="280"}
+
+**X**avier House, one of the older buildings in the heart of Ranwar,
+photographed here as it stood up until around 1999. The present
+structure was built in 1841. (The carved wooden plaque above, was
+embedded in the wall over the main entrance of the house. The IHS
+symbollises 'Christ' and below it, the three nails used to crucify
+Christ, pierce His heart symbolically).
 
  
 
@@ -42,3 +53,9 @@ changes in Bandra, is a chaotic, noisy thoroughfare with traffic jams
 occurring at bottlenecks, several times each day.
 
  
+
+![](XavDemo02Smx.jpg){border="0" width="350" height="280"}
+
+![](RanwBhatBldg1Smx.jpg){border="0" width="350" height="280"}
+
+![](QuereshiViewRanwar2SMx.jpg){border="0" width="354" height="283"}

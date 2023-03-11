@@ -12,3 +12,7 @@ Q.4 How many loaves of bread did Jesus have at the Sermon on the Mount
 Ans: Five.\
 \
 \
+
+### The correct answers were sent in by :
+
+-   Sorry. Nobody got the first answer right

@@ -1,3 +1,12 @@
+**[Back To St Andrew Home Page](indexStAndrew.htm)**
+
+### Early history   [Top]{#Top}
+
+ 
+
+![](../images/stanscaffoldout170.jpg){border="0" width="170"
+height="136"}
+
 Historical background and other Information on St Andrew Church, Bandra
 
 **[The Beginning Of The Catholic Faith In Bandra](#The%20Beginning)**
@@ -530,7 +539,15 @@ PARISH]{#CATHOLIC INSTITUTIONS  WITHIN ST. ANDREW PARISH}
 
 [Top of Page](#Top)
 
+1\.
+
+ST. ANDREW CHURCH
+
 115, Hill Road, Bandra, Mumbai 400 050
+
+E-mail : <standrew@vsnl.com>       2642-3680          
+
+2642-7840
 
 2\. Alcoholism and Drug Abuse Rehabilitation Office (Diocesan)
 2640-5405       2 643-9295
@@ -577,6 +594,14 @@ PARISH]{#CATHOLIC INSTITUTIONS  WITHIN ST. ANDREW PARISH}
 Information from various sources and archives and courtesy of Clarence
 Fernandes and Fr Larry Pereira; Information taken from the  book
 \'Bandra - the Catholic Heritage\'  in publication.
+
+ 
+
+ 
+
+ 
+
+ 
 
  
 

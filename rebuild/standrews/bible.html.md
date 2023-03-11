@@ -1,3 +1,5 @@
+### BIBLE Cell
+
 The Synod of the Archdiocese of Bombay thought that the "Archdiocesan
 Biblical Committee can strive to interest more of our lay faithful to
 read, pray and study the Bible, as well as assist them towards an

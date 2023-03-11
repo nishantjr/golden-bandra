@@ -1,3 +1,5 @@
+### Womens Cell
+
 The women's cell of St. Andrew's Church was formed on the 9^th^ of March
 2003 as per the directives laid down by the Synod.
 
@@ -7,15 +9,15 @@ The objectives of this cell are as follows:
 
 \
 
-To create an awareness among women about their rights and also the fact
-that they do not have to tolerate abuse in any form.
+-   To create an awareness among women about their rights and also the
+    fact that they do not have to tolerate abuse in any form.
 
-To create awareness that a women is not alone in her trials. The Women's
-Cell is her support group. To substantiate this, the Cell has doctors,
-counselors and lawyers, whose expertise can be called upon should the
-need arise.
+-   To create awareness that a women is not alone in her trials. The
+    Women's Cell is her support group. To substantiate this, the Cell
+    has doctors, counselors and lawyers, whose expertise can be called
+    upon should the need arise.
 
-To help women empower themselves to be financially self-sufficient.
+-   To help women empower themselves to be financially self-sufficient.
 
 \
 

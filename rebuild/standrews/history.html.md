@@ -1,4 +1,8 @@
+::: {#top dir="LTR"}
+[]{#top|region} ![](plaque.jpg){border="0"}
+
 Early history
+:::
 
 Historical background and other Information on St Andrew Church, Bandra
 
@@ -7,37 +11,41 @@ The Beginning Of The Catholic Faith In Bandra
 \
 \
 
-[Baptisms](#baptisms%7Cregion)
+1.  [Baptisms](#baptisms%7Cregion)
 
-[Church Buildings](#ChurchBldg%7Cregion)\
-a) [Santa Anna (St. Anne) Church](#SantaAnna%7Cregion)\
-b) [St. Andrew Church](#StAndrew%7Cregion)\
-c) [Other Churches](#otherChurches%7Cregion)
+2.  [Church Buildings](#ChurchBldg%7Cregion)\
+    a) [Santa Anna (St. Anne) Church](#SantaAnna%7Cregion)\
+    b) [St. Andrew Church](#StAndrew%7Cregion)\
+    c) [Other Churches](#otherChurches%7Cregion)
 
-FEATURES OF ST. ANDREW CHURCH\
-1. [The Church Building](#ChurchStructure%7Cregion)\
-2. [The Altars](#altar%7Cregion)\
-3. [The Pulpit](#pulpit%7Cregion)\
-4. [Wood Panels](#woodPanels%7Cregion)\
-5. [The Bells](#bells%7Cregion)\
-6. [An Ancient Monolithic Cross](#Cross%7Cregion)\
-7. [An Historic Statue](#statue%7Cregion)\
-8. [The Sunlight in the Church \...](#sunlight%7Cregion)\
-\
-IMPORTANT EVENTS IN THE LIFE OF THE PARISH\
-1. [The Consecration of Bandra to Christ the
-King](#Consecration%7Cregion)\
-2. [Visits of Statues of the Blessed Virgin Mary to St. Andrew
-Parish](#virginMary%7Cregion)\
-\
-\
+3.  FEATURES OF ST. ANDREW CHURCH\
+    1. [The Church Building](#ChurchStructure%7Cregion)\
+    2. [The Altars](#altar%7Cregion)\
+    3. [The Pulpit](#pulpit%7Cregion)\
+    4. [Wood Panels](#woodPanels%7Cregion)\
+    5. [The Bells](#bells%7Cregion)\
+    6. [An Ancient Monolithic Cross](#Cross%7Cregion)\
+    7. [An Historic Statue](#statue%7Cregion)\
+    8. [The Sunlight in the Church \...](#sunlight%7Cregion)\
+    \
+    IMPORTANT EVENTS IN THE LIFE OF THE PARISH\
+    1. [The Consecration of Bandra to Christ the
+    King](#Consecration%7Cregion)\
+    2. [Visits of Statues of the Blessed Virgin Mary to St. Andrew
+    Parish](#virginMary%7Cregion)\
+    \
+    \
 
-[RELIGIOUS ORDERS / CONGREGATIONS WITHIN ST. ANDREW PARISH CATHOLIC
-INSTITUTIONS WITHIN ST. ANDREW PARISH](#orgs%7Cregion)
+4.  [RELIGIOUS ORDERS / CONGREGATIONS WITHIN ST. ANDREW PARISH CATHOLIC
+    INSTITUTIONS WITHIN ST. ANDREW PARISH](#orgs%7Cregion)
 
 The Beginning Of The Catholic Faith In Bandra
 
+::: {#baptisms dir="LTR"}
+[]{#baptisms|region}
+
 1\. Baptisms
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -53,7 +61,11 @@ continued to speak their dialect of Marathi, carried on with their
 traditional occupations, dress, diet, etc. The reports of those days
 extol the faith of the Christians of Bandra.
 
+::: {#ChurchBldg dir="LTR"}
+[]{#ChurchBldg|region}
+
 2\. Church Buildings
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -68,7 +80,11 @@ for this year states that Fr. Manoel Gomes S.J. was \'in charge\'. A few
 years later, (certainly by the year 1590), it became a parish Church,
 for we are informed that Fr. Gomes is its Vicar.
 
+::: {#SantaAnna dir="LTR"}
+[]{#SantaAnna|region}
+
 a\) Santa Anna (St. Anne) Church
+:::
 
 ![](santannacolor.gif){#Graphic1 align="LEFT" width="299" height="180"
 border="0"}\
@@ -117,7 +133,11 @@ details of which can be found elsewhere on this website)
 
 b\)
 
+::: {#StAndrew dir="LTR"}
+[]{#StAndrew|region}
+
 St. Andrew Church
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -143,7 +163,11 @@ go.
 \
 \
 
+::: {#otherChurches dir="LTR"}
+[]{#otherChurches|region}
+
 c\) Other Churches
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -162,7 +186,11 @@ Paul, Chuim, Bandra, now in Khar
 \
 FEATURES OF ST. ANDREW CHURCH
 
+::: {#ChurchStructure dir="LTR"}
+[]{#ChurchStructure|region}
+
 The Church Building
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -183,7 +211,11 @@ Fernandes.
 \
 \
 
+::: {#altar dir="LTR"}
+[]{#altar|region}
+
 The Altars
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -204,7 +236,11 @@ of the Blessed Virgin Mary with Baby Jesus in her left arm.
 \
 \
 
+::: {#pulpit dir="LTR"}
+[]{#pulpit|region}
+
 The Pulpit
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -222,7 +258,11 @@ beautifully carved panels.
 \
 \
 
+::: {#woodPanels dir="LTR"}
+[]{#woodPanels|region}
+
 Wood Panels
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -242,7 +282,11 @@ panels)
 \
 \
 
+::: {#bells dir="LTR"}
+[]{#bells|region}
+
 The Bells
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -268,7 +312,11 @@ bells are now in the new north tower.
 
 (Nos. 1 - 5 are extracts from \'Andrean Panorama, 1997\')
 
+::: {#Cross dir="LTR"}
+[]{#Cross|region}
+
 An Ancient Monolithic Cross
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -291,7 +339,11 @@ where it remains till today.
 This monolithic centuries-old Cross symbolises the Catholic faith in
 Bandra.
 
+::: {#statue dir="LTR"}
+[]{#statue|region}
+
 An Historic Statue
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -330,7 +382,11 @@ need a smaller crown). Did the donor make a mistake? Was Our Lady of
 Navigators also referred to as Our Lady of the Mount? No satisfactory
 explanation has been offered for this.
 
+::: {#sunlight dir="LTR"}
+[]{#sunlight|region}
+
 The Sunlight in the Church \...
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -357,7 +413,11 @@ IN THE LIFE OF THE PARISH
 \
 \
 
+::: {#Consecration dir="LTR"}
+[]{#Consecration|region}
+
 The Consecration of Bandra to Christ the King
+:::
 
 [Top of Page](#top%7Cregion)
 
@@ -406,11 +466,17 @@ Sacrament brought the ceremony to a close.
 (Pg. 31 - 32 ; \'St. Andrew\'s Church, Bandra\'. Souvenir published in
 February 1966, on the occasion of the extension of the church)
 
+::: {#virginMary dir="LTR"}
+[]{#virginMary|region}
+
 Visits of Statues of the Blessed Virgin Mary to St. Andrew Parish
+:::
 
 [Top of Page](#top%7Cregion)
 
+::: {#fatima dir="LTR"}
 Our Lady of Fatima
+:::
 
 The visit of the statue of Our Lady of Fatima to Bandra on May 6, 1950,
 was an event of unforgettable and unsurpassed grandeur. St. Andrew High
@@ -423,7 +489,9 @@ Archdiocese, the glorious solemnity of the Pontifical High Mass, the
 edifying sermon with our silent affirmation of it, all these must surely
 have caused a downpour of graces on us below.
 
+::: {#ladyofmount dir="LTR"}
 Our Lady of the Mount
+:::
 
 Our parish was first bearing away the statue of Our Lady of the mount
 from the Shrine on 7th October, 1954 at the start of the \"Mission of
@@ -443,7 +511,13 @@ Hill.
 (Pg. 31 & 33; \'St. Andrew\'s Church, Bandra\'. Souvenir published in
 February 1966, on the occasion of the extension of the church)
 
+::: {#marynazareth dir="LTR"}
+::: {#orgs dir="LTR"}
+[]{#orgs|region}
+
 RELIGIOUS ORDERS / CONGREGATIONS WITHIN ST. ANDREW PARISH
+:::
+:::
 
 [Top of Page](#top%7Cregion)
 

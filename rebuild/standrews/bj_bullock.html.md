@@ -1,3 +1,7 @@
+![](SCCBJRoadBullockRD.jpg){height="100" width="550" border="0"}
+
+The BJ and Bullock Road
+
 The SCC of these two roads is known as the Community of St. Francis of
 Assisi. We chose him as our patron because we hope he inspires us to
 love and care for the environment as he did. 

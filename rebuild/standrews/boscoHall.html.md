@@ -1,3 +1,5 @@
+### Bosco Hall
+
 The Bosco Hall is perhaps synonomous with the Bosco Club, the
 organisation formed under the vicarship of Fr V. Dyer in 1944. The
 initial focus was to provide an environment to promote recreational

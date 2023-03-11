@@ -1,3 +1,5 @@
+### Family Cell
+
 Family Power to enrich the Parish The Family has been identified as the
 top priority in St. Andrew\'s in its mission to be a vibrant Community
 in which every member is actively involved and experiences and shares
@@ -19,6 +21,14 @@ assisting families in developing spiritual,social,  psychological
 health.  Not only by personal interaction, but also by arranging
 get-togethers of parish families and inviting recognized experts to talk
 on topics of concern to families.   Topics such as:\
+
+-    Parenting     
+-   Cementing Husband-Wife Relationships
+-   Enjoying our adolescent children
+-   Keeping romance alive in marriage
+-   The role of sex in marriage     
+-   Handling the challenges of the married state
+-   Spiritual enrichment of the family and so on?.
 
  We welcome suggestions from our families on specific areas of interest
 to them. The Andrean Family Cell is also looking for parishioners

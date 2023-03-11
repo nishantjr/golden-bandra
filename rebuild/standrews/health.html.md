@@ -1,3 +1,5 @@
+### Health Cell
+
 The Health Cell was started in January 2001 as a follow up of the Arch
 Diocesan Circular asking parishes to form health cells.
 
@@ -18,6 +20,8 @@ Gomes.
 
 \
 
+#### Aim
+
 The Vision Statement for the Health Cell is "Networking of the Holistic
 Health Model" vis a healthy mind leads to a healthy body. The Cell is
 striving to achieve its goal, starting from grass root levels to the
@@ -26,6 +30,8 @@ topics and focusing on the prevention of diseases, rather than cure and
 reaching out to the poor and needy in our Parish.
 
 \
+
+#### Programmes
 
 Yoga classes were started in our Parish a year ago. The classes are held
 in the Bosco Hall thrice a week after the 6 a.m. mass. There were the

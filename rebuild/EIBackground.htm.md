@@ -22,10 +22,12 @@ reproduced or transmitted in any form, without the author's written
 permission.
 [ ]{style="mso-spacerun: yes"}[ ]{style="font-size:12.0pt;mso-bidi-font-size:10.0pt"}
 
+::: {style="border:solid windowtext .5pt;padding:1.0pt 4.0pt 1.0pt 4.0pt"}
 [**The Bombay East
 Indians: **]{style="mso-bidi-font-size: 10.0pt; mso-bidi-font-weight: normal"}**[\
 Rediscovering the
 Roots]{style="mso-bidi-font-size: 10.0pt; color: #993300; mso-bidi-font-weight: normal"}**
+:::
 
 **By Fr Larry Pereira**
 
@@ -149,6 +151,27 @@ to Chaul in the south. In the following table the figures for Mumbai
 Island are obtained from Paulo da Trindade (I, 36) and the figures for
 the other places are obtained from the quinquennial report sent to Rome
 on the 10th May 1621.
+
+[\
+]{style="mso-bidi-font-size: 10.0pt; font-family: Times New Roman; mso-fareast-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"}\
+[Dahanu [                       
+]{style="mso-tab-count:1"}[   ]{style="mso-spacerun: yes"}500 Catholics\
+Tarapur [           ]{style="mso-tab-count:1"}[            ]{style="mso-tab-count:
+1"}[   ]{style="mso-tab-count: 1"}1,000\
+Mahim - Kelva [            ]{style="mso-tab-count:1"}[     
+]{style="mso-spacerun: yes"}600\
+Vasai (Bassein) [            ]{style="mso-tab-count:1"}25,000\
+Salsette Island [            ]{style="mso-tab-count:1"}[
+]{style="mso-tab-count: 1"}30,000  (see following section)\
+Mumbai Island [  ]{style="mso-spacerun:
+yes"}[            ]{style="mso-spacerun: yes"}5,220\
+Elephanta Island [  ]{style="mso-tab-count:1"}[           
+]{style="mso-tab-count: 1"}all the inhabitants\
+Karanja Island (Uran) [    ]{style="mso-spacerun: yes"}1,500\
+Chaul (Revdanda) [       
+]{style="mso-tab-count:1"}[1]{style="mso-tab-count: 1"}0,600\
+**Total [              ]{style="mso-tab-count:2"}[           
+]{style="mso-tab-count:1"}74,420**]{style="mso-bidi-font-size: 10.0pt"}
 
 \
 These new Christians were drawn from the following social groups:
@@ -356,6 +379,10 @@ staircases and wayside crosses.]{style="mso-bidi-font-size: 10.0pt"}
 
  
 
+[![](ranwarsquare.gif){border="0" width="200"
+height="160"}]{style="font-size:12.0pt;
+mso-bidi-font-size:10.0pt"}
+
 \
 Kotachiwadi and Matharpacadi; Pali, Rajan and Ranwar in Bandra; Amboli,
 Gundawali and Marol in Andheri; are examples of these hamlets. In fact
@@ -409,6 +436,10 @@ buildings.]{style="mso-bidi-font-size: 10.0pt"}
 
 ![](EIRanwarSkyline1.gif){border="0" width="480" height="150"}
 
+[A view of an old bungalow (built in 1841) being demolished -  another
+view of high rise apartments jostling with traditional tiled cottages on
+the Bandra skyline.]{style="mso-bidi-font-size: 10.0pt"}
+
 [d.[      ]{style="font:7.0pt \"Times New Roman\""}A typical village
 house comprised of a verandah, drawing room, hall, dining room,
 bedrooms, kitchen etc. The houses were so planned that there was a lot
@@ -441,6 +472,8 @@ the Salsette Island. ]{style="mso-bidi-font-size: 10.0pt"}[\
 \
 ]{style="font-size:12.0pt;mso-bidi-font-size:10.0pt"}
 
+## Villages and hamlets in Bandra
+
 [·[       
 ]{style="font:7.0pt \"Times New Roman\""}]{style="font-family:Symbol"}The
 following hamlets (villages) have retained their identity:
@@ -470,82 +503,42 @@ of 1672. More than fifteen hamlets were inhabited by agriculturists or
 farmers. A few were inhabited by fishermen, toddy-tappers and
 potters]{style="font-weight:normal"}*.*
 
-[ 
-]{style="font-style: normal; font-variant: normal; font-weight: normal; font-family: Times New Roman"}Aarey\
-Aldeamar (Madh)\
-Amboli\
-Andheri\
-Aniqua\
-Bamandwada\
-Bhyander\
-Borivli\
-Borla\
-Chakala
+### * *[ ]{style="mso-spacerun: yes"} Villages and hamlets in the rest of Salsette Island: [ ]{style="mso-spacerun:
+yes"}[ ]{style="font-size:12.0pt;mso-bidi-font-size:10.0pt"} {#villages-and-hamlets-in-the-rest-of-salsette-island style="text-align:justify"}
 
-Charkop\
-Chembur\
-Cherai\
-Chincholi\
-Culvem
-
-Dahisar[]{style="font-size:12.0pt;mso-bidi-font-size:10.0pt"}
-
-  Deonar\
-Dongri\
-Gorai\
-Goregaon
-
-Gundavli\
-Irla\
-Juhu\
-K'villa\
-Kalina\
-Kanjur\
-Kashi\
-Kaevni\
-Kandivli\
-Kanheri\
-Kharodi\
-Kirol[]{style="font-size:12.0pt;mso-bidi-font-size:10.0pt"}
-
- [       
-]{style="font-style: normal; font-variant: normal; font-weight: normal; font-size: 7.0pt; font-family: Times New Roman"}Kurla\
-Magatana\
-Majiwada\
-Malwani\
-Mani\
-Manori
-
-Marol\
-Marouli
-
-Marve\
-Mira\
-Mulgaon (Andheri)\
-Orlem\
-Oshiwara\
-Pahadi\
-Pali (Uttan)\
-Parla[]{style="font-size:12.0pt;mso-bidi-font-size:10.0pt"}
-
-[       
-]{style="font-style: normal; font-variant: normal; font-weight: normal; font-family: Times New Roman; mso-bidi-font-size: 10.0pt"}Poinsur\
-Pond\
-Rathodi\
-Sahar\
-Simpor\
-Sion\
-Taroti\
-Trombay\
-Uttan\
-Vakola\
-Varoli\
-Versova\
-Vikhroli\
-Erangal\
-\
-\
-[]{style="font-size:12.0pt;mso-bidi-font-size:10.0pt"}
++-----------------+-----------------+-----------------+-----------------+
+| [               |   Deonar\       |  [              | [               |
+| ]{s             | Dongri\         | ]{styl          | ]{s             |
+| tyle="font-styl | Gorai\          | e="font-style:  | tyle="font-styl |
+| e: normal; font | Goregaon        | normal; font-va | e: normal; font |
+| -variant: norma |                 | riant: normal;  | -variant: norma |
+| l; font-weight: | Gundavli\       | font-weight: no | l; font-weight: |
+|  normal; font-f | Irla\           | rmal; font-size |  normal; font-f |
+| amily: Times Ne | Juhu\           | : 7.0pt; font-f | amily: Times Ne |
+| w Roman"}Aarey\ | K'villa\        | amily: Times Ne | w Roman; mso-bi |
+| Aldeamar        | Kalina\         | w Roman"}Kurla\ | di-font-size: 1 |
+| (Madh)\         | Kanjur\         | Magatana\       | 0.0pt"}Poinsur\ |
+| Amboli\         | Kashi\          | Majiwada\       | Pond\           |
+| Andheri\        | Kaevni\         | Malwani\        | Rathodi\        |
+| Aniqua\         | Kandivli\       | Mani\           | Sahar\          |
+| Bamandwada\     | Kanheri\        | Manori          | Simpor\         |
+| Bhyander\       | Kharodi\        |                 | Sion\           |
+| Borivli\        | Kirol[]{style=  | Marol\          | Taroti\         |
+| Borla\          | "font-size:12.0 | Marouli         | Trombay\        |
+| Chakala         | pt;mso-bidi-fon |                 | Uttan\          |
+|                 | t-size:10.0pt"} | Marve\          | Vakola\         |
+| Charkop\        |                 | Mira\           | Varoli\         |
+| Chembur\        |                 | Mulgaon         | Versova\        |
+| Cherai\         |                 | (Andheri)\      | Vikhroli\       |
+| Chincholi\      |                 | Orlem\          | Erangal\        |
+| Culvem          |                 | Oshiwara\       | \               |
+|                 |                 | Pahadi\         | \               |
+| D               |                 | Pali (Uttan)\   | []{style=       |
+| ahisar[]{style= |                 | Parla[]{style=  | "font-size:12.0 |
+| "font-size:12.0 |                 | "font-size:12.0 | pt;mso-bidi-fon |
+| pt;mso-bidi-fon |                 | pt;mso-bidi-fon | t-size:10.0pt"} |
+| t-size:10.0pt"} |                 | t-size:10.0pt"} |                 |
++-----------------+-----------------+-----------------+-----------------+
 
 [[ ]{style="mso-spacerun: yes"}\
 **7. Customs**]{style="font-size:12.0pt;mso-bidi-font-size:10.0pt"}
@@ -694,6 +687,8 @@ Town\
 Planning schemes etc, have come up on the rice fields of the villagers
 of\
 Pali, Malla, Kantwadi, Ranwar, etc.
+
+ 
 
 **[V[  ]{style="mso-spacerun: yes"}[       ]{style="mso-tab-count:1"}A
 discussion on the designation \'East Indian\' ]{.smallcaps}**

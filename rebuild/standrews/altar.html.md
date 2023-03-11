@@ -1,12 +1,6 @@
+### 
+
 Altar Servers
-
-![](altarboys.jpg){#Graphic1 align="LEFT" width="200" height="209"
-border="0"}\
-\
-
-![](altarboys2.jpg){#Graphic2 align="LEFT" width="200" height="204"
-border="0"}\
-\
 
 Down the years the Altar Servers have provided dedicated service during
 the various church services. This group reached special heights under

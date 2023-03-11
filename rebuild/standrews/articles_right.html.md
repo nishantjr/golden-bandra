@@ -1,3 +1,5 @@
+### Articles Contributed
+
 We welcome articles from parishioners and people connected with St
 Andrew's Parish. These can be any appropriate articles of interest to
 the Parish, - preferably connected with people, matters and events in

@@ -1,3 +1,6 @@
+::: Section1
+### The Andrean Notes (July 2004)
+
 **[Introducing our Parish
 Priest]{style="font-size:11.0pt;font-family:Verdana"}**
 
@@ -93,6 +96,11 @@ yes"}[    ]{style="mso-spacerun:
 yes"}[                       ]{style="mso-spacerun: yes"}[ ]{style="mso-spacerun: yes"}As
 told to Maria D'souza.]{style="font-size:11.0pt;
 font-family:Verdana"}
+
+**[\
+]{style="font-size:11.0pt;font-family:Verdana;mso-fareast-font-family:
+\"Times New Roman\";mso-bidi-font-family:\"Times New Roman\";mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"}**
 
 [Parents' Day]{style="font-size:11.0pt;
 font-family:Verdana;color:black"}
@@ -193,6 +201,17 @@ aspirations and hopes.[  ]{style="mso-spacerun: yes"}May St. Joachim and
 St. Anne confer their special blessings on them to engage with their
 children in mutually satisfying relationships.
 ]{style="font-size:11.0pt;font-family:Verdana"}
+
+# [ ]{style="font-size:11.0pt;
+font-family:Verdana;text-decoration:none;text-underline:none"} {#section align="right" style="text-align:right"}
+
+# [Editorial Team]{style="font-size:11.0pt;
+font-family:Verdana;text-decoration:none;text-underline:none"} {#editorial-team align="right" style="text-align:right"}
+
+[\
+]{style="font-size:11.0pt;font-family:Verdana;mso-fareast-font-family:\"Times New Roman\";
+mso-bidi-font-family:\"Times New Roman\";display:none;mso-hide:all;mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"}
 
 [[DUTIES OF THE PRIESTS OF THE
 PARISH]{style="font-size:11.0pt;font-family:Verdana"}]{.underline}
@@ -552,6 +571,13 @@ font-family:Verdana"}
 font-family:Verdana"}**[ ]{style="font-size:11.0pt;font-family:
 Verdana"}**
 
+# [Family Cell]{style="font-size:11.0pt;font-family:Verdana;
+text-decoration:none;text-underline:none"} {#family-cell style="text-align:justify"}
+
+# [ ]{style="font-size:11.0pt;font-family:Verdana"} {#section-1 style="text-align:justify"}
+
+# [Developing Closer Relationship with our Adolescents]{style="font-size:11.0pt;font-family:Verdana"} {#developing-closer-relationship-with-our-adolescents style="text-align:justify"}
+
 [ ]{style="font-size:11.0pt;
 font-family:Verdana"}
 
@@ -773,6 +799,9 @@ child's slate, someone else will write!]{.underline}[ 
 yes"}]{style="font-size:11.0pt;
 font-family:Verdana"}
 
+### [Of course, you should check your child for drug usage: drowsiness, glazed eyes, long hours in the bathroom.]{style="font-size:11.0pt;font-family:Verdana;
+font-weight:normal"} {#of-course-you-should-check-your-child-for-drug-usage-drowsiness-glazed-eyes-long-hours-in-the-bathroom. style="text-align:justify"}
+
 [[ ]{style="font-size:11.0pt;
 font-family:Verdana"}]{.underline}
 
@@ -823,6 +852,9 @@ them about the power that they have within themselves. Externals will
 not be needed when they become aware of who lives within
 them.]{style="font-size:11.0pt;
 font-family:Verdana"}
+
+## [Relating to Girlfriends/Boyfriends]{style="font-size:11.0pt;font-family:Verdana;
+font-style:normal"} {#relating-to-girlfriendsboyfriends style="text-align:justify"}
 
 [[ ]{style="font-size:11.0pt;
 font-family:Verdana"}]{.underline}
@@ -1024,6 +1056,11 @@ font-family:Verdana"}
 [ ]{style="font-size:11.0pt;
 font-family:Verdana"}
 
+[\
+]{style="font-size:11.0pt;font-family:Verdana;mso-fareast-font-family:\"Times New Roman\";
+mso-bidi-font-family:\"Times New Roman\";mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA"}
+
 [Community Concerns]{style="font-size:11.0pt;font-family:Verdana"}
 
 [ ]{style="font-size:11.0pt;
@@ -1084,8 +1121,14 @@ recited at the grotto of one of the buildings followed by a get-together
 thereafter.]{style="font-size:11.0pt;
 font-family:Verdana"}
 
+# [ ]{style="font-size:11.0pt;font-family:Verdana"} {#section-2 style="text-align:justify"}
+
 [Melody]{style="font-size:11.0pt;
 font-family:Verdana"}
+
+# [ ]{style="font-size:11.0pt;font-family:Verdana"} [ ]{style="font-size:11.0pt;font-family:Verdana;mso-fareast-font-family:\"Times New Roman\";
+mso-bidi-font-family:\"Times New Roman\";mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA"} {#section-3 style="text-align:justify"}
 
 [THE BANDRA DEANERY TRAINING SERIES]{style="font-size:11.0pt;
 font-family:Verdana"}
@@ -1204,6 +1247,17 @@ font-family:Verdana"}
 [ ]{style="font-size:11.0pt;
 font-family:Verdana"}
 
+[[\
+]{style="font-size:11.0pt;font-family:Verdana;mso-fareast-font-family:
+\"Times New Roman\";mso-bidi-font-family:\"Times New Roman\";mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"}]{.underline}
+
+# [GOSPEL PASSAGE FOR SMALL CHRISTIAN COMMUNITIES ]{style="font-size:10.0pt;font-family:Verdana;
+text-decoration:none;text-underline:none"} {#gospel-passage-for-small-christian-communities style="text-align:justify"}
+
+# [FOR THE MONTH OF July 2004]{style="font-size:10.0pt;font-family:Verdana;
+text-decoration:none;text-underline:none"} {#for-the-month-of-july-2004 style="text-align:justify"}
+
 [ ]{style="font-size:10.0pt"}
 
 [ ]{style="font-size:10.0pt"}
@@ -1321,6 +1375,16 @@ people of other faiths? ]{style="font-size:10.0pt;font-family:Verdana"}
 
 [ ]{style="font-size:10.0pt;font-family:Verdana"}
 
+[[\
+]{style="font-size:11.0pt;font-family:Verdana;mso-fareast-font-family:
+\"Times New Roman\";mso-bidi-font-family:\"Times New Roman\";mso-ansi-language:
+EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA"}]{.underline}
+
+#  []{style="font-size:11.0pt;font-family:Verdana"} {#section-4 style="text-align:justify"}
+
+# [Couples for Christ[]{style="mso-bidi-font-weight:bold"}]{style="font-size:11.0pt;font-family:Verdana;
+text-decoration:none;text-underline:none"} {#couples-for-christ style="text-align:justify"}
+
 [[[  
 ]{style="mso-spacerun: yes"}]{style="font-size:11.0pt;font-family:Verdana"}]{.underline}
 
@@ -1419,11 +1483,17 @@ yes"}]{style="font-size:11.0pt;font-family:Verdana"}[[\
 ]{style="display:none;mso-hide:all"}]{style="font-size:11.0pt;
 font-family:Verdana"}
 
+[\
+]{style="font-size:11.0pt;font-family:Verdana;mso-fareast-font-family:\"Times New Roman\";
+mso-bidi-font-family:\"Times New Roman\";mso-ansi-language:EN-US;mso-fareast-language:
+EN-US;mso-bidi-language:AR-SA"}
+
 **[[ST. ANDREW'S HIGH SCHOOL S.S.C.
 RESULTS]{style="font-size:14.0pt"}]{.underline}**
 
  
 
+::: {align="center"}
 **TOTAL NO. APPEARED**
 
 115
@@ -1435,6 +1505,7 @@ RESULTS]{style="font-size:14.0pt"}]{.underline}**
 **PERCENTAGE**
 
 93.91%
+:::
 
  
 
@@ -1486,3 +1557,4 @@ COMMERCE]{style="font-size:14.0pt"}]{.underline}**
 
 [ ]{style="font-size:11.0pt;
 font-family:Verdana"}
+:::

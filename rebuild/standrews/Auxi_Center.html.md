@@ -1,3 +1,7 @@
+### Auxilium Centre
+
+#### Domestics In Development Interventions -- DIDI
+
 The Salesian Sisters of Don Bosco established the Auxilium Centre in
 Bandra in the year 1988. With our presence over here and or
 understanding if the neighborhood we have realized that there are a
@@ -10,6 +14,8 @@ assisting these girls to finds a secure and safe employment.
 
 \
 
+#### Self-Help Affinity Groups (SAGs)
+
 We also have Self-help Affinity Groups. A SAG is generally small,
 homogenous and related by affinity. It is a group whose members use
 Savings, Credit and Social involvement as instruments of empowerment.
@@ -19,6 +25,8 @@ Savings, Credit and Social involvement as instruments of empowerment.
 We are following the MYRDA System. (Mysore Resettlement and Development
 Agency). They are working not only in India but also in other parts of
 the world.
+
+#### Objectives Of SAGs
 
 To organize poor families and bring them into Institution.
 
@@ -43,6 +51,8 @@ To enhance their leadership qualities.
 To make them utilize locally available resources.
 
 \
+
+#### SAGs - What do they do?
 
 They meet every week, take decisions at meetings, manage credit,
 identify poor and priority to poorest to meet their needs, initiate

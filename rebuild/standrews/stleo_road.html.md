@@ -1,3 +1,7 @@
+![](SCCStLeoRd.jpg){height="100" width="550" border="0"}
+
+St. Leo\'s Road
+
 The S.C.C. of St. Leo Road is fairly large, consisting of about 70
 families. It is an extremely close-knit community. This community named
 after the road it is located on, which is also it\'s patron saint. The

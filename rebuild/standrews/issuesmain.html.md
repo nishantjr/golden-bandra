@@ -1,3 +1,5 @@
+### ISSUES
+
 In any parish there are always matters on which different people have
 different opinions. This page offers several topics about which we
 invite discussion. Your suggestions can make a difference so please let

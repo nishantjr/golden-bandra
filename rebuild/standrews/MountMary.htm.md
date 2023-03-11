@@ -1,3 +1,9 @@
+## Come September \... it\'s the Feast of Mary, and especially celebrated at the Basilica of Mount Mary, Bandra\...  
+
+## We have reproduced several accounts detailing the history, architecture, significance, changes and more \... that relate to this important landmark, beloved to Bandra. 
+
+## This section takes on special significance on account of the fact that 2004 marks the centenary of the rebuilding of the Basilica.
+
 [![](mtmary193100CDR.jpg){border="0" width="100"
 height="125"}](mtmary_pic1.html){target="_blank"}
 [![](mtmaryshamianaSM.jpg){border="0" width="100"
@@ -5,6 +11,8 @@ height="125"}](mtmary_pic2.html){target="_blank"}  
 
 We will be posting more pictorials here as the days go by \.... Click to
 enlarge and enjoy the ambience of the season.
+
+# Our Lady of The Mount 
 
 Ever since the air of Galilee thrilled to the exultant strains of Mary's
 Magnificat\..."\...and behold from henceforth all generations shall call
@@ -35,6 +43,8 @@ An "AVE ! " wells from all her crew. Abide, Dear Mother; to the happy
 paean hark. Accept this garland of our loves-a mark Of thankful hearts.
 To thee we confide This little bark. And stoutly did she ride The loud
 outrageous gale and tempest dark. R.A. Pires. \
+
+# The Hermitage on the Hill
 
 It all started over four hundred years ago, when Bandra was just a few
 scattered villages\...\
@@ -80,6 +90,8 @@ Bandra-no more than six thousand odd in those days:-had come into the
 catholic fold. In 1940 the "hermitage" was enlarged into a chapel. That
 same year also the fort was built.-Now the chapel could also serve the
 Portuguese garrison manning the fort. \
+
+# Mother on the Mount
 
 In a Jesuit report of 1669 we read that-surprisingly though it may
 sound-" The hermitage of Our Lady of the Mount depended on the church of
@@ -133,6 +145,8 @@ testimony of the efficacy of Our Lady's help and protection.
 Non-christians call her affectionately "Moti Mauli" or "Mothu Mauli",
 Mother of Pearls or else "Monte Mauli", Mother on the Mount.\
 
+# The Grateful Parsi Baronet
+
 It is little known perhaps, that in the beginning of the 19th century
 two famous non-christian Bombayites have been the recipients of a
 special favour and that, as a result thereof, the first Causeway was
@@ -168,6 +182,8 @@ top. They are known as the Bomonjee steps.- A tablet indicates the year
 1879.\
 Of all the members of the Baronet's family, Lady Phirozbaj alone lived
 to be seventy-two.\
+
+# The Basilica - \"Angelus in Stone\"
 
 The fourth and latest innovation of the shrine was made in 1904: the
 year which happily marked the golden jubilee of the Declaration of the
@@ -215,6 +231,8 @@ all counting, taken from all peoples and languages" of India "cried
 blessing and glory and wisdom and thanksgiving and honour and power and
 strength through endless ages to God" and his immaculate mother.\
 
+# The Highest Honour
+
 Concluding our walk through history, the year 1964 brought the highest
 honour to the shrine: the visit of the Supreme Pontiff Pope Paul VI.\
 The Holy Father's visit to India had been occasioned by the 38th
@@ -245,6 +263,8 @@ naught the designs of pride, of violence and despotism: May he rather
 inspire thoughts of peace in all: the statesmen and military commanders,
 those who influence public opinion; all peoples and their rulers."\
 His Holiness had spent about twenty minutes at the Mount.\
+
+# The Annual Fair Today
 
 Once every year, during eight days from the feast of the Nativity of Our
 Lady ( 8 Sept. ), the giant wheels turn. If the 8th September does not
@@ -314,6 +334,8 @@ presenting the highest degree of communal concord. \
 Unless the great trust and confidence shown by the people has been
 generously answered over years md centuries, the devotion to Our Lady of
 the Mount remains a puzzle. \
+
+# A Hundred years ago - The Bombardier 
 
 An interesting intermezzo concerning the nine devotional days, preceding
 the external celebration of the feast, turns the clock of time hundred

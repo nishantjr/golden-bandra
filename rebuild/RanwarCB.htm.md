@@ -6,6 +6,21 @@ Clarence Fernandes, Herman Rodrigues, Denis Rodrigues
 This article has been written for the Celebrate Bandra \'05 festival
 held in Bandra in November 2005.
 
+ 
+
+Navigating the permanent traffic jam that is Hill Road today, visitors
+to Bandra might be tempted to escape life-and-limb threatening traffic
+by using a sleepy, narrow *gully* called Langrana Lane that takes off to
+the south of 'Hill Road' near the Holy Family Hospital. And if they did
+so, they would suddenly find themselves in a different world. Old style
+cottages and double storeyed buildings with red 'Mangalore' tiles on
+their roofs, along a narrow road that seems to wind erratically to dodge
+the houses located haphazardly, without apparent rhyme or reason. This
+is Ranwar, one of the original 24 *pakhadis* that made up Bandra since
+the earliest documented history in early 1700s. And it has managed to
+retain its village character even as present-day 'development' has
+hemmed it in on all sides.
+
 ![](Kshitj6RanwarXLowRes.jpg){border="0" width="550" height="440"}
 
 Ranwar today - the white arrows in the picture above, point to sections
@@ -13,6 +28,20 @@ of the village along Veronica Street - is slowly being enveloped in the
 surrounding concrete and steel high-rise apartments, today's
 depersonalised housing units that are the antithesis of the red-tiled,
 spacious bungalows with little gardens and open verandas.
+
+Ranwar today, is the confusion of houses adjoining a central street,
+Veronica Street. This narrow lane meanders from Waroda Road in the
+north, roughly in a southward direction, barely a quarter of a kilometer
+in length and emerges in the St. Sebastian's Housing Scheme, which in
+turn abuts on the Bandra Reclamation. The street itself was probably
+named around 1906-07, when a prominent resident of Ranwar, Peter
+Pereira, was municipal councillor in what was then the Bandra
+Municipality. The reason it is called Veronica Street relates to a
+traditional Christian tableau held in the season of Lent during Passion
+Week, depicting the events surrounding the death of Jesus. In those
+days, a girl playing the role of Veronica, one of the followers of
+Christ, was formally dressed in a house in Ranwar and carried on a
+palanquin in procession to St Andrew Church.
 
 During the solemn procession, when Christ carried his cross to Calvary,
 there was an annual re-enactment of the scene that took place about 2000

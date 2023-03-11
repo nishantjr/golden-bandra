@@ -1,3 +1,8 @@
+::: {align="left"}
+**[An alphabetical listing\
+is below the map]{#An alphabetical listing is below the map}**
+:::
+
 ![](SCCMap.jpg){width="900" height="631" border="0" usemap="#map"}
 
 **[SCC]{#SCCTableHead}**
