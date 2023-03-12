@@ -3,20 +3,17 @@ title: "The Bombay East Indians: Rediscovering the Roots"
 author: "Fr. Larry Pereira"
 ---
 
-![ ... the villages gradually became congested because when there was
-a need for additional accommodation new houses were built on any open
-space in the village in a haphazard
-manner.
+            ![ ... the villages gradually became congested because when there was
+            a need for additional accommodation new houses were built on any open
+            space in the village in a haphazard
+            manner.
 
-Gradually tall buildings
-and *chawls* sprung up on the outskirts of a village.
+            Gradually tall buildings
+            and *chawls* sprung up on the outskirts of a village.
 
- (A rooftop view of Ranwar Village)
-](ranwar5.gif)
+             (A rooftop view of Ranwar Village)
+            ](ranwar5.gif)
 
-
-Introduction
-============
 
 The 'Bombay East Indians' are the descendants of the thousands of
 indigenous, Marathi-speaking people of Mumbai (Bombay) and its environs
@@ -33,7 +30,7 @@ Golden Jubilee of Queen Victoria (1887) by the leaders of the community
 and the 'Bombay East Indian Association' was established on the 26th May
 of the same year.
 
-The Origin of the community
+The Origin of the Community
 ===========================
 
 Maharashtra is one of the few states in India that has the distinction
@@ -573,7 +570,6 @@ villagers of Kalina, Vakola, Sahar etc. In Bandra, housing colonies,
 Town Planning schemes etc, have come up on the rice fields of the villagers
 of Pali, Malla, Kantwadi, Ranwar, etc.
 
- 
 A discussion on the designation 'East Indian'
 =============================================
 
