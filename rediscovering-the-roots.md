@@ -18,7 +18,7 @@ and *chawls* sprung up on the outskirts of a village.
 Introduction
 ============
 
-[The 'Bombay East Indians' are the descendants of the thousands of
+The 'Bombay East Indians' are the descendants of the thousands of
 indigenous, Marathi-speaking people of Mumbai (Bombay) and its environs
 who embraced the Catholic faith, mainly in the period 1547 to 1600.
 Though drawn from diverse social groups, they developed a 'consciousness
