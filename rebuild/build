@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+set -euo pipefail
+cd "$(dirname "$0")"
+
+src_prefix=../archive/
+IFS=$'\n'
+files=($(cd "$src_prefix"; find -name '*.htm*'))
+for f in  "${files[@]}"; do
+    mkdir -p ."$(dirname $f)"
+    echo "$f"
+    pandoc -f html -t markdown "$src_prefix"/"$f" --filter pandoc-filter -o "${f}".md
+done
