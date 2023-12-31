@@ -163,14 +163,14 @@ appear for their matriculation, went to Bombay.
 Agriculture for many was no longer the main livelihood and this was
 fortunate because there was now need for alternate use of the land.
 
-![A pestilence was recorded in Bandra in 1700, which severely affected
+![](images/BandraMapOldLow72.jpg)
+
+A pestilence was recorded in Bandra in 1700, which severely affected
 cultivation. Later in the nineteenth century epidemics of typhoid,
 cholera etc are known to have afflicted Bandra. The old villages, with
 the houses crowded together were death traps. In the closing years of
 the nineteenth century, the bubonic plague killed hundreds of
 inhabitants.
-](images/BandraMapOldLow72.jpg)
-
 
 Detailed records of Catholic victims are preserved in the registers of
 the churches of St Andrew, St Peter and Mount Carmel. Whenever the
