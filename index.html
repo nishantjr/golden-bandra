@@ -49,7 +49,7 @@
         font-size: 0.9em;
         padding: 1em;
       }
-      header.h1 {
+      h1 {
         font-size: 1.8em;
       }
       nav {
@@ -70,6 +70,18 @@
       h2, h3, h4 {
         page-break-after: avoid;
       }
+    }
+
+    body {counter-reset:section;}
+    h1 {counter-reset:subsection;}
+    h1:before {
+        counter-increment:section;
+        content: counter(section) " ";
+        font-weight:bold;
+    }
+    h2:before {
+        counter-increment:subsection;
+        content:counter(section) "." counter(subsection) " ";
     }
 
     p {
