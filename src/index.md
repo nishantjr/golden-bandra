@@ -10,4 +10,4 @@ but instead on making the content available and accessible for the modern web.
 Pages:
 
 - [The Bombay East Indians: Rediscovering the roots](./rediscovering-the-roots.html), by Fr. Larry Pereira
-- [Rustic Ranwar](./ranwar.md), by Clarence Fernandes, Herman Rodrigues, and Denis Rodrigues
+- [Rustic Ranwar](./ranwar.html), by Clarence Fernandes, Herman Rodrigues, and Denis Rodrigues
