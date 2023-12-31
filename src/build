@@ -3,7 +3,8 @@
 cd "$(dirname $0)"
 
 generate-md() {
-    pandoc -t html --standalone --template template.pandoc --toc "$@" \
+    pandoc -t html \
+           --standalone --template template.pandoc --toc "$@" \
            --toc-depth 1
 }
 

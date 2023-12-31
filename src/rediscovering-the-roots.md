@@ -3,16 +3,12 @@ title: "The Bombay East Indians: Rediscovering the Roots"
 author: "Fr. Larry Pereira"
 ---
 
-            ![ ... the villages gradually became congested because when there was
-            a need for additional accommodation new houses were built on any open
-            space in the village in a haphazard
-            manner.
-
-            Gradually tall buildings
-            and *chawls* sprung up on the outskirts of a village.
-
-             (A rooftop view of Ranwar Village)
-            ](ranwar5.gif)
+![ ... the villages gradually became congested because when there was
+a need for additional accommodation new houses were built on any open
+space in the village in a haphazard manner.
+Gradually tall buildings and *chawls* sprung up on the outskirts of a village.
+(A rooftop view of Ranwar Village)
+](ranwar5.gif)
 
 
 The 'Bombay East Indians' are the descendants of the thousands of
@@ -29,6 +25,7 @@ The designation 'Bombay East Indian' was adopted on the occasion of the
 Golden Jubilee of Queen Victoria (1887) by the leaders of the community
 and the 'Bombay East Indian Association' was established on the 26th May
 of the same year.
+
 
 The Origin of the Community
 ===========================
@@ -290,12 +287,12 @@ by its narrow winding lanes, quaint houses with out-door wooden
 staircases and wayside crosses.
 
  
-![](ranwarsquare.gif)]
-Kotachiwadi and Matharpacadi; Pali, Rajan and Ranwar in Bandra; Amboli,
+![Kotachiwadi and Matharpacadi; Pali, Rajan and Ranwar in Bandra; Amboli,
 Gundawali and Marol in Andheri; are examples of these hamlets. In fact
 our international and domestic airport is built on the rice-fields of
 the agriculturists of some of the surrounding East Indian villages.
 (Clockwise): Kalina, Vakola, Vile Parle, Sahar, Marol and Kurla.
+](ranwarsquare.gif)
 
 The layout and houses in an East Indian Village depends on the
 occupational group that lives in it. Accordingly there is a difference
