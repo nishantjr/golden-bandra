@@ -3,12 +3,12 @@ title: "The Bombay East Indians: Rediscovering the Roots"
 author: "Fr. Larry Pereira"
 ---
 
-![ ... the villages gradually became congested because when there was
+![The villages gradually became congested because when there was
 a need for additional accommodation new houses were built on any open
 space in the village in a haphazard manner.
-Gradually tall buildings and *chawls* sprung up on the outskirts of a village.
+Gradually tall buildings and chawls sprung up on the outskirts of a village.
 (A rooftop view of Ranwar Village)
-](ranwar5.gif)
+](images/ranwar5.jpg)
 
 
 The 'Bombay East Indians' are the descendants of the thousands of
