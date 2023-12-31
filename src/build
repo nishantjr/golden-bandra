@@ -15,4 +15,5 @@ copy-images() {
 
 generate-md index.md -o ../index.html
 generate-md rediscovering-the-roots.md -o ../rediscovering-the-roots.html
+generate-md ranwar.md -o ../ranwar.html
 copy-images
