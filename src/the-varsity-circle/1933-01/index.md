@@ -15,9 +15,9 @@ January 1933
 
 ## The Varsity Circle
  
-| "The road to hell is paved with good intentions", and
+|       "The road to hell is paved with good intentions", and
 | the road to heaven too must necessarily be, with this little distinction however, that
-| whereas in the first case the sesolutions are broken, in the second they are kept.
+| whereas in the first case the resolutions are broken, in the second they are kept.
 | We are now in the New Year and what more natural than that glancing back
 | at its past life the V.C should repent of it's past sins and resolve to do better
 | in future. Yes, we are going to make good resolutions -- a whole string of
@@ -25,7 +25,7 @@ January 1933
 | not we are heading for heaven -- or the other place, will depend largely on
 | how faithfully our readers and contributors carry out the resolutions.
 |
-| For one thing we'll resolve to have a Readers Number
+|       For one thing we'll resolve to have a Readers Number
 | next March -- the anniversary of our last Readers Number,-- which will
 | contain  contributions by readers only. Readers will therefore kindly arrange
 | matters so that they will be "in a mood" to write as soon as feasible, and
@@ -36,16 +36,16 @@ January 1933
 | resolution is born of another resolution of ours to give the Rambler and
 | other V.C contributors an annual holiday.
 |
-| Our  next resolution for readers is that they do a little
+|   Our next resolution for readers is that they do a little
 | spring cleaning occasionally and see if they cannot trace some of our back
-| numbers. There are quite a number of thiese on the missing list by now,
+| numbers. There are quite a number of these on the missing list by now,
 
 ![Page  5](./05.jpg)
 
 | and unless matters improve soon we will be constrained however reluctantly
 | to rally together our V.C sleuths from all other directions and put them on
 | the job. We have not yet got a complete list of the missing magazines, but we
-| hope to within a month. Perhaps before that time sone of our readers will
+| hope to within a month. Perhaps before that time some of our readers will
 | think of dusting their book shelves, and start making discoveries.
 |
 | Our third resolution will be for V.C contributors, and
@@ -79,7 +79,7 @@ January 1933
 | where. But we shall consider in this short article (it has got to be short, because
 | I have not much to say) the different manners in which people enjoy each others
 | company. I have yet to come across the man who can part with me without
-| lingering, not that I am very plesant company, but I have such a knack of
+| lingering, not that I am very pleasant company, but I have such a knack of
 | sticking on to people that they cannot but stay on. I usually chat longer than is
 | necessary and when I get up to go, I always expect my host to accompany me to
 | the door; and at the door usually some topic of the other crops up and we fall
@@ -87,7 +87,7 @@ January 1933
 | and at that place we again make station until in the end he actually tears
 | away from me or I from him (This latter of course is very rare).
 |
-| Often times I go to a friend and declare most solemly
+| Often times I go to a friend and declare most solemnly
 | that I must leave him in half an hour; but that half hour passes and yet I can-
 | not part, for, if the company is interesting  I like to stay on, and if it is not, then
 | I would like to make it pleasant before I leave it. Thus I often stay on and make
@@ -105,17 +105,17 @@ January 1933
 
 ![Page  7](./07.jpg)
 
-| well come dripping wet to class in the hope of a holidy. Once such a boy
+| well come dripping wet to class in the hope of a holiday. Once such a boy
 | was asked why he had not used his umbrella and he replied that he wanted
 | to defy the rain; so the teacher asked him to defy the wet clothes and stay on.
 | But let us come to regard the most interesting subject in the
 | world, woman (the subject is an interesting one for men, of course). There
 | was a certain gentleman of my acquaintance who used to pass on his
 | books one after another to his sweet-heart  (who of did not recognise him
-| to hld the same reciprocal relation to herself), and when asked his
+| to hold the same reciprocal relation to herself), and when asked his
 | reason for doing so, replied that he wanted his books to be consecrated by
-| her touch. I cannot end this series of jokes bettern than by telling you that
-| the philosopher has been defined as a blind aman in a dark room, trying
+| her touch. I cannot end this series of jokes better than by telling you that
+| the philosopher has been defined as a blind man in a dark room, trying
 | to find a black cat is not there!
 |
 |                                               The Rambler.
@@ -130,7 +130,7 @@ January 1933
 |
 | ---
 |
-| "There is too much love in fiction" says a litary critic. Judging by the
+| "There is too much love in fiction" says a literary critic. Judging by the
 | large number of breach-of-promise cases, the reverse is also true.
 |
 | ---
@@ -143,26 +143,26 @@ January 1933
 
 # OUR DIARY 
 
-|                                 Friday 1st January 1932
+|   Friday 1st January 1932
 |
-| So, the new year has come at last. What has it in store
+|   So, the new year has come at last. What has it in store
 | for us? Time alone will reveal. Perhaps it will usher in a period of renewed
 | prosperity; perhaps on the other hand it will only accentuate the misery
 | and suffering of the past year.
 |
-| Times are indeed bad! The past few years have been lean
+|   Times are indeed bad! The past few years have been lean
 | years for all, every succeeding year worse than the other. Will this year be another
 | in the chain of bad ones, will it be yet another, yea, and a worse phase of the hard
 | times which have been so persistently dogging our very footsteps, or will it be one
 | that will break the string and stand out as the turning point in the fortunes of the
-| world. Prosporous times will not visit one nations and pass over another. It goes againt
+| world. Prosperous times will not visit one nations and pass over another. It goes against
 | the very grain of things, -- against the law of nature for we are so dependant upon one
-| another for the necessities of life that ther can be no prosperity, except it be
-| general. Treaties and pacts may be made ad.libitum, tarrif walls may be build as
-| high as ever, yet ther is a lay governing these things which will last for ever - a law
-| which in it's own good time will effect an adjustment in the affairs of men and ^[of] nations
+| another for the necessities of life that there can be no prosperity, except it be
+| general. Treaties and pacts may be made ad libitum, tariff walls may be build as
+| high as ever, yet there is a lay governing these things which will last for ever - a law
+| which in it's own good time will effect an adjustment in the affairs of men and of nations
 |
-| I'm not thinking of socialism, nor do I vision a common -
+|   I'm not thinking of socialism, nor do I vision a common -
 | wealth of nations. No, nations will retain their identity as long as the people that go
 | to make them retain their individuality. There is no need for an amalgamation of the
 | world for world peace and prosperity.  The trouble today is that we are all suffering
@@ -203,7 +203,7 @@ So They Say
 | ---
 |
 | The January 1st Number of the 'Standard' was not out until after
-| the 15th of the month. If this state of affairs continues the V.C wil be
+| the 15th of the month. If this state of affairs continues the V.C will be
 | constrained to sue them for infringement of patent rights.
 
 ![Page 10](./10.jpg)
@@ -227,7 +227,7 @@ THE CINEMA
 | But Truth has risen triumphant and the censor has
 | done much to stamp out the evil, aided by an enlightened public , who, after the
 | gloss  has been rubbed off, have realised that the broadmindedness need not include
-| indulgence of imorality and Art need not be mere sensuality.-
+| indulgence of immorality and Art need not be mere sensuality.-
 |
 | The Cinema is slowly but surely regaining its lost place
 | in the Scientific and Educational world. Never in its life of a score or more
@@ -310,7 +310,7 @@ THE CINEMA
 |
 | ---
 |
-| A writer says that mariage does not prevent a woman public speaker
+| A writer says that marriage does not prevent a woman public speaker
 | from pursuing her career. On the contrary, it means that she has
 | provided herself with a permanent audience.
 
@@ -322,7 +322,7 @@ YE MUSES
 
 | Here are the things I mean to see
 | (with luck) in 1933.
-|     I'll rise beninant, wise and strong
+|     I'll rise benignant, wise and strong
 |     Before the second breakfast gong.
 | And if the morn not too murk,
 | Will strive to do a spot of work,
@@ -363,10 +363,10 @@ The Machine
 | at my best on a serious topic, but I'm going to see this through even if it costs
 | me my present self-esteem or my past reputation. At the worst my attempt will
 | be a miserable failure but on the other hand, it's success will open out to
-| me new walks of life and fresh avenues of research. The attemp is worth the
+| me new walks of life and fresh avenues of research. The attempt is worth the
 | stakes, and I'll make it.
 |
-| And, having come so far som of my readers may perhaps
+| And, having come so far some of my readers may perhaps
 | think that I'm just making much ado about nothing. -- I am! Being just now
 | in a very confidential mood I dont mind admitting things (still there's a limit,
 | and certain intimate questions would not even now evoke an answer) and I'll say
@@ -376,7 +376,7 @@ The Machine
 | The subject I have decided to write upon is "The Machine".
 | It is a topic which is very widely discussed at the present moment and it was
 | a recent statement of the "Rambler" relative to it which turned my mind in this
-| direction -- although  I wil not say that I never thought on the matter before
+| direction -- although  I will not say that I never thought on the matter before
 |
 | Of course, were it not for the trade depression -- for this
 | aweful business slump, the like of which has never been experienced before, the
