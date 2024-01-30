@@ -1,6 +1,6 @@
 ---
 title: The Varsity Circle
-date: 1933-01
+date: 1933-01-01
 ---
 
 ![Page  1](./01.jpg)
