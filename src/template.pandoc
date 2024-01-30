@@ -40,9 +40,7 @@ $endfor$
 
 $if(toc)$
 <nav id="$idprefix$TOC" role="doc-toc">
-$if(toc-title)$
-<h2 id="$idprefix$toc-title">$toc-title$</h2>
-$endif$
+<h2><a id="$idprefix$toc-title" href='/'>Golden Bandra</a></h2>
 $table-of-contents$
 </nav>
 $endif$

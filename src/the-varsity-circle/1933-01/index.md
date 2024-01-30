@@ -1,6 +1,17 @@
-# The Varsity Circle
+---
+title: The Varsity Circle
+date: 1933-01
+---
+
+![Page  1](./01.jpg)
+
+![Page  2](./02.jpg)
 
 January 1933
+
+![Page  3](./03.jpg)
+
+![Page  4](./04.jpg)
 
 ## The Varsity Circle
 
@@ -28,6 +39,9 @@ other V.C contributors an annual holiday.
 Our  next resolution for readers is that they do a little
 spring cleaning occasionally and see if they cannot trace some of our back
 numbers. There are quite a number of thiese on the missing list by now,
+
+![Page  5](./05.jpg)
+
 and unless matters improve soon we will be constrained however reluctantly
 to rally together our V.C sleuths from all other directions and put them on
 the job. We have not yet got a complete list of the missing magazines, but we
@@ -56,6 +70,7 @@ It will drive you
 GOLDEN RULE. 1933 Version: "Expect to be done as you would
                             like to do others.
 
+![Page  6](./06.jpg)
 
 # The Rambler
 
@@ -89,6 +104,9 @@ close up my shop for the present; but as far as possible I always like to part
 with a joke and at present some four jokes come to mind. I am not in a
 mood  to sit and select the best of them, and besides, giving all the four will
 fill so much more space. It is the raining season now and a school boy might
+
+![Page  7](./07.jpg)
+
 well come dripping wet to class in the hope of a holidy. Once such a boy
 was asked why he had not used his umbrella and he replied that he wanted
 to defy the rain; so the teacher asked him to defy the wet clothes and stay on.
@@ -124,6 +142,7 @@ The headline should have read: "A Count marries Account.o
 
 ---
 
+![Page  8](./08.jpg)
 
 # OUR DIARY 
 
@@ -158,6 +177,8 @@ their own folly and recklessness and want of foresight, and let them beware of f
 the rut again. Let them build up their resources with the future well before them, and not
 think only of the present -- the immediate present.
 
+![Page  9](./09.jpg)
+
 
 ---
 
@@ -191,7 +212,8 @@ The January 1st Number of the 'Standard' was not out until after
 the 15th of the month. If this state of affairs continues the V.C wil be
 constrained to sue them for infringement of patent rights.
 
----
+![Page 10](./10.jpg)
+
 
 THE CINEMA
 ==========
@@ -226,6 +248,9 @@ are all vying with one another for the best production in this sphere
 
 But why restrict ourselves to mere educational films. I 
 take it that you have seen the immortal "Ben-Hur"; need we a Gandhi to
+
+![Page 11](./11.jpg)
+
 inspire us with patriotism when those four word vibrate our very
 heart-strings - "I am a JEW." And with Jackie Cooper in the "Champ" need
 we even the Commandment "Honour thy father and thy mother." Nay, Nay, leave 
@@ -260,6 +285,8 @@ Niagra Falls, of float over Everest's peak unconquered yet, or gaze down
 Etna's crater slumbering still? All these and more are at your beck
 and call; behold the work of Man!
 
+![Page 12](./12.jpg)
+
 Uh, I forgot! You are a lover of Nature. Well, well,
 shall we see how the King Butterfly is born or would you have the Queen Bee
 reign amidst the drones? Maybe that wont satisfy you either. I must say
@@ -293,7 +320,8 @@ A writer says that mariage does not prevent a woman public speaker
 from pursuing her career. On the contrary, it means that she has
 provided herself with a permanent audience.
 
----
+![Page 13](./13.jpg)
+
 
 
 YE MUSES
@@ -324,6 +352,7 @@ I'll be in bed by 2 a.m.
     And, if I'm very, very ill,
     I'll let a lawyer draft my Will.
 
+![Page 14](./14.jpg)
 
 The Machine
 ===========
@@ -360,6 +389,9 @@ Of course, were it not for the trade depression -- for this
 aweful business slump, the like of which has never been experienced before, the
 machine would scarcely have come to be the subject of such a universal discussion.
 Slave as it was meant to be, it would have continued to work for and enrich
+
+![Page 15](./15.jpg)
+
 it's masters, and nobody would have given it even a second thought. Such has been
 our actual experience in the days of our prosperity not many years ago. Then the
 machine was never thought of except as a labour-saving device and a means of making
@@ -393,6 +425,9 @@ right. Away back in the nineteenth century when the hand-looms were replaced by
 the efficient machinery which threw thousands out of employment and earned the
 opprobrium of whole communities, men were as pessimistic about the future
 economic situation as they were at the present time. But their fears were soon
+
+![Page 16](./16.jpg)
+
 to be allayed, for, instead of increasing unemployment, the textile industry did an
 unthinkable thing -- it gradually created more jobs and absorbed more of the
 population. And the cause of this seeming miracle was not difficult to find.
@@ -424,7 +459,10 @@ rotting for want of purchasers.
 Another big crime of the maching is that it has
 taken the bread out of the mouth of thousands of families by driving the
 wage-earners out of employment, and for the solution of this difficulty we haven't
-to go further than to the very next objection to the machine -- that it only 
+to go further than to the very next objection to the machine -- that it only
+
+![Page 17](./17.jpg)
+
 helps to effect a very unequal and unjust distribution of wealth. If we are
 able to find a way out of this third objection we will have won a triple victory
 for we will then have dound an answer to the other two objections to the machine, as
@@ -458,6 +496,9 @@ enable more ment to be employed as long as the demand for the product continues,
 demant to continue -- not only to continue but to increase in proportion to the
 population. Now, as long as the relative wealth of the consumers and manufacturers
 can be maintained at a ratio that is conducive to the propserity of both, the
+
+![Page 18](./18.jpg)
+
 demand must of necessity keep pase with the population. The maintenance of this
 ration is by no means an easy matter but it is a result we have to acheive
 if we are at all serious about getting out of the rut into which we have
@@ -490,6 +531,10 @@ as  possible for the employed. Things have now come to a pass when we
 must provide work for as many workers as possible
 by giving less hours of work and more of leisure. After all,
 if civilization is to make any real progress we must try and arrange matters so
+that the education of the masses will be a matter more easy attainment
+
+![Page 19](./19.jpg)
+
 than at present, and the only conditions under which this is possible is more
 leisure and sufficient wealth.
 
@@ -526,5 +571,7 @@ Insects, says an eniment entomologist, compete with man for the food
 supply of the world. But even that wouldn't bother us so much, if they
 didn't go and regard us as part of the food supply.
 
-
-
+![Page 20](./20.jpg)
+![Page 21](./21.jpg)
+![Page 22](./22.jpg)
+![Page 23](./23.jpg)
