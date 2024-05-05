@@ -25,14 +25,15 @@ copy-images() {
     rsync -avu --delete "images/" "../images"
 }
 
-build-varsity-circle() {
-    slug=the-varsity-circle/1933-01
+build-dir() {
+    slug=$1; shift
     mkdir -p "../$slug"
     generate-md-no-figures "$slug/index.md" -o "../$slug/index.html"
     cp "$slug/"*.jpg "../$slug/"
 }
 
-build-varsity-circle
+build-dir the-varsity-circle/1933-01
+build-dir dlp-letter
 generate-md index.md -o ../index.html
 generate-md rediscovering-the-roots.md -o ../rediscovering-the-roots.html
 generate-md ranwar.md -o ../ranwar.html
