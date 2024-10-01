@@ -1,0 +1,9 @@
+/.build/
+/tmp/
+
+# TODO: Move the following under .build
+# Stack build-dir.
+/.stack-work/
+# hakyll build products
+/_cache
+/_site
