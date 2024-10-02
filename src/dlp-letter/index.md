@@ -10,12 +10,11 @@ date:   1950-02-08
 |                                 Bandra 8th Febry 1950
 |
 | My dear Luty,
-| Just a few lines to inform you that we are all
+|         Just a few lines to inform you that we are all
 | keeping well and on the 26th Jany the whole family
 | went out for a picnic at Versova and I expect
 | Lourdes and Aubert have given you the full details
 | as I had asked them to write to you last week.
-|
 | Fr Roque had arranged for a bus from Bombay
 | which arrived here at 8.15 A.M..and about 30 of DLP’s
 | family pushed in merrily singing as they started.
@@ -54,9 +53,11 @@ date:   1950-02-08
 | instead of Mount Mary’s
 | Fr Eddy Fernandes becomes the Rector of Mount Marty’s.
 | With love and kind regards,
-|                                       yours affectionately
+|                                       yoursaffectionately
 |                                               D.L. Pereira
 |
 |                                              PAPA’S LETTER
 
+:::
 
+:::
