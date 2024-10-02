@@ -4,6 +4,12 @@ author: D.L. Periera
 date:   1950-02-08
 ---
 
+
+
+::: transcribed
+
+::: page
+
 ![Page  1](./01.jpg)
 
 |                                             42 Ranwar
@@ -30,6 +36,9 @@ date:   1950-02-08
 | After tea at about 6 P.M. we left and had a drive
 | to Bombay and halted at Warden Road
 
+:::
+
+::: page
 
 ![Page  2](./02.jpg)
 

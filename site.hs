@@ -23,10 +23,13 @@ main = hakyll $ do
         route   $ composeRoutes removeInitialComponent $
                                 setExtension "html"
         compile $ do
-            pandocCompilerWith (def::ReaderOptions) (def::WriterOptions)
+            pandocCompilerWith pandocReaderOptions (def::WriterOptions)
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
 
     match "templates/*" $ compile templateBodyCompiler
+
+  where
+     pandocReaderOptions = def { readerExtensions = extensionsFromList [Ext_line_blocks, Ext_fenced_divs] }
 
 --------------------------------------------------------------------------------
 
