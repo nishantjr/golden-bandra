@@ -1,4 +1,7 @@
-- during the depression
+---
+title:  The Varsity Circle, Issue unknown vc-001
+status: Near Finished
+---
 
 
 The Varsity Circle

@@ -1,7 +1,9 @@
 ---
-title: "D.L. Periera Letter: Empire Day / Republic Day Picnic"
-author: D.L. Periera
-date:   1950-02-08
+title:      "D.L. Periera Letter: Empire Day / Republic Day Picnic"
+author:     D.L. Periera
+date:       1950-02-08
+abstract:   Transcribed letter from DLP to Luty, re 1950 republic day.
+status:     Near finished
 ---
 
 ::: page

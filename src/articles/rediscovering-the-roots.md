@@ -9,7 +9,7 @@ The villages gradually became congested because when there was
 a need for additional accommodation new houses were built on any open
 space in the village in a haphazard manner.
 Gradually tall buildings and chawls sprung up on the outskirts of a village.
-](images/ranwar5.jpg)
+](ranwar5.jpg)
 
 
 The 'Bombay East Indians' are the descendants of the thousands of

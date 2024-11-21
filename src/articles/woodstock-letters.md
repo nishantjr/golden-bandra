@@ -1,17 +1,22 @@
 ---
 title: Woodstock Letters
 period: 1916
+abstract: |
+     This is the complete material from the Jesuit "Woodstock Letters" author
+     Fr. Herbert Parker, of St Stanislaus'.
+     [Woodstock Letters](https://en.wikipedia.org/wiki/Woodstock_Letters)
+     is a publication written by Jesuits around the world describing
+     institutions, customs and places in which they were situated.
+     Talks about St Stanislaus, St Joseph's Convent, Bandra Misc, Bombay ..., Monsoons, Dress, Parsees,
+     The Bandra Fair, Khandala, St Stanislaus Again, Funerals and Weddings in Bandra ... Holy Week in Bandra
+     as in the year 1916,
 ---
 
-> This is the complete material from the Jesuit "Woodstock Letters" author
-> Fr. Herbert Parker, of St Stanislaus'.
 
-> St Stanislaus, St Joseph's Convent, Bandra Misc, Bombay ..., Monsoons, Dress, Parsees,
-> The Bandra Fair, Khandala, St Stanislaus Again, Funerals and Weddings in Bandra ... Holy Week in Bandra
-> as in the year 1916,
 
 by Herbert J. Parker SJ
 From visit to Athenaeum Library Pune,
+in the Jesuit Archives
 Jan 2006 DJR, CF, HJR
 
 

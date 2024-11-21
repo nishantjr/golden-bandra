@@ -1,6 +1,7 @@
 ---
-title: The Varsity Circle
-date: 1933-01-01
+title:  The Varsity Circle, January 1933
+date:   1933-01-01
+status: Near Finished
 ---
 
 ![Page  1](./01.jpg)

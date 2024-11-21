@@ -20,11 +20,24 @@ main = hakyll $ do
         route   $ removeInitialComponent
         compile compressCssCompiler
 
-    match "src/**.md" $ do
+    match "src/index.md" $ do
+        route   $ composeRoutes removeInitialComponent $
+                                setExtension "html"
+        compile $ do getResourceBody
+                     >>= applyAsTemplate articlesCtx
+                     >>= renderPandoc
+                     >>= loadAndApplyTemplate "templates/default.html" defaultContext
+
+    match (    "src/articles/*.md"
+          .||. "src/dlp-letter/*.md"
+          .||. "src/the-varsity-circle/*/*.md"
+          )
+      $ do
         route   $ composeRoutes removeInitialComponent $
                                 setExtension "html"
         compile $ do
             myPandocCompiler
+                >>= saveSnapshot "content"
                 >>= loadAndApplyTemplate "templates/default.html" defaultContext
 
     match "templates/*" $ compile templateBodyCompiler
@@ -45,6 +58,9 @@ main = hakyll $ do
         ]
      writerOptions = def::WriterOptions
 
+articlesCtx :: Context String
+articlesCtx = listField "articles" defaultContext (loadAllSnapshots "src/*/**.md" "content")
+
 --------------------------------------------------------------------------------
 
 removeInitialComponent :: Routes
@@ -52,3 +68,4 @@ removeInitialComponent = customRoute $ tailFilePath . toFilePath
     where tailFilePath path = case (splitPath path) of
                                    p:ps -> joinPath ps
                                    []   -> error "empty path"
+
