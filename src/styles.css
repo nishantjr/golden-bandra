@@ -1,25 +1,22 @@
-html, body {
-  margin: 0 auto;
-  max-width: 80em;
-}
 
-.transcribed {
-    display: flex;
-    flex-direction: column;
-}
+/* Styling */
+/* ======= */
 
-.transcribed .page {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
+html                {  background-color: #f8f5f5;
+                       font-family: garamond, serif;
+                       display: flex;
+                       flex-direction: row;
+                    }
+h1, h2, h3, h4      { font-weight: normal; }
+header > h1         { font-size: 1.6em; }
+h1                  { font-size: 1.4em; }
 
-.transcribed .page img,
-.transcribed .page .line-block {
-    max-width: 30em;
-    flex: 30em;
-}
+/* Layout */
+/* ====== */
 
-.transcribed .page .line-block {
-    padding: 2em;
-}
+body                {  max-width: 40em;
+                       margin: auto;
+                    }
+
+figure img          {  max-width: 100% }
+figure figcaption   {  font-size: 0.8em; }

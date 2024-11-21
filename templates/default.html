@@ -4,11 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>$title$</title>
+    <title>$title$ | Golden Bandra</title>
     <link rel="stylesheet" href="/styles.css">
   </head>
   <body>
+      <nav> <a href="/"> Home </a> </nav>
+      <article>
+      <header>
+      <h1> $title$ </h1>
+      $if(subtitle)$<p>$subtitle$</p>$endif$
+      $if(author)$ <address> By $author$ </address> $endif$
+      </header>
       $body$
+      </article>
   </body>
 </html>
 

@@ -37,6 +37,7 @@ packages:
 #
 extra-deps:
 - hakyll-images-1.2.2
+- pandoc-sidenote-0.23.0.0
 #
 # extra-deps: []
 

@@ -1,5 +1,6 @@
 /.build/
 /tmp/
+/stack.yaml.lock
 
 # TODO: Move the following under .build
 # Stack build-dir.

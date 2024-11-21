@@ -1,12 +1,9 @@
 ---
 title: "Rustic Ranwar"
-author:
-- Clarence Fernandes
-- Herman Rodrigues
-- Denis Rodrigues
+author: Clarence Fernandes, Herman Rodrigues, and Denis Rodrigues
 ---
 
-> This article has been written for the Celebrate Bandra \'05 festival
+> This article has been written for the Celebrate Bandra '05 festival
 > held in Bandra in November 2005.
 
 Navigating the permanent traffic jam that is Hill Road today, visitors
@@ -180,8 +177,8 @@ shelters in their fields.
 Signs of those times still survive today. At almost every extremity of
 the village there are religious shrines as a means of obtaining divine
 protection from the dread disease. And even today, one of the
-invocations said during the family Rosary *\"St Roque and St Sebastian
-save us from plague and pestilence\"* bears witness to the very real
+invocations said during the family Rosary *"St Roque and St Sebastian
+save us from plague and pestilence"* bears witness to the very real
 danger that this affliction posed for villages like Ranwar.
 
 Because of the frequency of the epidemics, many of the new educated

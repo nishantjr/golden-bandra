@@ -1,13 +1,14 @@
 ---
-title: "The Bombay East Indians: Rediscovering the Roots"
+title: The Bombay East Indians
+subtitle: Rediscovering the Roots
 author: "Fr. Larry Pereira"
 ---
 
-![The villages gradually became congested because when there was
+![*A rooftop view of Ranwar Village:*
+The villages gradually became congested because when there was
 a need for additional accommodation new houses were built on any open
 space in the village in a haphazard manner.
 Gradually tall buildings and chawls sprung up on the outskirts of a village.
-(A rooftop view of Ranwar Village)
 ](images/ranwar5.jpg)
 
 
@@ -120,18 +121,18 @@ Island are obtained from Paulo da Trindade (I, 36) and the figures for
 the other places are obtained from the quinquennial report sent to Rome
 on the 10th May 1621.
 
----------------------------------- -------------------------------------
-Dahanu                             500
-Tarapur                            1,000
-Mahim - Kelva                      600
-Vasai (Bassein)                    25,000
-Salsette Island                    30,000  (see following section)
-Mumbai Island                      5,220
-Elephanta Island                   all the inhabitants
-Karanja Island (Uran)              1,500
-Chaul (Revdanda)                   0,600
-Total                              74,420
----------------------------------- -------------------------------------
+  ----------------------- ---------------------------------
+  Dahanu                  500
+  Tarapur                 1,000
+  Mahim - Kelva           600
+  Vasai (Bassein)         25,000
+  Salsette Island         30,000  (see following section)
+  Mumbai Island           5,220
+  Elephanta Island        all the inhabitants
+  Karanja Island (Uran)   1,500
+  Chaul (Revdanda)        0,600
+  Total                   74,420
+  ----------------------- ---------------------------------
 
 These new Christians were drawn from the following social groups: Samvedi
 Brahmins in North Vasai, Vadvals in South Vasai, Kunbis in Salsette and Mumbai,

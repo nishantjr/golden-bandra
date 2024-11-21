@@ -4,10 +4,6 @@ author: D.L. Periera
 date:   1950-02-08
 ---
 
-
-
-::: transcribed
-
 ::: page
 
 ![Page  1](./01.jpg)
@@ -26,8 +22,8 @@ date:   1950-02-08
 | family pushed in merrily singing as they started.
 | We reached Versova at about 9 A.M. and immediately
 | set up for breakfast each one looking up for a
-| cup of tea as MariBranco was not available.
-| But anyhow Dedic managed to get kimado
+| cup of tea as MariBranco[^mari-branco] was not available.
+| But anyhow Dedic managed to get kimado[^kimado]
 | for dinner which was at about 2.30 P.M.
 | as all had been for a stroll. We had a
 | nice open place behind the Church and in front
@@ -36,15 +32,19 @@ date:   1950-02-08
 | After tea at about 6 P.M. we left and had a drive
 | to Bombay and halted at Warden Road
 
+[^mari-branco]: [Marie Biscuits](https://en.wikipedia.org/wiki/Marie_biscuit)? I hadn't realisedthat these were so global.
+[^kimado]:  [Kimad](https://timesofindia.indiatimes.com/life-style/food-news/khimad-the-desi-version-of-mulled-wine-thats-made-with-country-liquor/photostory/88681872.cms),
+            a drink made from desi liquor and tea.
+
 :::
 
 ::: page
 
-![Page  2](./02.jpg)
+![](./02.jpg){ height=30em }
 
 | Malabar Hill to watch the illuminations
-| in honor of the Empire Day - and
-| returned homa at about 8.30 P.M.
+| in honor of the Empire Day[^empire-day] - and
+| returned home at about 8.30 P.M.
 | Now that you are in Madras you must be very
 | busy setting your school and new house
 | Both Wilfred and Denis go to school and
@@ -67,6 +67,9 @@ date:   1950-02-08
 |
 |                                              PAPA’S LETTER
 
-:::
+[^empire-day]:
+    It's pretty interesting that the first Republic day is refered to as
+    [Empire Day](https://www.historic-uk.com/HistoryUK/HistoryofBritain/Empire-Day/)
+    celebrated on the 24th of May.
 
 :::
