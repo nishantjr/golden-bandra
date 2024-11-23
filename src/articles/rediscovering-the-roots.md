@@ -2,6 +2,8 @@
 title: The Bombay East Indians
 subtitle: Rediscovering the Roots
 author: "Fr. Larry Pereira"
+authored: 2005
+period: 1850-2005
 ---
 
 ![*A rooftop view of Ranwar Village:*

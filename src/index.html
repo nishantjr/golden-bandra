@@ -1,0 +1,33 @@
+---
+title: "The Living History of Bandra"
+---
+
+<p> This website is a staging ground for collecting the research materials
+    gathered regarding Bandra by Denis, Herman, Clarence and others.
+</p>
+
+<ul>
+$for(articles)$
+<li>
+<a href="$url$"> $title$ </a>
+$if(period)$ $period$$endif$
+$if(author)$ $author$$endif$
+$if(abstract)$ $abstract$$endif$
+</li>
+$endfor$
+</ul>
+
+<!--
+<table class="tile-display">
+<tbody>
+$for(articles)$
+<tr>
+<td class='title'>      <a href="$url$"> $title$ </a>                           </td>
+<td class='period'>     $if(period)$ $period$$endif$                            </td>
+<td class='author'>     $if(author)$ $author$$endif$                            </td>
+<td class='thumbnail'>  <img src='images/ranwar2610Low.jpg' alt='thumbnail'/>   </td>
+</tr>
+$endfor$
+</tbody>
+</table>
+--:>

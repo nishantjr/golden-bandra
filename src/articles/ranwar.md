@@ -4,6 +4,7 @@ author: Clarence Fernandes, Herman Rodrigues, and Denis Rodrigues
 abstract: |
     This article has been written for the Celebrate Bandra '05 festival
     held in Bandra in November 2005.
+authored: 2005
 ---
 
 Navigating the permanent traffic jam that is Hill Road today, visitors

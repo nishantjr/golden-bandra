@@ -4,62 +4,210 @@ abstract: |
     Collection of from a PageMaker file from HJR.
 ---
 
-Mrs Fay Pereira
-An 'asli Vandrekar'
+Lines on the East Indian Community Today
+========================================
 
-As we 'celebrate Bandra' it is appropriate that we  focus on an asli Vandrekar - Mrs Fay Pereira of Ranwar.
-'Flavy' to her family, and 'Fay' to her friends, she has been a part of the Bandra landscape for more than nine decades.
-It was in Bandra that her ancestors, sons and daughters of the fertile soil, embraced Christianity over four centuries ago. Displayed in her home is her family tree (the Fonsecas) and that of her late husband, Ansey Pereira, spanning the centuries. It is a chronicled family tree, with  roots going back to the year 1682, not only with names but other details too.
-Countries, cities, towns and eras even, often become associated with specific personalities. People who epitomize an essential spirit, people who by their dominating presence leave their enduring stamp. For the quaint old village of Ranwar, a motley collection of tiled cottages and bungalows, bound together by community, several narrow gullies and a winding 'main street', this person is without doubt Mrs Fay Pereira. Ramrod straight, even today, she is the persona of the neighbourhood, respected and loved by all who know her.
-In 1975 on the occasion of the International Women's Year, when Mrs Fay Pereira was featured, along with several other women from all over India, by the Canara Bank she was described as ' a housewife and a businesswoman. A storm on two legs, she has organised the housewives of Bandra under the 'All Bandra Women's Association'. 
-These and other complimentary terms of admiration and endearment have been naturally bestowed on one of Bandra's more remarkable residents. And she accepts them all with characteristic aplomb. When she asked why she had been chosen by the Canara Bank  for that special honour she was told it was partly because she used to walk into the bank premises with such a regal air of ownership. 
-At 95 today, she is if anything, more regal, - the Andrean Notes tribute called her the Duchess of Ranwar - only a little less energetic and adventurous than she used to be many decades ago when she rode a 350 cc BMW in Rajan village where she grew up. She married Ansey Pereira, and moved to Ranwar in 1936, and quickly settled down in her new home. Down the years, Aunty Flavy, as she is fondly known to all the residents of Ranwar, has been aunt, friend, good neighbour and confidant, literally generation after generation. When her husband died, in 1963, she was left with the daunting task of bringing up two young sons. With little hesitation she took over the printing business owned by her husband and to no one's surprise, kept it successful and indeed thriving. While doing that she also brought up her sons to be the fine men they are today. Wallace has a Master's degree in English and Fr Larry is today the Parish Priest of Mt Carmel Church, Bandra and a member of many Archdiocesan Councils and Commissions.
-One of the many distinguishing features of Fay Pereira is her willingness to wade into difficult situations if she perceives a wrong to be righted or an unfortunate to be helped. She has fought illegal construction activity time and again, and every Ward Officer in the Bandra BMC will give proof of her commitment and determination - and often of her terse wit. She once told the Deputy Controller of Rationing, that even her dog refused to eat the rice distributed by the PDS !
-In Ranwar, Fay has been literally at the centre of community activities for decades. Besides playing an active part in her Church she has also led the community, and spearheaded countless civic initiatives and campaigns. Even today, despite her loud voice and pretense of being a tough customer, she is an easy touch for anyone who is in need of a meal or a handout. 
-Her beautiful cottage, 'The Trellis', always well kept, has been her pride for decades. There is rarely a month when she is not involved in some improvement, repair or maintenance job in her home. Her age is of little consequence and last month she completed the renovation of her kitchen - and insisted on going to Khar by herself to check out the various types of granite available.  This year too, as has been her practice every year, she supervised the roasting and grinding of the 22 ingredients that are blended carefully to give us that special East Indian bottle masala !
-As we review her life, we are amazed at her versatility and dexterity. She has acted in theatrical productions in the parish Zonal Contests and sung in the church choir. She has stitched her own clothes and is an excellent cook and sweetmaker. She has typed endless pages on her trusted manual Remington while running her business and crusading in civic matters. 
-She has travelled extensively, in India and abroad, moved gracefully across dance floors, swam confidently in the sea and cycled briskly along Bandra's lanes
-Endowed with a retentive memory, Mrs Pereira can remember events, places and persons connected with each decade of the preceding century. While she vividly recalls the splendour of Fort, Bombay, she relives the charms of Bandra.
-Even while she peeps into the past, she is firmly grounded in the present. She still participates in programmes and picnics and meet relatives, neighbours and friends. She still makes time each day for a thorough reading of her newspaper and watches her favourite TV programs.
-But it is her verbal pictures of Bandra that are delightful. Her palette paints a picture of lush green rice fields and mango groves, vegetable gardens and coconut fringed shorelines with extensive mangroves. Rambling bungalows and charming cottages, quaint street lights and sturdy wayside crosses, horse riding gentlemen and cycling ladies. 
-This is the stuff of which memories are made, and with these memories Mrs Fay Pereira 'celebrates Bandra'.
-_____
-Lines on the  East Indian Community Today
+## The present position of the community, their origins and the adoption of their name
 
-The present position of the community, their origins and the adoption of their name
+The East Indians today can broadly be viewed in two groups. A large proportion
+are 'urbanised', living in localities situated between Mumbai and Vasai. Most of
+these localities are the original villages where the East Indians resided as
+well as adjacent areas. Another significant group of East Indians today lives in
+a less urban environment in places like Chaul, Korlai, and north, up to Dahanu,
+though even including places like Uttan and Gorai. The residents here have had
+fewer educational and other advantages available, compared with their
+urban-based counterparts, that would have enabled them to advance.
 
-The East Indians today can broadly be viewed in two groups. A large proportion are 'urbanised', living in localities situated between Mumbai and Vasai.  Most of these localities are the original villages where the East Indians resided as well as adjacent areas. Another significant group of East Indians today lives in a less urban environment in places like Chaul, Korlai, and north, up to Dahanu, though even including places like Uttan and Gorai. The residents here have had fewer educational and other advantages available, compared with their urban-based counterparts, that would have enabled them to advance. 
-As a society becomes more cosmopolitan demographic identities merge. The integrity of nations, tribes societies and communities is dependent on insularity. Once travel and communication become easier cultural and ethnic mixing results. This is an inevitable process. What is today a recognizable community may in a few generations be irreversibly dispersed. So too with communities like the East Indians. Besides, this small group of people had coalesced into a community a little more than a century ago, in response to specific common needs and pressures. The situation today is different.
-Some historical background
-The group of people calling themselves East Indians share some common features, geographically, historically and culturally. They are the descendents of the original inhabitants of the regions that were ruled at different times by the Maharattas, Portuguese and British. The territories extended from Dahanu in the north to Chaul and Korlai  in Ratnagiri in the south.
-These people in 'Northern' territories were distinct from Goa both politically and culturally. Their forests and quarries provided much of the timber and basalt stone used to build up Goa. Agriculturally too the region was very prosperous and provided valuable revenue. The influence of the Portuguese church authorities was much less in these areas than it was in Goa. Hence the people essentially retained their cultural heritage in matters of food, dress, marriage customs, language etc. These were very similar to their Hindu forebears and neighbours. Which is a point made by East Indians today who are the 'asli Mumbaikars' with a rich heritage that goes back centuries. 
-With the coming of the Portuguese from the 16th century there were major changes that took place. The area was divided into 'Aldeas' with landlords appointed by the Portuguese crown. For instance Aldemar, a name still in use in the area, meaning 'Aldea-by-the-sea'. 
-It was the custom to award land for limited periods to military officers who had distinguished themselves in the service of the King. Thus Bandra was granted in the 16th century to Antonio Pessoa, who had fought with valour in Diu and Bassein. After his death it passed on to his widow.  Following her death Bandra was given to the Jesuits. By the early 1600s Bandra was almost entirely Christian. 
-In those days the people in the region were prosperous and the standard of living was good. Fr Gomes Vaz, writing in 1576 says: “Bandra is a very fine Village”. “ This island is very fruitful and the land is very fresh. The island is called Salsette as the land of Goa with a difference that the latter is not an island”, referring to the Salcette of Goa. And an English visitor, John Fryer who visited Bandra in 1673-75 writes: “ The town is large and houses tiled; it is called Bandura... In the middle of the river we had a pleasant prospect on both sides; on Bandura side, the College, the town, the Church of St Andrew a mile beyond, and upon the hill that pointed to the sea, and Aguada, block-house, and a Church; on the other side the Church of Mahim, and other handsome buildings”.  And writing about Salsette Island,  “the ground excellently fertile either of itself or by the care of the Inhabitants, that it yields as good Cabbages, Coleworts, and better Rhadishes than ever I yet saw: Besides Garden - Fruit, here are incomparable Water-Melons, and Onions as sweet, and as well tasted as an Apple; and for the natural growth of the Soil, it is known not only to supply the adjoining Islands, but Goa also. It is more than 20 Miles in Length and 70 in Circumference”.
-Through the years the region was governed by the Marathas, Portuguese and the British and the community adjusted to the various changes. Even after the Maratha conquests around 1739 the Christians in the region were allowed some freedom to practise their Faith. Many priests had to leave the area. Over time some communities dwindled or disappeared, for instance Magthane and Kondita. Others continued with local priests and people taking the lead. Many parishes and communities developed a certain 'independence' therefore. There were local confraternities with a sense of ownership over churches or traditional celebrations and rites that were in constant tussles with parish priests and church authorities.  
-With the coming of the British there were significant added influences on the community. 
-__________
-The adoption of the name
-The name, East Indian was adopted in 1887, the year of the Golden Jubilee of Queen Victoria who ruled India at the time. In that year the leaders of the community held three public meetings, in Mazagaon, Andheri and Papdy, Bassein in order to convince the people that they needed to band together for the general good. This led to the formation of the 'Bombay East Indian Association' and the adoption of the name 'East Indian'. There has been speculation about the specific reason for choosing the name 'East Indian'. 
-There were various reasons and pressures that led to the adoption of this name, among them were the desire to identify themselves as descendants of the original inhabitants of the region who were loyal British subjects. 
-Another reason was that the community wished to identify itself as distinct from the many other Christian immigrants with similar surnames who were increasingly coming into Bombay and coming into competition with the community for jobs and employment. These other Christians were chiefly from Goa, Mangalore etc. 
-Loyal subjects
-One of the first actions was the formation of the Bombay East Indian Association and the adoption of the name East Indian. Certainly part of their objective was to identify themselves as loyal British subjects. The Portuguese were seen as being mainly interested in seeking 'spices, silver and souls' and not being very concerned about the education and advancement of their colonial subjects. Prior to this the East Indians were referred to as Portuguese Christians, Native Christians, Native Portuguese, Norteiros - this referring to their geographic location north of Goa, and Portuguese Roman Catholic British subjects and these terms were not acceptable hence the change of name.  
-Differentiation from other peoples
-Starting from the early decades of the 19th century the economic success of the British in India resulted in the trickle of immigrants from Goa to Bombay becoming a flood. There were also influxes from other regions like Mangalore etc. In 1780 the population of Bombay was around 100,000. In the 1850's this number had increased to 500,000. As conditions in Goa deteriorated further the flow of immigrants increased greatly. This was facilitated by the improvements in transport and communication  by coastal ferry steamers and the establishment of the railway system. This resulted in more pressures on the indigenous Christians. 
-The Padroado - Propaganda issue
-A condition existing at the time that had great relevance to the lives of the people was the Padroado jurisdiction whereby the Portuguese controlled the churches in the area, not including Bombay Island, where the churches were under the control of the Propaganda Fide, in Rome. The kings of Portugal were invested by the Popes in the 15th and 16th centuries, with the right of Patronage called Padroado. This allowed the Portuguese complete control over churches and church affairs in all their territories and in India even in areas that were later governed by the British. The Portuguese were seen as regarding their churches as generators of money to be sent back to Portugal. Beyond this they had little desire to develop the areas and neglected the education and growth of the population. By the 17th century, Rome felt that Padroado was not doing enough for the conversion of the native population under their control and so it set up the Congregation of Propaganda Fide in 1622. From that time onwards Propaganda missionaries were sent to India. Later, in 1720, Portuguese-born priests were expelled from Bombay by the British and the churches of Bombay were entrusted to the Propaganda Apostolate. The difference between the Padroado areas and the Propaganda areas in Bombay, where there were many more educational institutions and the people had many more opportunities for education, employment and advancement and hence were more prosperous, was evident. To add to this, the clergy in the Padroado churches, appointed from Goa, naturally favoured Goan immigrants in the parishes and this aggravated the original inhabitants who felt discriminated against. In Bandra the Padroado  Propaganda split resulted in a situation where St Andrew's and later Mount Carmel were Padroado churches owing allegiance to Portugal and St Peter's was administered by the Propaganda Fide in Rome. People were allowed to choose their parish regardless of geographical logic so that a family residing by the side of St Andrew's could be parishioners of St Peter's and would have their marriages and burials there instead on at the neighbouring St Andrew's. In Propaganda churches and schools English education was the norm, e.g.., St Xavier's In Bombay and St Stanislaus' in Bandra while Portuguese was the language preferred in Padroado schools like St Andrew's. 
-In an effort to resolve this situation, where the community found itself at a disadvantage there were many protests and representations made. The quality of the protest as judged from the extensive correspondence on file between East Indian community local leaders and the ecclesiastical authorities in Rome and the English authorities in London speaks of a highly educated cadre of East Indian leaders. 
-In 1887 when the name was adopted there was a feeling of being discriminated against that was to a significant extent due to the fact that much of the clergy were from Goa, owing allegiance to the Padroado faction. Thus they were seen as favouring Goan immigrants to the Bombay area to the detriment of the indigenous people. 
-Ultimately an agreement in 1928 put an end to the right of patronage outside of Portuguese territories in India and amalgamated all the churches under the archdioceses of Bombay. Before this amalgamation the Catholic archdiocese of Bombay had 36360 souls in 1928 and to this was added 93,692 persons from the old diocese of Damaun. Secular priests increased by almost 300% to a total of 125. With regard to schools the Propaganda diocese had 109 schools before the agreement to which the Padroado added 58 more.  
-_______
-The Woodstock Letters 
-The members of the Society of Jesus of the United States tell their fascinating story in the pages of The Woodstock Letters, a journal published from 1872 to 1969 at the Jesuits' Woodstock, Maryland, scholasticate. The Woodstock Letters is one of the most extensive and literate sources for Jesuit information in existence, providing access to scholarly historical and biographical essays related to Catholic history; contemporary reports from Rome and from parishes, schools, and universities in the United States; and obituaries, book reviews, and more. 
-The following letter is from the Woodstock Letters and written by Fr Herbert PArker, and American Jesuit posted in Bandra at St Stanislaus', who later became Principal of the institution.
+As a society becomes more cosmopolitan demographic identities merge. The
+integrity of nations, tribes societies and communities is dependent on
+insularity. Once travel and communication become easier cultural and ethnic
+mixing results. This is an inevitable process. What is today a recognizable
+community may in a few generations be irreversibly dispersed. So too with
+communities like the East Indians. Besides, this small group of people had
+coalesced into a community a little more than a century ago, in response to
+specific common needs and pressures. The situation today is different.
+
+## Some historical background
+
+The group of people calling themselves East Indians share some common features,
+geographically, historically and culturally. They are the descendents of the
+original inhabitants of the regions that were ruled at different times by the
+Maharattas, Portuguese and British. The territories extended from Dahanu in the
+north to Chaul and Korlai in Ratnagiri in the south.
+
+These people in 'Northern' territories were distinct from Goa both politically
+and culturally. Their forests and quarries provided much of the timber and
+basalt stone used to build up Goa. Agriculturally too the region was very
+prosperous and provided valuable revenue. The influence of the Portuguese church
+authorities was much less in these areas than it was in Goa. Hence the people
+essentially retained their cultural heritage in matters of food, dress, marriage
+customs, language etc. These were very similar to their Hindu forebears and
+neighbours. Which is a point made by East Indians today who are the 'asli
+Mumbaikars' with a rich heritage that goes back centuries.
+
+With the coming of the Portuguese from the 16th century there were major changes
+that took place. The area was divided into 'Aldeas' with landlords appointed by
+the Portuguese crown. For instance Aldemar, a name still in use in the area,
+meaning 'Aldea-by-the-sea'.
+
+It was the custom to award land for limited periods to military officers who had
+distinguished themselves in the service of the King. Thus Bandra was granted in
+the 16th century to Antonio Pessoa, who had fought with valour in Diu and
+Bassein. After his death it passed on to his widow. Following her death Bandra
+was given to the Jesuits. By the early 1600s Bandra was almost entirely
+Christian.
+
+In those days the people in the region were prosperous and the standard of
+living was good. Fr Gomes Vaz, writing in 1576 says: "Bandra is a very fine
+Village". " This island is very fruitful and the land is very fresh. The island
+is called Salsette as the land of Goa with a difference that the latter is not
+an island", referring to the Salcette of Goa. And an English visitor, John Fryer
+who visited Bandra in 1673-75 writes: " The town is large and houses tiled; it
+is called Bandura... In the middle of the river we had a pleasant prospect on
+both sides; on Bandura side, the College, the town, the Church of St Andrew a
+mile beyond, and upon the hill that pointed to the sea, and Aguada, block-house,
+and a Church; on the other side the Church of Mahim, and other handsome
+buildings". And writing about Salsette Island, "the ground excellently fertile
+either of itself or by the care of the Inhabitants, that it yields as good
+Cabbages, Coleworts, and better Rhadishes than ever I yet saw: Besides Garden -
+Fruit, here are incomparable Water-Melons, and Onions as sweet, and as well
+tasted as an Apple; and for the natural growth of the Soil, it is known not only
+to supply the adjoining Islands, but Goa also. It is more than 20 Miles in
+Length and 70 in Circumference".
+
+Through the years the region was governed by the Marathas, Portuguese and the
+British and the community adjusted to the various changes. Even after the
+Maratha conquests around 1739 the Christians in the region were allowed some
+freedom to practise their Faith. Many priests had to leave the area. Over time
+some communities dwindled or disappeared, for instance Magthane and Kondita.
+Others continued with local priests and people taking the lead. Many parishes
+and communities developed a certain 'independence' therefore. There were local
+confraternities with a sense of ownership over churches or traditional
+celebrations and rites that were in constant tussles with parish priests and
+church authorities.
+
+With the coming of the British there were significant added influences on the
+community.
+
+## The adoption of the name
+
+The name, East Indian was adopted in 1887, the year of the Golden Jubilee of
+Queen Victoria who ruled India at the time. In that year the leaders of the
+community held three public meetings, in Mazagaon, Andheri and Papdy, Bassein in
+order to convince the people that they needed to band together for the general
+good. This led to the formation of the 'Bombay East Indian Association' and the
+adoption of the name 'East Indian'. There has been speculation about the
+specific reason for choosing the name 'East Indian'.
+
+There were various reasons and pressures that led to the adoption of this name,
+among them were the desire to identify themselves as descendants of the original
+inhabitants of the region who were loyal British subjects.
+
+Another reason was that the community wished to identify itself as distinct from
+the many other Christian immigrants with similar surnames who were increasingly
+coming into Bombay and coming into competition with the community for jobs and
+employment. These other Christians were chiefly from Goa, Mangalore etc.
+
+## Loyal subjects
+
+One of the first actions was the formation of the Bombay East Indian Association
+and the adoption of the name East Indian. Certainly part of their objective was
+to identify themselves as loyal British subjects. The Portuguese were seen as
+being mainly interested in seeking 'spices, silver and souls' and not being very
+concerned about the education and advancement of their colonial subjects. Prior
+to this the East Indians were referred to as Portuguese Christians, Native
+Christians, Native Portuguese, Norteiros - this referring to their geographic
+location north of Goa, and Portuguese Roman Catholic British subjects and these
+terms were not acceptable hence the change of name.
+
+## Differentiation from other peoples
+
+Starting from the early decades of the 19th century the economic success of the
+British in India resulted in the trickle of immigrants from Goa to Bombay
+becoming a flood. There were also influxes from other regions like Mangalore
+etc. In 1780 the population of Bombay was around 100,000. In the 1850's this
+number had increased to 500,000. As conditions in Goa deteriorated further the
+flow of immigrants increased greatly. This was facilitated by the improvements
+in transport and communication by coastal ferry steamers and the establishment
+of the railway system. This resulted in more pressures on the indigenous
+Christians.
+
+## The Padroado - Propaganda issue
+
+A condition existing at the time that had great relevance to the lives of the
+people was the Padroado jurisdiction whereby the Portuguese controlled the
+churches in the area, not including Bombay Island, where the churches were under
+the control of the Propaganda Fide, in Rome. The kings of Portugal were invested
+by the Popes in the 15th and 16th centuries, with the right of Patronage called
+Padroado. This allowed the Portuguese complete control over churches and church
+affairs in all their territories and in India even in areas that were later
+governed by the British. The Portuguese were seen as regarding their churches as
+generators of money to be sent back to Portugal. Beyond this they had little
+desire to develop the areas and neglected the education and growth of the
+population. By the 17th century, Rome felt that Padroado was not doing enough
+for the conversion of the native population under their control and so it set up
+the Congregation of Propaganda Fide in 1622. From that time onwards Propaganda
+missionaries were sent to India. Later, in 1720, Portuguese-born priests were
+expelled from Bombay by the British and the churches of Bombay were entrusted to
+the Propaganda Apostolate. The difference between the Padroado areas and the
+Propaganda areas in Bombay, where there were many more educational institutions
+and the people had many more opportunities for education, employment and
+advancement and hence were more prosperous, was evident. To add to this, the
+clergy in the Padroado churches, appointed from Goa, naturally favoured Goan
+immigrants in the parishes and this aggravated the original inhabitants who felt
+discriminated against. In Bandra the Padroado Propaganda split resulted in a
+situation where St Andrew's and later Mount Carmel were Padroado churches owing
+allegiance to Portugal and St Peter's was administered by the Propaganda Fide in
+Rome. People were allowed to choose their parish regardless of geographical
+logic so that a family residing by the side of St Andrew's could be parishioners
+of St Peter's and would have their marriages and burials there instead on at the
+neighbouring St Andrew's. In Propaganda churches and schools English education
+was the norm, e.g.., St Xavier's In Bombay and St Stanislaus' in Bandra while
+Portuguese was the language preferred in Padroado schools like St Andrew's.
+
+In an effort to resolve this situation, where the community found itself at a
+disadvantage there were many protests and representations made. The quality of
+the protest as judged from the extensive correspondence on file between East
+Indian community local leaders and the ecclesiastical authorities in Rome and
+the English authorities in London speaks of a highly educated cadre of East
+Indian leaders.
+
+In 1887 when the name was adopted there was a feeling of being discriminated
+against that was to a significant extent due to the fact that much of the clergy
+were from Goa, owing allegiance to the Padroado faction. Thus they were seen as
+favouring Goan immigrants to the Bombay area to the detriment of the indigenous
+people.
+
+Ultimately an agreement in 1928 put an end to the right of patronage outside of
+Portuguese territories in India and amalgamated all the churches under the
+archdioceses of Bombay. Before this amalgamation the Catholic archdiocese of
+Bombay had 36360 souls in 1928 and to this was added 93,692 persons from the old
+diocese of Damaun. Secular priests increased by almost 300% to a total of 125.
+With regard to schools the Propaganda diocese had 109 schools before the
+agreement to which the Padroado added 58 more.
+
+The Woodstock Letters
+=====================
+
+The members of the Society of Jesus of the United States tell their fascinating
+story in the pages of The Woodstock Letters, a journal published from 1872 to
+1969 at the Jesuits' Woodstock, Maryland, scholasticate. The Woodstock Letters
+is one of the most extensive and literate sources for Jesuit information in
+existence, providing access to scholarly historical and biographical essays
+related to Catholic history; contemporary reports from Rome and from parishes,
+schools, and universities in the United States; and obituaries, book reviews,
+and more.
+
+The following letter is from the Woodstock Letters and written by Fr Herbert
+Parker, and American Jesuit posted in Bandra at St Stanislaus', who later became
+Principal of the institution.
+
 ___________________________________
 LETTER FROM FATHER H. PARKER, ST. STANISLAUS', BANDRA, August 22, 1916 ; From the Athenaeum Library, Pune, January 2006
 
 DEAR FATHER EDITOR; P.C.
+
+
 St Stanislaus  (In the year 1916)
 It would amuse you to see the latest reader of the LETTERS. He is a little boy, 13 years of age, and small for his years, his feet not touching the floor as he sits, but with the voice of a man, and an expression in his reading that would do credit to many a one older and long experienced in refectory efforts.
 Our school is on Salsette Island, just north of Bombay Island. This is not the island on which our martyrs, Blessed Rudolph Aqunviva and Companions suffered; that is near the city of Goa. We are on the southern part of the island, in Bandra, a little town that with the surrounding villages, numbers about 25,000 souls. Our school was originally an orphanage, like St. Mary's, Bombay, but now it has the more dignified name of “Institution', though we still have some eighty or ninety orphans. St. Mary's has almost as many, but ours are discalceated, while those at St. Mary's are not, and would not like to be known as orphans

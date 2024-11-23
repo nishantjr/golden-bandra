@@ -20,12 +20,10 @@ main = hakyll $ do
         route   $ removeInitialComponent
         compile compressCssCompiler
 
-    match "src/index.md" $ do
-        route   $ composeRoutes removeInitialComponent $
-                                setExtension "html"
+    match "src/index.html" $ do
+        route   $ removeInitialComponent
         compile $ do getResourceBody
                      >>= applyAsTemplate articlesCtx
-                     >>= renderPandoc
                      >>= loadAndApplyTemplate "templates/default.html" defaultContext
 
     match (    "src/articles/*.md"
