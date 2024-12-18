@@ -48,6 +48,7 @@ timeline = do
             myPandocCompiler
                 >>= saveSnapshot "content"
                 >>= loadAndApplyTemplate "templates/timeline.html" (timelineCtx id)
+                >>= relativizeUrls
     where timelineCtx id =
                 listField "periods" (periodCtx id) (loadAllSnapshots "src/timeline/*.md" "content")
                 `mappend` defaultContext
