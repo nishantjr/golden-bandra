@@ -1,0 +1,56 @@
+
+/* Styling */
+/* ======= */
+
+html                {  background-color: #f6f6f6;
+                       font-family: Verdana, Arial, sans-serif;
+}
+article             { background-color: #fff;
+                      padding-left: 2em;
+                      padding-right: 2em;
+                      padding-top: 1em;
+                      padding-bottom: 1em;
+                      border-radius: 0.4em;
+                    }
+h1, h2, h3, h4      { font-weight: normal; }
+header > h1         { font-size: 1.2em; font-weight: bold; }
+h1                  { font-size: 1.4em; }
+.article-list h1    { font-size: 1em; font-weight: bold; }
+
+.periods li               { padding-right: 0.5em; font-size: 1.2em}
+.periods li a             { text-decoration: none; color: #4b4a4a; }
+.periods li a:hover       {                        color: #000; }
+.periods li.currentpage a { text-decoration: underline; }
+
+.article-list li          { padding-left: 2em;
+                            padding-right: 2em;
+                            padding-top: 0.2em;
+                            padding-bottom: 0.2em;
+                            border-radius: 0.4em;
+                            font-size: 1.1em; background-color: white;
+                          }
+
+
+/* Layout */
+/* ====== */
+
+body                {  max-width: 70em;
+                       margin: auto;
+}
+
+.periods            { display: flex;
+                      flex-direction: row;
+                      list-style: none;
+                      padding: 0;
+                    }
+
+.article-list       { display: flex;
+                      list-style: none;
+                      padding: 0;
+                      flex-wrap: wrap;
+                      justify-content: space-between;
+                      row-gap: 1em;
+                    }
+
+.article-list img   { width: 16em; height: 12em;
+                    }

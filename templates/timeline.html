@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Golden Bandra</title>
+    <link rel="stylesheet" href="/timeline/styles.css">
+  </head>
+  <body>
+      <header>
+          <h1> Lorem Ipsum History of Bandra </h1>
+      </header>
+      <ul class='periods'>
+      $for(periods)$
+          <li $if(current)$ class='currentpage' $endif$ >
+              <a href='$url$' title="$title$">$periodStart$-$periodEnd$</a>
+           </li>
+      $endfor$
+      </ul>
+      <article>
+      <h1> $title$ </h1>
+      $body$
+      </article>
+      <ul class='article-list'>
+          <li>
+              <p>1955-1978</p>
+              <h1> Tata Reclamation Schemes </h1>
+              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
+          </li>
+          <li>
+              <p>1955-1978</p>
+              <h1> Tata Reclamation Schemes </h1>
+              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
+          </li>
+          <li>
+              <p>1955-1978</p>
+              <h1> Tata Reclamation Schemes </h1>
+              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
+          </li>
+          <li>
+              <p>1955-1978</p>
+              <h1> Tata Reclamation Schemes </h1>
+              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
+          </li>
+          <li>
+              <p>1955-1978</p>
+              <h1> Tata Reclamation Schemes </h1>
+              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
+          </li>
+          <li>
+              <p>1955-1978</p>
+              <h1> Tata Reclamation Schemes </h1>
+              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
+          </li>
+          <li>
+              <p>1955-1978</p>
+              <h1> Tata Reclamation Schemes </h1>
+              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
+          </li>
+      </ul>
+  </body>
+</html>
+
+
