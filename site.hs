@@ -12,6 +12,10 @@ import          Hakyll.Images   (loadImage, ensureFitCompiler)
 
 main :: IO ()
 main = hakyll $ do
+    match "src/CNAME" $ do
+        route   removeInitialComponent
+        compile $ copyFileCompiler
+
     match "src/**.jpg" $ do
         route   removeInitialComponent
         compile $ loadImage
