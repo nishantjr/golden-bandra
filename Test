@@ -90,6 +90,7 @@ while true; do case "$1" in
     -h|--help)          shift; usage;;
     -t|--test-only)     shift; test_only=true;;
     -w|--watch)         shift; site_compiler_command=watch;;
+       --check)         shift; site_compiler_command=check;;
     -*)                 usage "unknown option: '$1'";;
     *)                  break;;
 esac; done

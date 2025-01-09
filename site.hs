@@ -25,6 +25,7 @@ main = hakyll $ do
         compile compressCssCompiler
 
     match ( "src/index.md"
+       .||. "src/gb/**.md"
        .||. "src/dlp-letter/**.md"
        .||. "src/the-varsity-circle/**.md"
        .||. "src/dlp-letter/**.md")
