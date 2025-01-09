@@ -173,8 +173,8 @@ January 1933
 | their own folly and recklessness and want of foresight, and let them beware of falling into
 | the rut again. Let them build up their resources with the future well before them, and not
 | think only of the present -- the immediate present.
-|
-| ![Page  9](./09.jpg)
+
+![Page  9](./09.jpg)
 
 
 So They Say
