@@ -1,9 +1,12 @@
 ---
 title: Bandra and The Marathas
+period: 1660-1739
 source: |
     https://docs.google.com/document/d/1nswVwhPbmj-A5_DobwirFAoZqkwaU4wA/edit
 
     Bandramarathasdraft
+desc: |
+    Keeping the Marathas at bay and how they kept themselves safe form Marathas
 ---
 
 
@@ -14,10 +17,10 @@ favoured. First they had to placate the Mughals after Shivaji raided Surat in
 transit, with the idea of availing himself of our territory in the event of an
 emergency" Piss n58 p 152 (citing Livro das moncoes No 30 p 143). Later the
 Mughal armies were allowed to march through Portuguese territory en route to
-attacking Sambhaji who then retaliated after the Mughals withdrew.At a still
+attacking Sambhaji who then retaliated after the Mughals withdrew. At a still
 later stage, the Mughals in turn turned hostile because of perceived support to
 the Marathas. As the Maratha state grew stronger they took over all the
-territory bordering the Portuguese holdings from Daman to Chaul. . The relations
+territory bordering the Portuguese holdings from Daman to Chaul. The relations
 were in three phases of increasing hostility. 1) Initially, in the 1660s under
 Shivaji, they claimed rights over some of these lands which were held by the
 previous rulers (eg Chauth and Gaonkhandi) and which were given to them by these
@@ -227,7 +230,9 @@ faults such as unprepared ness for an abruptly and unexpected war with no aid as
 that received by Bandora and Versova which had sea ports which facilitated
 communication with Bombay and Bassein. Piss p 203
 
-1938
+1738-1739
+---------
+
 Bandora could have been lost to the
 Marathas if it had not been timely supported with men and ammunition by the
 Englishmen who were also interested in its defence. The book Cartas e Ordens
