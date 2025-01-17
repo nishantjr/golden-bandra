@@ -28,7 +28,6 @@ main = hakyll $ do
        .||. "src/gb/**.md"
        .||. "src/st-andrew-book/**.md"
        .||. "src/dlp-letter/**.md"
-       .||. "src/the-varsity-circle/**.md"
        )
         $ do
         route   $ composeRoutes removeInitialComponent $
