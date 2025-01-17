@@ -26,9 +26,10 @@ main = hakyll $ do
 
     match ( "src/index.md"
        .||. "src/gb/**.md"
+       .||. "src/st-andrew-book/**.md"
        .||. "src/dlp-letter/**.md"
        .||. "src/the-varsity-circle/**.md"
-       .||. "src/dlp-letter/**.md")
+       )
         $ do
         route   $ composeRoutes removeInitialComponent $
                                 setExtension "html"
