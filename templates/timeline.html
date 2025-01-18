@@ -13,7 +13,7 @@
       </header>
       <ul class='periods'>
       $for(periods)$
-          <li $if(current)$ class='currentpage' $endif$ >
+           <li $if(current)$ class='currentpage' $endif$ >
               <a href='$url$' title="$title$">$periodStart$-$periodEnd$</a>
            </li>
       $endfor$
@@ -23,55 +23,15 @@
       $body$
       </article>
       <ul class='article-list'>
+          $for(articles)$
           <li>
-              <div>1955-1978</div>
-              <h1> Tata Reclamation Schemes </h1>
-              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
-              <address class="author">Article by <a rel="author" href="/#denis-rodrigues">Denis Rodrigues</a></address>
+              $if(periodStart)$$if(periodEnd)$<div>$periodStart$-$periodEnd$</div>$endif$$endif$
+              <h1><a href='$url$'> $title$</a></h1>
+              <img src='thumbnail' />
+              <address class="author">Article by $author$</address>
               <ul class='tags'><li>Parsis</li><li>Land</li><li>Portuguese</li></ul>
           </li>
-          <li>
-              <div>1955-1978</div>
-              <h1> Tata Reclamation Schemes </h1>
-              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
-              <address class="author">Article by <a rel="author" href="/#denis-rodrigues">Denis Rodrigues</a></address>
-              <ul class='tags'><li>Parsis</li><li>Land</li><li>Portuguese</li></ul>
-          </li>
-          <li>
-              <div>1955-1978</div>
-              <h1> Tata Reclamation Schemes </h1>
-              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
-              <address class="author">Article by <a rel="author" href="/#denis-rodrigues">Denis Rodrigues</a></address>
-              <ul class='tags'><li>Parsis</li><li>Land</li><li>Portuguese</li></ul>
-          </li>
-          <li>
-              <div>1955-1978</div>
-              <h1> Tata Reclamation Schemes </h1>
-              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
-              <address class="author">Article by <a rel="author" href="/#denis-rodrigues">Denis Rodrigues</a></address>
-              <ul class='tags'><li>Parsis</li><li>Land</li><li>Portuguese</li></ul>
-          </li>
-          <li>
-              <div>1955-1978</div>
-              <h1> Tata Reclamation Schemes </h1>
-              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
-              <address class="author">Article by <a rel="author" href="/#denis-rodrigues">Denis Rodrigues</a></address>
-              <ul class='tags'><li>Parsis</li><li>Land</li><li>Portuguese</li></ul>
-          </li>
-          <li>
-              <div>1955-1978</div>
-              <h1> Tata Reclamation Schemes </h1>
-              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
-              <address class="author">Article by <a rel="author" href="/#denis-rodrigues">Denis Rodrigues</a></address>
-              <ul class='tags'><li>Parsis</li><li>Land</li><li>Portuguese</li></ul>
-          </li>
-          <li>
-              <div>1955-1978</div>
-              <h1> Tata Reclamation Schemes </h1>
-              <img src='https://interactive-examples.mdn.mozilla.net/media/cc0-images/grapefruit-slice-332-332.jpg' />
-              <address class="author">Article by <a rel="author" href="/#denis-rodrigues">Denis Rodrigues</a></address>
-              <ul class='tags'><li>Parsis</li><li>Land</li><li>Portuguese</li></ul>
-          </li>
+          $endfor$
       </ul>
   </body>
 </html>

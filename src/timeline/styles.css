@@ -62,7 +62,8 @@ article h1                { font-size: 1.8rem; font-weight: bold; color: #4b4a4a
                       row-gap: 1rem;
                     }
 
-.article-list img   { width: 16rem; height: 12rem; 
+.article-list li > * { width: 16rem; }
+.article-list img   { height: 12rem;
                       filter: grayscale(1); /* For testing purpose. */
                     }
 
