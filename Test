@@ -69,6 +69,7 @@ Options:
   -C              clean build (this project only, not Stack dependencies)
   -h, --help      print this help message
   -t, --test-only compile code and run its unit tests only; don't compile site
+  --watch         compile code and run compiler with watch command
   --prod-release  commit compiled site to gh-pages branch
   --dev-release   commit compiled site to dev release branch
 _____
