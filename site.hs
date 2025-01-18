@@ -30,11 +30,12 @@ main = hakyll $ do
                                 setExtension "html"
         compile $ do
             myPandocCompiler
-                >>= loadAndApplyTemplate "templates/default.html" defaultContext
-
+                >>= loadAndApplyTemplate "templates/article.html" defaultContext
+                >>= loadAndApplyTemplate "templates/main.html" defaultContext
+                >>= relativizeUrls
     match articlePattern article
 
-    match "src/timeline/*.md" timeline
+    match "src/period/*.md" period
     match "templates/*" $ compile templateBodyCompiler
 
 articlePattern = "src/gb/**.md" .||. "src/st-andrew-book/**.md"
@@ -48,18 +49,18 @@ article = do
                 >>= loadAndApplyTemplate "templates/main.html" defaultContext
                 >>= relativizeUrls
 
-timeline = do
+period = do
         route   $ composeRoutes removeInitialComponent $ setExtension "html"
         compile $ do
             id <- getUnderlying
             myPandocCompiler
                 >>= saveSnapshot "content"
-                >>= loadAndApplyTemplate "templates/timeline.html" (timelineCtx id)
-                >>= loadAndApplyTemplate "templates/main.html"     defaultContext
+                >>= loadAndApplyTemplate "templates/period.html" (periodsCtx id)
+                >>= loadAndApplyTemplate "templates/main.html"   defaultContext
                 >>= relativizeUrls
-    where timelineCtx id =
-                listField "periods"  (periodCtx id) (loadAllSnapshots "src/timeline/*.md" "content") `mappend`
-                listField "articles" articleCtx     (loadAllSnapshots articlePattern      "content") `mappend`
+    where periodsCtx id =
+                listField "periods"  (periodCtx id) (loadAllSnapshots "src/period/*.md" "content") `mappend`
+                listField "articles" articleCtx     (loadAllSnapshots articlePattern    "content") `mappend`
                 defaultContext
           periodCtx id =
                 field "current" (\i -> if id == itemIdentifier i then return "current"
