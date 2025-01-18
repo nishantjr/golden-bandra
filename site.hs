@@ -44,7 +44,8 @@ article = do
             id <- getUnderlying
             myPandocCompiler
                 >>= saveSnapshot "content"
-                >>= loadAndApplyTemplate "templates/default.html" defaultContext
+                >>= loadAndApplyTemplate "templates/article.html" defaultContext
+                >>= loadAndApplyTemplate "templates/main.html" defaultContext
                 >>= relativizeUrls
 
 timeline = do
@@ -54,6 +55,7 @@ timeline = do
             myPandocCompiler
                 >>= saveSnapshot "content"
                 >>= loadAndApplyTemplate "templates/timeline.html" (timelineCtx id)
+                >>= loadAndApplyTemplate "templates/main.html"     defaultContext
                 >>= relativizeUrls
     where timelineCtx id =
                 listField "periods"  (periodCtx id) (loadAllSnapshots "src/timeline/*.md" "content") `mappend`
