@@ -2,7 +2,8 @@
       <header>
           <h1> $title$ </h1>
           $if(subtitle)$ <h2> $subtitle$ </h2> $endif$
-          $if(author)$ Article by: $author$ $endif$
+          $if(period)$ <div> $period$ </div> $endif$
+          $if(author)$ <div class='author'> Article by: $author$</div> $endif$
       </header>
       $body$
       </article>

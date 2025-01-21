@@ -2,6 +2,7 @@
 title: "Santo Andre dos Colles"
 subtitle: "The Church by the Shores of the Sea"
 author: "Naresh Fernandes"
+period: 1575-present
 thumbnail: "/st-andrew-book/StAndrewSketch1831.jpg"
 ---
 

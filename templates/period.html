@@ -13,7 +13,7 @@
           $for(articles)$
           <li>
               <a href='$url$'>
-              $if(periodStart)$$if(periodEnd)$<div>$periodStart$-$periodEnd$</div>$endif$$endif$
+              <div class='period'>$if(period)$$period$$else$&nbsp;$endif$</div>
               <h1> $title$</h1>
               <img src='$if(thumbnail)$$thumbnail$$endif$' />
               <address class="author">Article by $author$</address>
