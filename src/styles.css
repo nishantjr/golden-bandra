@@ -21,6 +21,8 @@ article, .periods,
                             border-radius: 0.8rem;
                           }
 
+.article header           { border-bottom: 1px solid grey; }
+
 h1, h2, h3, h4            { font-weight: normal; }
 article h1                { font-size: 1.8rem; font-weight: bold; color: #4b4a4a; }
 .article-list h1          { font-size: 1rem; font-weight: bold; }
@@ -37,8 +39,10 @@ article h1                { font-size: 1.8rem; font-weight: bold; color: #4b4a4a
                             padding-bottom: 1rem;
                             font-size: 1.1rem; background-color: white;
                           }
+.article-list li > a      { display: block; text-decoration: none; color: #4b4a4a; }
 .article-list address     { font-style: normal; font-size: 0.8rem }
 .article-list address a   { color: #4b4a4a; }
+.article-list img         { max-width: 100%; }
 
 
 /* Layout */
@@ -55,6 +59,8 @@ article h1                { font-size: 1.8rem; font-weight: bold; color: #4b4a4a
                       list-style: none;
                       align-items: baseline;
                     }
+
+figure img          {  max-width: 100% }
 
 .article-list       { display: flex;
                       list-style: none;

@@ -2,6 +2,7 @@
 title: "Santo Andre dos Colles"
 subtitle: "The Church by the Shores of the Sea"
 author: "Naresh Fernandes"
+thumbnail: "/st-andrew-book/StAndrewSketch1831.jpg"
 ---
 
 ![View of Bandora on the Island of Salsette. 1831](StAndrewSketch1831.jpg)

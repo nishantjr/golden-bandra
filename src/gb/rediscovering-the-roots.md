@@ -2,6 +2,7 @@
 title: The Bombay East Indians
 subtitle: Rediscovering the Roots
 author: "Fr. Larry Pereira"
+thumbnail: "/gb/images/ranwar5.jpg"
 ---
 
 ![*A rooftop view of Ranwar Village:*

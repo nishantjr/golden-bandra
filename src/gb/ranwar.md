@@ -1,6 +1,7 @@
 ---
 title: "Rustic Ranwar"
 author: Clarence Fernandes, Herman Rodrigues, and Denis Rodrigues
+thumbnail: /gb/images/Kshitj6RanwarXLowRes.jpg
 ---
 
 > This article has been written for the Celebrate Bandra '05 festival
