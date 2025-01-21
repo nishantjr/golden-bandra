@@ -1,6 +1,7 @@
 ---
 title: Bandra and The Marathas
 period: 1660-1739
+author: Denis Rodrigues
 source: |
     https://docs.google.com/document/d/1nswVwhPbmj-A5_DobwirFAoZqkwaU4wA/edit
 

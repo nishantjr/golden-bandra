@@ -38,7 +38,9 @@ main = hakyll $ do
     match "src/period/*.md" period
     match "templates/*" $ compile templateBodyCompiler
 
-articlePattern = "src/gb/**.md" .||. "src/st-andrew-book/**.md"
+articlePattern = "src/gb/**.md"
+            .||. "src/st-andrew-book/**.md"
+            .||. "src/denis-drafts/**.md"
 article = do
         route   $ composeRoutes removeInitialComponent $ setExtension "html"
         compile $ do
