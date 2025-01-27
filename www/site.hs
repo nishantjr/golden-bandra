@@ -23,11 +23,11 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
     match "index.md"
         $ do
         route   $ setExtension "html"
-        compile $ do
-            myPandocCompiler
-                >>= loadAndApplyTemplate "www/templates/article.html" defaultContext
-                >>= loadAndApplyTemplate "www/templates/main.html" defaultContext
-                >>= relativizeUrls
+        compile $ do getResourceBody
+                   >>= applyAsTemplate (periodsCtx "") -- No "Current" period.
+                   >>= renderPandoc
+                   >>= loadAndApplyTemplate "www/templates/main.html" defaultContext
+                   >>= relativizeUrls
     match articlePattern article
 
     match "periods/*.md" period
@@ -53,20 +53,21 @@ period = do
                 >>= loadAndApplyTemplate "www/templates/period.html" (periodsCtx id)
                 >>= loadAndApplyTemplate "www/templates/main.html"   defaultContext
                 >>= relativizeUrls
-    where periodsCtx id =
+
+articleCtx = defaultContext
+
+periodsCtx id =
                 listField "periods"  (periodCtx id) (loadAllSnapshots "periods/*.md" "content") `mappend`
                 listField "articles" articleCtx     (loadAllSnapshots articlePattern "content") `mappend`
                 defaultContext
-          periodCtx id =
+    where periodCtx id =
                 field "current" (\i -> if id == itemIdentifier i then return "current"
                                                                  else fail "other") `mappend`
                 (field "periodStart" (\i -> do return $ start $ itemIdentifier i)) `mappend`
                 (field "periodEnd"   (\i -> do return $ end   $ itemIdentifier i)) `mappend` defaultContext
-          articleCtx = defaultContext
           startEnd id = take 2 $ splitAll "-" $ last $ splitDirectories $ dropExtension $ toFilePath id
           start id = head $ startEnd id
           end id = last $ startEnd id
-
 
 myPandocCompiler = pandocCompilerWithTransform readerOptions writerOptions usingSideNotes
   where readerOptions = def { readerExtensions = extensionsFromList readerExtensions }
