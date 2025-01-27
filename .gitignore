@@ -1,10 +1,10 @@
+tmp/
 /.build/
-/tmp/
-/stack.yaml.lock
+/www/stack.yaml.lock
 
 # TODO: Move the following under .build
 # Stack build-dir.
-/.stack-work/
+/www/.stack-work/
 # hakyll build products
-/_cache
-/_site
+/www/_cache
+/www/_site

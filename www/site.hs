@@ -11,58 +11,51 @@ import          Hakyll.Images   (loadImage, ensureFitCompiler)
 --------------------------------------------------------------------------------
 
 main :: IO ()
-main = hakyll $ do
-    match "src/CNAME" $ do
-        route   removeInitialComponent
-        compile $ copyFileCompiler
-
-    match "src/**.jpg" $ do
+main = hakyllWith (def {providerDirectory = ".."}) $ do
+    match ("items/**.jpg" .||. "items/**.gif") $ do
         route   removeInitialComponent
         compile $ loadImage
 
-    match "src/**.css" $ do
+    match "www/styles.css" $ do
         route   $ removeInitialComponent
         compile compressCssCompiler
 
-    match "src/index.md"
+    match "index.md"
         $ do
-        route   $ composeRoutes removeInitialComponent $
-                                setExtension "html"
+        route   $ setExtension "html"
         compile $ do
             myPandocCompiler
-                >>= loadAndApplyTemplate "templates/article.html" defaultContext
-                >>= loadAndApplyTemplate "templates/main.html" defaultContext
+                >>= loadAndApplyTemplate "www/templates/article.html" defaultContext
+                >>= loadAndApplyTemplate "www/templates/main.html" defaultContext
                 >>= relativizeUrls
     match articlePattern article
 
-    match "src/period/*.md" period
-    match "templates/*" $ compile templateBodyCompiler
+    match "periods/*.md" period
+    match "www/templates/*" $ compile templateBodyCompiler
 
-articlePattern = "src/gb/**.md"
-            .||. "src/st-andrew-book/**.md"
-            .||. "src/denis-drafts/**.md"
+articlePattern = "items/**.md"
 article = do
         route   $ composeRoutes removeInitialComponent $ setExtension "html"
         compile $ do
             id <- getUnderlying
             myPandocCompiler
                 >>= saveSnapshot "content"
-                >>= loadAndApplyTemplate "templates/article.html" defaultContext
-                >>= loadAndApplyTemplate "templates/main.html" defaultContext
+                >>= loadAndApplyTemplate "www/templates/article.html" defaultContext
+                >>= loadAndApplyTemplate "www/templates/main.html" defaultContext
                 >>= relativizeUrls
 
 period = do
-        route   $ composeRoutes removeInitialComponent $ setExtension "html"
+        route   $ setExtension "html"
         compile $ do
             id <- getUnderlying
             myPandocCompiler
                 >>= saveSnapshot "content"
-                >>= loadAndApplyTemplate "templates/period.html" (periodsCtx id)
-                >>= loadAndApplyTemplate "templates/main.html"   defaultContext
+                >>= loadAndApplyTemplate "www/templates/period.html" (periodsCtx id)
+                >>= loadAndApplyTemplate "www/templates/main.html"   defaultContext
                 >>= relativizeUrls
     where periodsCtx id =
-                listField "periods"  (periodCtx id) (loadAllSnapshots "src/period/*.md" "content") `mappend`
-                listField "articles" articleCtx     (loadAllSnapshots articlePattern    "content") `mappend`
+                listField "periods"  (periodCtx id) (loadAllSnapshots "periods/*.md" "content") `mappend`
+                listField "articles" articleCtx     (loadAllSnapshots articlePattern "content") `mappend`
                 defaultContext
           periodCtx id =
                 field "current" (\i -> if id == itemIdentifier i then return "current"
