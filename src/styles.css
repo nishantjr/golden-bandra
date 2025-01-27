@@ -26,6 +26,7 @@ article, .periods,
 h1, h2, h3, h4            { font-weight: normal; }
 
 article h1                { font-size: 1.8rem; font-weight: bold; color: #4b4a4a; }
+article                   { font-size: 1.5rem; }
 .article      header > h1 { margin-bottom: 0; }
 .article      header > .author
                           { font-size: 0.8rem; padding-top: 0.4rem; }
@@ -65,7 +66,8 @@ article h1                { font-size: 1.8rem; font-weight: bold; color: #4b4a4a
                       align-items: baseline;
                     }
 
-figure img          {  max-width: 100% }
+p       > img,
+figure  > img       { max-width: 100% }
 
 .article-list       { display: flex;
                       list-style: none;

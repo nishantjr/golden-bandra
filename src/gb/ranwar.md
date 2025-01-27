@@ -26,7 +26,7 @@ of the village along Veronica Street - is slowly being enveloped in the
 surrounding concrete and steel high-rise apartments, today's
 depersonalised housing units that are the antithesis of the red-tiled,
 spacious bungalows with little gardens and open verandas.
-](images/Kshitj6RanwarXLowRes.jpg)
+](images/Kshitj6RanwarXLowRes.jpg){width=100%}
 
 
 Ranwar today, is the confusion of houses adjoining a central street,
@@ -162,7 +162,7 @@ appear for their matriculation, went to Bombay.
 Agriculture for many was no longer the main livelihood and this was
 fortunate because there was now need for alternate use of the land.
 
-![](images/BandraMapOldLow72.jpg)
+![](images/BandraMapOldLow72.jpg){width=100%}
 
 A pestilence was recorded in Bandra in 1700, which severely affected
 cultivation. Later in the nineteenth century epidemics of typhoid,
@@ -264,7 +264,7 @@ short route from the Bandra Reclamation to 'Hill Road' and beyond. The
 ever-present dust and noise and a dozen traffic jams a day are now
 accepted with stoic resignation.
 
-![](images/ranwar2610Low.jpg){border="0" width="450" height="360"}
+![](images/ranwar2610Low.jpg){width=100%}
 
 The most telling and poignant reminder of an era gone forever, is the
 sight today of village doors, closed in the daytime. Was a time a few
@@ -295,6 +295,4 @@ tomorrow's pork vindaal on hooves. But for how long will these quaint
 places endure? Development, that dread tide in our affairs and lives,
 cannot be far off and with it more cause for wistful nostalgia.
 
-![](images/14RanwarLow.jpg)
-
- 
+![](images/14RanwarLow.jpg){width=100%}
