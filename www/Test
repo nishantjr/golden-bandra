@@ -60,7 +60,7 @@ _____
     exit 2
 }
 
-#   `site-compiler build` does an incremental build that assumes that
+#   `builder build` does an incremental build that assumes that
 #   the site compiler hasn't changed. We need `rebuild` in case it
 #   has. (An optimization would be to detect whether the site compiler
 #   has changed or not.)
@@ -87,11 +87,11 @@ install_stack
 
 stack build --test
 if ! $test_only; then
-    #   `site-compiler build` does an incremental build that assumes that
+    #   `builder build` does an incremental build that assumes that
     #   the site compiler hasn't changed. We need `rebuild` in case it
     #   has. (An optimization would be to detect whether the site compiler
     #   has changed or not.)
-    stack exec site-compiler "$site_compiler_command"
+    stack exec builder "$site_compiler_command"
 
     [[ $relbranch ]] && {
         echo "Committing compiled site in _site/ to $relbranch"
