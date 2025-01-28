@@ -1,6 +1,7 @@
 ---
 title: Archival Registry Records
 author: Clarence Fernandes
+thumbnail: /st-andrew-book/BWREGBac.jpg
 ---
 
 
