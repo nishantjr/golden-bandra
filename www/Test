@@ -24,23 +24,6 @@ install_stack() {
     curl -sSL https://get.haskellstack.org/ | sh -s - -d "$stackbin"
 }
 
-#   Install Haskell Stack if necessary and ensure it's in $PATH.
-install_or_upgrade_stack() {
-    #   Don't try to upgrade a non-clean build more than once per hour.
-    local ts_file="$basedir/.stack-work/stack-upgrade-timestamp"
-    local ts=$(stat --format "%Y" "$ts_file" 2>/dev/null)
-    : ts=${ts:=0}
-    local age=$(( $(date '+%s') - $ts))
-    [[ $age -lt 3600 ]] && return 0     # Don't check more than once per hour.
-
-    stack upgrade || stack --version 2>/dev/null || {
-        install_stack
-    }
-
-    mkdir -p "$(dirname "$ts_file")"
-    touch "$ts_file"
-}
-
 set_prod_release_branch() {
     curbranch=$(git rev-parse --abbrev-ref HEAD)
     [[ $curbranch = main ]] || die 1 \
@@ -100,8 +83,6 @@ esac; done
 basedir=$(cd "$(dirname "$0")" && pwd -P)
 cd "$basedir"
 
-# Let's not auto-upgrade for now
-# install_or_upgrade_stack
 install_stack
 
 stack build --test
