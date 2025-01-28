@@ -12,7 +12,7 @@ import          Hakyll.Images   (loadImage, ensureFitCompiler)
 
 main :: IO ()
 main = hakyllWith (def {providerDirectory = ".."}) $ do
-    match ("items/**.jpg" .||. "items/**.gif") $ do
+    match ("items/**.jpg" .||. "items/**.png" .||. "items/**.gif") $ do
         route   removeInitialComponent
         compile $ loadImage
 
