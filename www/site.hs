@@ -28,19 +28,19 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
                    >>= renderPandoc
                    >>= loadAndApplyTemplate "www/templates/main.html" defaultContext
                    >>= relativizeUrls
-    match articlePattern article
+    match itemPattern itemCompiler
 
     match "periods/*.md" period
     match "www/templates/*" $ compile templateBodyCompiler
 
-articlePattern = "items/**.md"
-article = do
+itemPattern = "items/**.md"
+itemCompiler = do
         route   $ composeRoutes removeInitialComponent $ setExtension "html"
         compile $ do
             id <- getUnderlying
             myPandocCompiler
                 >>= saveSnapshot "content"
-                >>= loadAndApplyTemplate "www/templates/article.html" defaultContext
+                >>= loadAndApplyTemplate "www/templates/item.html" defaultContext
                 >>= loadAndApplyTemplate "www/templates/main.html" defaultContext
                 >>= relativizeUrls
 
@@ -58,7 +58,7 @@ articleCtx = defaultContext
 
 periodsCtx id =
                 listField "periods"  (periodCtx id) (loadAllSnapshots "periods/*.md" "content") `mappend`
-                listField "articles" articleCtx     (loadAllSnapshots articlePattern "content") `mappend`
+                listField "articles" articleCtx     (loadAllSnapshots itemPattern "content") `mappend`
                 defaultContext
     where periodCtx id =
                 field "current" (\i -> if id == itemIdentifier i then return "current"
