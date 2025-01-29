@@ -58,11 +58,10 @@ periodPattern :: Pattern
 periodPattern = "periods/*.md"
 
 periodCtx :: Identifier -> Context String
-periodCtx id =
-                field "current" (\i -> if id == itemIdentifier i then return "current"
+periodCtx id =  field "current" (\i -> if id == itemIdentifier i then return "current"
                                                                  else fail "other") `mappend`
-                (field "periodStart" (\i -> do return $ start $ itemIdentifier i)) `mappend`
-                (field "periodEnd"   (\i -> do return $ end   $ itemIdentifier i)) `mappend` defaultContext
+               (field "periodStart" (\i -> do return $ start $ itemIdentifier i)) `mappend`
+               (field "periodEnd"   (\i -> do return $ end   $ itemIdentifier i)) `mappend` defaultContext
     where startEnd id = take 2 $ splitAll "-" $ last $ splitDirectories $ dropExtension $ toFilePath id
           start id = head $ startEnd id
           end id = last $ startEnd id
