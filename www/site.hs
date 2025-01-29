@@ -15,44 +15,42 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
     match ("items/**.jpg" .||. "items/**.png" .||. "items/**.gif") $ do
         route   removeInitialComponent
         compile $ loadImage
-
     match "www/styles.css" $ do
         route   $ removeInitialComponent
         compile compressCssCompiler
 
-    match "index.md"
-        $ do
-        route   $ setExtension "html"
-        compile $ do getResourceBody
-                   >>= applyAsTemplate (periodsCtx "") -- No "Current" period.
-                   >>= renderPandoc
-                   >>= loadAndApplyTemplate "www/templates/main.html" defaultContext
-                   >>= relativizeUrls
-    match itemPattern itemCompiler
+    --- Items
+    match itemPattern $ do
+        route   $ composeRoutes removeInitialComponent $ setExtension "html"
+        compile itemCompiler
 
-    match "periods/*.md" period
+    --- Listings
+    match "index.md" $ do
+        route   $ setExtension "html"
+        compile $ listingCompiler
+    match "periods/*.md" $ do
+        route   $ setExtension "html"
+        compile $ listingCompiler
+
     match "www/templates/*" $ compile templateBodyCompiler
 
-itemPattern = "items/**.md"
-itemCompiler = do
-        route   $ composeRoutes removeInitialComponent $ setExtension "html"
-        compile $ do
-            id <- getUnderlying
-            myPandocCompiler
-                >>= saveSnapshot "content"
-                >>= loadAndApplyTemplate "www/templates/item.html" defaultContext
-                >>= loadAndApplyTemplate "www/templates/main.html" defaultContext
-                >>= relativizeUrls
 
-period = do
-        route   $ setExtension "html"
-        compile $ do
-            id <- getUnderlying
-            myPandocCompiler
-                >>= saveSnapshot "content"
-                >>= loadAndApplyTemplate "www/templates/period.html" (periodsCtx id)
-                >>= loadAndApplyTemplate "www/templates/main.html"   defaultContext
-                >>= relativizeUrls
+itemPattern = "items/**.md"
+itemCompiler =
+    do id <- getUnderlying
+       mdCompiler
+         >>= saveSnapshot "content"
+         >>= loadAndApplyTemplate "www/templates/item.html" defaultContext
+         >>= loadAndApplyTemplate "www/templates/main.html" defaultContext
+         >>= relativizeUrls
+
+listingCompiler =
+    do id <- getUnderlying
+       mdCompiler
+         >>= saveSnapshot "content"
+         >>= loadAndApplyTemplate "www/templates/period.html" (periodsCtx id)
+         >>= loadAndApplyTemplate "www/templates/main.html"   defaultContext
+         >>= relativizeUrls
 
 articleCtx = defaultContext
 
@@ -69,7 +67,7 @@ periodsCtx id =
           start id = head $ startEnd id
           end id = last $ startEnd id
 
-myPandocCompiler = pandocCompilerWithTransform readerOptions writerOptions usingSideNotes
+mdCompiler = pandocCompilerWith readerOptions writerOptions
   where readerOptions = def { readerExtensions = extensionsFromList readerExtensions }
         readerExtensions = [
                Ext_fancy_lists,
