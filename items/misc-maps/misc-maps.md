@@ -3,7 +3,6 @@ title: Misc Maps
 author: ""
 ---
 
-
 ![](1.Portuguese-era-MAP-BANDORA-island.jpg)
 ![](1921-us-navy-hydographic-map.png)
 ![](5.-Gazdar-Bandh-Road.jpg)

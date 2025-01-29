@@ -2,6 +2,7 @@
 title: The Santos Passos
 subtitle: The Depictions of Christ's Passion
 author: ""
+type: article
 ---
 
 

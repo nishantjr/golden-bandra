@@ -4,6 +4,7 @@ subtitle: "The Church by the Shores of the Sea"
 author: "Naresh Fernandes"
 period: 1575-present
 thumbnail: "/st-andrew-book/StAndrewSketch1831.jpg"
+type: article
 ---
 
 ![View of Bandora on the Island of Salsette. 1831](StAndrewSketch1831.jpg)

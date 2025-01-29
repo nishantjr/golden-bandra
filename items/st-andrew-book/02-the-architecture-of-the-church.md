@@ -1,6 +1,7 @@
 ---
 title: The Architecture of the Church
 author: "XXX"
+type: article
 ---
 
 ![](./stan4200.jpg){data-credit="Herman Rodrigues 2000"}

@@ -1,6 +1,7 @@
 ---
 title: Roads
 author: ""
+type: maps
 ---
 
 Needs some context where.

@@ -2,9 +2,10 @@
 title: Portuguese Period
 period: 1498-1508
 author: Denis Rodrigues
-source: |
+comment: |
     https://docs.google.com/document/d/1TNelJZc53yuaZJ7XAUfcVDl9SgRne91t
     Portuguese Period
+type: article
 ---
 
 Two questions:

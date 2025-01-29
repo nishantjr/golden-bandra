@@ -2,12 +2,12 @@
 title: Bandra and The Marathas
 period: 1660-1739
 author: Denis Rodrigues
-source: |
+comment: |
     https://docs.google.com/document/d/1nswVwhPbmj-A5_DobwirFAoZqkwaU4wA/edit
-
     Bandramarathasdraft
 desc: |
     Keeping the Marathas at bay and how they kept themselves safe form Marathas
+type: article
 ---
 
 
