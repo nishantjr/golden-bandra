@@ -49,8 +49,7 @@ itemCompiler =
        mdCompiler
          >>= saveSnapshot "content"
          >>= loadAndApplyTemplate "www/templates/item.html" itemCtx
-         >>= loadAndApplyTemplate "www/templates/main.html" defaultContext
-         >>= relativizeUrls
+         >>= applyMainTemplate
 
 
 --- Periods
@@ -77,15 +76,16 @@ listingCompiler =
        mdCompiler
          >>= saveSnapshot "content"
          >>= loadAndApplyTemplate "www/templates/period.html" (listingCtx id)
-         >>= loadAndApplyTemplate "www/templates/main.html"   defaultContext
-         >>= relativizeUrls
+         >>= applyMainTemplate
 
+listingCtx :: Identifier -> Context String
 listingCtx id = listField "periods"  (periodCtx id) (loadAllSnapshots "periods/*.md" "content") `mappend`
                 listField "articles" itemCtx        (loadAllSnapshots itemPattern    "content") `mappend`
                 defaultContext
 
-
---- Markdown
+--- Apply the main template and other nicities needed for a complete page.
+applyMainTemplate :: Item String -> Compiler (Item String)
+applyMainTemplate = (\i -> (loadAndApplyTemplate "www/templates/main.html" defaultContext) i >>= relativizeUrls)
 
 mdCompiler :: Compiler (Item String)
 mdCompiler = pandocCompilerWith readerOptions writerOptions
