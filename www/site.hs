@@ -14,6 +14,9 @@ import          Hakyll.Images   (loadImage, ensureFitCompiler)
 
 main :: IO ()
 main = hakyllWith (def {providerDirectory = ".."}) $ do
+    match "CNAME" $ do
+        route   idRoute
+        compile $ copyFileCompiler
     match ("items/**.jpg" .||. "items/**.png" .||. "items/**.gif") $ do
         route   removeInitialComponent
         compile $ loadImage
