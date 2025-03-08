@@ -12,8 +12,7 @@ body > header       { margin-bottom: 3rem; }
 body > header h1    { font-size: 1.4rem; font-weight: bold; }
 
 h1 a                { text-decoration: none; color: inherit; }
-article             { background-color: #fff;
-                      padding-top: 1rem;
+article             { padding-top: 1rem;
                       padding-bottom: 1rem;
                     }
 
@@ -61,12 +60,14 @@ article                   { font-size: 1.5rem; }
  * From: https://kennethfriedman.org/thoughts/2019/marginal-notes/
  */
 
+.article { max-width: 40rem !important ;
+         }
 aside, .aside {
     display: inline;
     float: right;
     position: relative;
-    width: 20vw;
-    margin-right: -24vw;
+    width: 20rem;
+    margin-right: -22rem;
     font-size: 16px;
 }
    
@@ -74,10 +75,11 @@ aside, .aside {
 /* Layout */
 /* ====== */
 
-.periods, article, .article-list
+.periods, .period, .article-list, .article
                     {  max-width: 62rem;
-                       margin-left: 12%;
+                       margin-left: auto;
                        margin-right: auto;
+                       background-color: #fff;
                     }
 
 .periods            { display: flex;
