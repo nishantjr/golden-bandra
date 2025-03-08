@@ -30,17 +30,8 @@ stone, a monolith, it was constructed in two parts. There
 appears a clear joint in the cross just below the two arms on the main
 upright.
 
-An interesting local belief among the parishioners is that when some
-disaster was about to occur a pink glow would be visible around this
-cross.
-
-
 
 ## Recognition
-
-In recognition of its unique historical significance, the Mumbai Heritage
-Commission has designated it a Grade I heritage structure, the highest
-classification, and the Church as grade IIA, the next highest classification.
 
 In the words of Dr Paolo Aranha a historian, "your cross is a truly
 remarkable monument in terms of symbolism and iconography ... in my own
@@ -48,8 +39,11 @@ personal experience I have never come across such a cross ... It is
 indeed a great merit of your community and its pastors to have conserved
 so carefully such a precious witness of your Christians origins."
 
+In recognition of its unique historical significance, the Mumbai Heritage
+Commission has designated it a Grade I heritage structure, the highest
+classification, and the Church as grade IIA, the next highest classification.
 
-## Carved Symbols
+## Practices and Beliefs
 
 The cross bears forty-five carvings on its faces. Of these twenty
 symbols on the east face pertain to Christ's passion, the *Arma
@@ -64,7 +58,12 @@ the detailed sculpted symbols, one after another to lead his rapt
 congregation through the passion and death of our savior, and the many
 virtues of Mary His mother.
 
+An interesting local belief among the parishioners is that when some
+disaster was about to occur a pink glow would be visible around this
+cross.
 
+
+## Carvings
 
 ![The East Face of the Cross of Santa Anna, containing
 symbols of Christ's passion and crucifiction.

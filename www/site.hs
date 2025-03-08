@@ -1,5 +1,7 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
+{-# LANGUAGE TypeApplications  #-}
+
 import          Data.Monoid (mappend)
 import          System.FilePath
 import          Text.Pandoc.Options
@@ -15,6 +17,10 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
     match ("items/**.jpg" .||. "items/**.png" .||. "items/**.gif") $ do
         route   removeInitialComponent
         compile $ loadImage
+    match "items/**.svg" $ do
+        route   removeInitialComponent
+        compile $ copyFileCompiler
+
     match "www/styles.css" $ do
         route   $ removeInitialComponent
         compile compressCssCompiler
@@ -25,12 +31,12 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
         compile itemCompiler
 
     --- Listings
-    match "index.md" $ do
+    match ("index.md" .||. periodPattern) $ do
         route   $ setExtension "html"
-        compile $ listingCompiler
-    match periodPattern $ do
-        route   $ setExtension "html"
-        compile $ listingCompiler
+        compile $ do
+            mdCompiler
+            >>= saveSnapshot "content"
+            >>= listingCompiler
 
     match "www/templates/*" $ compile templateBodyCompiler
 
@@ -45,8 +51,7 @@ itemCtx = defaultContext
 
 itemCompiler :: Compiler (Item String)
 itemCompiler =
-    do id <- getUnderlying
-       mdCompiler
+    do mdCompiler
          >>= saveSnapshot "content"
          >>= loadAndApplyTemplate "www/templates/item.html" itemCtx
          >>= applyMainTemplate
@@ -69,13 +74,12 @@ periodCtx id =  field "current" (\i -> if id == itemIdentifier i then return "cu
 
 --- Listings
 
-listingCompiler :: Compiler (Item String)
-listingCompiler =
-    do id <- getUnderlying
-       mdCompiler
-         >>= saveSnapshot "content"
-         >>= loadAndApplyTemplate "www/templates/period.html" (listingCtx id)
-         >>= applyMainTemplate
+listingCompiler :: Item String -> Compiler (Item String)
+listingCompiler item =
+    do ident <- getUnderlying
+       pure item
+        >>= loadAndApplyTemplate "www/templates/period.html" (listingCtx ident)
+        >>= applyMainTemplate
 
 listingCtx :: Identifier -> Context String
 listingCtx id = listField "periods"  (periodCtx id) (loadAllSnapshots "periods/*.md" "content") `mappend`
@@ -84,10 +88,11 @@ listingCtx id = listField "periods"  (periodCtx id) (loadAllSnapshots "periods/*
 
 --- Apply the main template and other nicities needed for a complete page.
 applyMainTemplate :: Item String -> Compiler (Item String)
-applyMainTemplate = (\i -> (loadAndApplyTemplate "www/templates/main.html" defaultContext) i >>= relativizeUrls)
+applyMainTemplate =     \i -> (loadAndApplyTemplate "www/templates/main.html" defaultContext) i
+                    >>= relativizeUrls
 
-mdCompiler :: Compiler (Item String)
-mdCompiler = pandocCompilerWith readerOptions writerOptions
+renderMd :: Item String -> Compiler (Item String)
+renderMd = renderPandocWith readerOptions writerOptions
   where readerOptions = def { readerExtensions = extensionsFromList readerExtensions }
         readerExtensions = [
                Ext_fancy_lists, Ext_fenced_divs, Ext_footnotes, Ext_implicit_figures,
@@ -95,6 +100,9 @@ mdCompiler = pandocCompilerWith readerOptions writerOptions
                Ext_smart
            ]
         writerOptions = def::WriterOptions
+
+mdCompiler :: Compiler (Item String)
+mdCompiler = getResourceBody >>= renderMd
 
 --- Routing
 
