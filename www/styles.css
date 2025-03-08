@@ -6,6 +6,8 @@
 html                {  background-color: #f6f6f6;
                        font-family: Verdana, Arial, sans-serif;
                     }
+.article            { font-family: Times New Roman, serif;}
+
 body > header       { margin-bottom: 3rem; }
 body > header h1    { font-size: 1.4rem; font-weight: bold; }
 
@@ -21,9 +23,12 @@ article, .periods,
                             border-radius: 0.8rem;
                           }
 
-.article header           { border-bottom: 1px solid grey; }
-.article header p         { margin-top: 0rem; margin-bottom: 0rem; }
-.article h2               { font-size: 1.1em; font-weight: bold; }
+.article h1               { border-bottom: 1px solid grey; }
+.article header p         { margin-top: 0.2rem; margin-bottom: 0rem; }
+.article h2               { font-size: 1.6rem;
+                            font-weight: normal;
+                            font-style: italic;
+                          }
 
 h3, h4            { font-weight: normal; }
 
@@ -52,13 +57,26 @@ article                   { font-size: 1.5rem; }
 .article-list address a   { color: #4b4a4a; }
 .article-list img         { max-width: 100%; }
 
+/* Margin Notes
+ * From: https://kennethfriedman.org/thoughts/2019/marginal-notes/
+ */
+
+aside, .aside {
+    display: inline;
+    float: right;
+    position: relative;
+    width: 20vw;
+    margin-right: -24vw;
+    font-size: 16px;
+}
+   
 
 /* Layout */
 /* ====== */
 
 .periods, article, .article-list
                     {  max-width: 62rem;
-                       margin-left: auto;
+                       margin-left: 12%;
                        margin-right: auto;
                     }
 
