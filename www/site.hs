@@ -26,7 +26,7 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
 
     match "www/styles.css" $ do
         route   $ removeInitialComponent
-        compile compressCssCompiler
+        compile $ copyFileCompiler
 
     --- Items
     match itemPattern $ do
