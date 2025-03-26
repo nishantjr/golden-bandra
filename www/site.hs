@@ -33,8 +33,16 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
         route   $ composeRoutes removeInitialComponent $ setExtension "html"
         compile itemCompiler
 
+    match "index.md" $ do
+        route   $ setExtension "html"
+        compile $ do getResourceBody
+             >>= applyAsTemplate periodsField
+             >>= renderPandoc
+             >>= loadAndApplyTemplate "www/templates/frontpage.html" defaultContext
+             >>= applyMainTemplate
+
     --- Listings
-    match ("index.md" .||. periodPattern) $ do
+    match periodPattern $ do
         route   $ setExtension "html"
         compile $ do
             mdCompiler
@@ -65,15 +73,14 @@ itemCompiler =
 periodPattern :: Pattern
 periodPattern = "periods/*.md"
 
-periodCtx :: Identifier -> Context String
-periodCtx id =  field "current" (\i -> if id == itemIdentifier i then return "current"
-                                                                 else fail "other") `mappend`
-               (field "periodStart" (\i -> do return $ start $ itemIdentifier i)) `mappend`
-               (field "periodEnd"   (\i -> do return $ end   $ itemIdentifier i)) `mappend` defaultContext
+periodCtx :: Context String
+periodCtx = (field "periodStart" (\i -> do return $ start $ itemIdentifier i)) `mappend`
+            (field "periodEnd"   (\i -> do return $ end   $ itemIdentifier i)) `mappend` defaultContext
     where startEnd id = take 2 $ splitAll "-" $ last $ splitDirectories $ dropExtension $ toFilePath id
           start id = head $ startEnd id
           end id = last $ startEnd id
 
+periodsField = listField "periods"  periodCtx  (loadAllSnapshots "periods/*.md" "content")
 
 --- Listings
 
@@ -85,8 +92,7 @@ listingCompiler item =
         >>= applyMainTemplate
 
 listingCtx :: Identifier -> Context String
-listingCtx id = listField "periods"  (periodCtx id) (loadAllSnapshots "periods/*.md" "content") `mappend`
-                listField "articles" itemCtx        (loadAllSnapshots itemPattern    "content") `mappend`
+listingCtx id = listField "articles" itemCtx    (loadAllSnapshots itemPattern    "content") `mappend`
                 defaultContext
 
 --- Apply the main template and other nicities needed for a complete page.

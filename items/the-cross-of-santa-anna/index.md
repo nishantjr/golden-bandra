@@ -1,7 +1,6 @@
 ---
-title: The Cross of Santa Anna
-subtitle: A Bible Carved in Stone
-author: XXX
+title: "The Cross of Santa Anna: A Bible Carved in Stone"
+author: Herman Rodrigues, Sid, Denis Rodrigues
 ---
 
 
@@ -20,7 +19,7 @@ TODO: Credit](./CrossGav.jpg)
 
 ## History
 
-Sculpted in 1739, the cross originally stood in the compound of Santa Anna,
+Sculpted in 1678, the cross originally stood in the compound of Santa Anna,
 located near the present Bandra Suburban Railway Station.
 This fortified church was the first in Bandra, and was destroyed
 in 1739 to prevent it from falling into the hands of the Marathas.
@@ -60,16 +59,22 @@ the detailed sculpted symbols, one after another to lead his rapt
 congregation through the passion and death of our savior, and the many
 virtues of Mary His mother.
 
+::: aside
 
 ![The East Face of the Cross of Santa Anna, containing
 symbols of Christ's passion and crucifiction.
 TODO: Image Credits
 ](/st-andrew-book/SA_CrossSymbols-07.svg)
 
+:::
+
+::: aside
 
 ![The West Face of the Cross, containing the Marian symbols.
 TODO: Image Credits
 ](/st-andrew-book/SA_CrossSymbols-08.svg)
+
+:::
 
 
 There are three other sculptings on the cross. The *Titulus Crucis*,

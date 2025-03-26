@@ -1,5 +1,5 @@
 ---
-title: The Coopertive Schemes, The Salsette and St Sebastian Schemes
+title: Coopertive Schemes
 ---
 
 A major contributor to making Bandra a garden city was the role of two
