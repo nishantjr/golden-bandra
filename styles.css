@@ -4,9 +4,8 @@
 /* ======= */
 
 html                {  background-color: #f6f6f6;
-                       font-family: Verdana, Arial, sans-serif;
+                       font-family: Times New Roman, serif;
                     }
-.article            { font-family: Times New Roman, serif;}
 
 body > header       { margin-bottom: 3rem; }
 body > header h1    { font-size: 1.4rem; font-weight: bold; }
@@ -22,20 +21,23 @@ article, .periods,
                             border-radius: 0.8rem;
                           }
 
-.article h1               { border-bottom: 1px solid grey; }
+.article header           { border-bottom: 1px solid grey;
+                            padding-bottom: 6px;
+                          }
 .article header p         { margin-top: 0.2rem; margin-bottom: 0rem; }
 .article h2               { font-size: 1.6rem;
-                            font-weight: normal;
-                            font-style: italic;
+                            font-weight: bold;
                           }
 
-h3, h4            { font-weight: normal; }
+h3, h4                    { font-weight: normal; }
 
 article h1                { font-size: 1.8rem; font-weight: bold; color: #4b4a4a; }
 article                   { font-size: 1.5rem; }
+figure                    { font-size: 1.5rem; margin: 0px; }
 .article      header > h1 { margin-bottom: 0; }
-.article      header > .author
-                          { font-size: 0.8rem; padding-top: 0.4rem; }
+.article      header > .author,
+.article      header > .collections
+                          { font-size: 1.2rem; padding-top: 0.4rem; }
 .article-list h1          { font-size: 1rem; font-weight: bold; }
 
 
@@ -49,8 +51,18 @@ article                   { font-size: 1.5rem; }
 
 .article-list li          { padding-top: 1rem;
                             padding-bottom: 1rem;
-                            font-size: 1.1rem; background-color: white;
+                            font-size: 1.1rem;
+                            background-color: white;
                           }
+
+.columns                  { display: flex; }
+.column-medium            { flex:       2; }
+.column-theme             { flex:       3; }
+.column-period            { flex:       5; }
+.column ul                { list-style: none; 
+                            padding-left: 0px;
+                          }
+
 .article-list li > a      { display: block; text-decoration: none; color: #4b4a4a; }
 .article-list address     { font-style: normal; font-size: 0.8rem }
 .article-list address a   { color: #4b4a4a; }
@@ -60,14 +72,14 @@ article                   { font-size: 1.5rem; }
  * From: https://kennethfriedman.org/thoughts/2019/marginal-notes/
  */
 
-.article { max-width: 40rem !important ;
-         }
+.article > :not(:nth-child(2)):not(.aside):not(header)
+                          { padding-left: 24rem; }
 aside, .aside {
     display: inline;
-    float: right;
+    float: left;
+    clear: left;
     position: relative;
-    width: 20rem;
-    margin-right: -22rem;
+    width: 17rem;
     font-size: 16px;
 }
    
@@ -75,13 +87,13 @@ aside, .aside {
 /* Layout */
 /* ====== */
 
-.periods, .period, .article-list, .article
+.periods, .period, .article-list, .article, .frontpage
                     {  max-width: 62rem;
                        margin-left: auto;
                        margin-right: auto;
-                       background-color: #fff;
                     }
-
+.period, .article, .frontpage
+                    { background-color: white; }
 .periods            { display: flex;
                       flex-direction: row;
                       list-style: none;
@@ -104,7 +116,7 @@ figure  > img       { max-width: 100% }
                       filter: grayscale(1); /* For testing purpose. */
                     }
 
-.tags               { display: flex; list-style: none; padding: 0px; margin: 0px;
+.tags               { display: inline-flex; list-style: none; padding: 0px; margin: 0px;
                       margin-top: 0.2rem;
                     }
 .tags li            { font-size: 0.8rem;
