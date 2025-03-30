@@ -34,14 +34,24 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
         compile itemCompiler
 
     --- Listings
-    match ("index.md" .||. periodPattern) $ do
+    match "index.md" $ do
         route   $ setExtension "html"
-        compile $ do
-            mdCompiler
-            >>= saveSnapshot "content"
-            >>= listingCompiler
+        compile $ do getResourceBody
+             >>= applyAsTemplate frontpageCtx
+             >>= renderPandoc
+             >>= listingCompiler
+
+    match periodPattern $ do
+        route   $ setExtension "html"
+        compile $ do mdCompiler >>= saveSnapshot "content" >>= listingCompiler
 
     match "www/templates/*" $ compile templateBodyCompiler
+
+
+--- Frontpage
+
+frontpageCtx = listField "periods"  periodCtx (loadAllSnapshots "periods/*.md" "content")
+               `mappend` defaultContext
 
 
 --- Items
@@ -65,11 +75,9 @@ itemCompiler =
 periodPattern :: Pattern
 periodPattern = "periods/*.md"
 
-periodCtx :: Identifier -> Context String
-periodCtx id =  field "current" (\i -> if id == itemIdentifier i then return "current"
-                                                                 else fail "other") `mappend`
-               (field "periodStart" (\i -> do return $ start $ itemIdentifier i)) `mappend`
-               (field "periodEnd"   (\i -> do return $ end   $ itemIdentifier i)) `mappend` defaultContext
+periodCtx :: Context String
+periodCtx = (field "periodStart" (\i -> do return $ start $ itemIdentifier i)) `mappend`
+            (field "periodEnd"   (\i -> do return $ end   $ itemIdentifier i)) `mappend` defaultContext
     where startEnd id = take 2 $ splitAll "-" $ last $ splitDirectories $ dropExtension $ toFilePath id
           start id = head $ startEnd id
           end id = last $ startEnd id
@@ -83,11 +91,10 @@ listingCompiler item =
        pure item
         >>= loadAndApplyTemplate "www/templates/period.html" (listingCtx ident)
         >>= applyMainTemplate
-
-listingCtx :: Identifier -> Context String
-listingCtx id = listField "periods"  (periodCtx id) (loadAllSnapshots "periods/*.md" "content") `mappend`
-                listField "articles" itemCtx        (loadAllSnapshots itemPattern    "content") `mappend`
-                defaultContext
+  where
+    listingCtx :: Identifier -> Context String
+    listingCtx id = listField "articles" itemCtx (loadAllSnapshots itemPattern    "content") `mappend`
+                    defaultContext
 
 --- Apply the main template and other nicities needed for a complete page.
 applyMainTemplate :: Item String -> Compiler (Item String)

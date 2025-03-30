@@ -15,7 +15,7 @@ article             { padding-top: 1rem;
                       padding-bottom: 1rem;
                     }
 
-article, .periods,
+article,
 .article-list li          { padding-left: 2rem;
                             padding-right: 2rem;
                             border-radius: 0.8rem;
@@ -38,22 +38,11 @@ figure                    { font-size: 1.5rem; margin: 0px; }
 .article      header > .author
                           { font-size: 1.2rem; padding-top: 0.4rem; }
 .article-list h1          { font-size: 1rem; font-weight: bold; }
-
-
-.periods li               { margin-right: 1.5rem; font-size: 1.4rem;}
-.periods li a             { text-decoration: none; color: #4b4a4a; }
-.periods li a:hover       {                        color: #000; }
-.periods li.currentpage   { border-bottom: 0.3rem solid #4b4a4a;
-                            font-weight: bold;
-                            font-size: 1.8rem;
-                          }
-
 .article-list li          { padding-top: 1rem;
                             padding-bottom: 1rem;
                             font-size: 1.1rem;
                             background-color: white;
                           }
-
 .article-list li > a      { display: block; text-decoration: none; color: #4b4a4a; }
 .article-list address     { font-style: normal; font-size: 0.8rem }
 .article-list address a   { color: #4b4a4a; }
@@ -73,22 +62,15 @@ aside, .aside {
     margin-right: -22rem;
     font-size: 16px;
 }
-   
 
 /* Layout */
 /* ====== */
 
-.periods, .period, .article-list, .article
+.period, .article-list, .article
                     {  max-width: 62rem;
                        margin-left: auto;
                        margin-right: auto;
                        background-color: #fff;
-                    }
-
-.periods            { display: flex;
-                      flex-direction: row;
-                      list-style: none;
-                      align-items: baseline;
                     }
 
 p       > img,
