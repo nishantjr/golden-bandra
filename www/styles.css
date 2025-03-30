@@ -100,9 +100,7 @@ figure  > img       { max-width: 100% }
                     }
 
 .article-list li > * { width: 16rem; }
-.article-list img   { height: 12rem;
-                      filter: grayscale(1); /* For testing purpose. */
-                    }
+.article-list img   { height: 12rem; }
 
 .tags               { display: flex; list-style: none; padding: 0px; margin: 0px;
                       margin-top: 0.2rem;
