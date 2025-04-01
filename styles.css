@@ -15,7 +15,7 @@ article             { padding-top: 1rem;
                       padding-bottom: 1rem;
                     }
 
-article, .periods,
+article,
 .article-list li          { padding-left: 2rem;
                             padding-right: 2rem;
                             border-radius: 0.8rem;
@@ -33,36 +33,16 @@ h3, h4                    { font-weight: normal; }
 
 article h1                { font-size: 1.8rem; font-weight: bold; color: #4b4a4a; }
 article                   { font-size: 1.5rem; }
-figure                    { font-size: 1.5rem; margin: 0px; }
+figure                    { font-size: 1.2rem; margin: 0px; }
 .article      header > h1 { margin-bottom: 0; }
-.article      header > .author,
-.article      header > .collections
+.article      header > .author
                           { font-size: 1.2rem; padding-top: 0.4rem; }
 .article-list h1          { font-size: 1rem; font-weight: bold; }
-
-
-.periods li               { margin-right: 1.5rem; font-size: 1.4rem;}
-.periods li a             { text-decoration: none; color: #4b4a4a; }
-.periods li a:hover       {                        color: #000; }
-.periods li.currentpage   { border-bottom: 0.3rem solid #4b4a4a;
-                            font-weight: bold;
-                            font-size: 1.8rem;
-                          }
-
 .article-list li          { padding-top: 1rem;
                             padding-bottom: 1rem;
                             font-size: 1.1rem;
                             background-color: white;
                           }
-
-.columns                  { display: flex; }
-.column-medium            { flex:       2; }
-.column-theme             { flex:       3; }
-.column-period            { flex:       5; }
-.column ul                { list-style: none; 
-                            padding-left: 0px;
-                          }
-
 .article-list li > a      { display: block; text-decoration: none; color: #4b4a4a; }
 .article-list address     { font-style: normal; font-size: 0.8rem }
 .article-list address a   { color: #4b4a4a; }
@@ -72,8 +52,7 @@ figure                    { font-size: 1.5rem; margin: 0px; }
  * From: https://kennethfriedman.org/thoughts/2019/marginal-notes/
  */
 
-.article > :not(:nth-child(2)):not(.aside):not(header)
-                          { padding-left: 24rem; }
+.article > :not(:nth-child(2)):not(.aside):not(header):not(:has(> .fullwidth)) { padding-left: 24rem; }
 aside, .aside {
     display: inline;
     float: left;
@@ -82,22 +61,15 @@ aside, .aside {
     width: 17rem;
     font-size: 16px;
 }
-   
 
 /* Layout */
 /* ====== */
 
-.periods, .period, .article-list, .article, .frontpage
+.period, .article-list, .article
                     {  max-width: 62rem;
                        margin-left: auto;
                        margin-right: auto;
-                    }
-.period, .article, .frontpage
-                    { background-color: white; }
-.periods            { display: flex;
-                      flex-direction: row;
-                      list-style: none;
-                      align-items: baseline;
+                       background-color: #fff;
                     }
 
 p       > img,
@@ -112,11 +84,9 @@ figure  > img       { max-width: 100% }
                     }
 
 .article-list li > * { width: 16rem; }
-.article-list img   { height: 12rem;
-                      filter: grayscale(1); /* For testing purpose. */
-                    }
+.article-list img   { height: 12rem; }
 
-.tags               { display: inline-flex; list-style: none; padding: 0px; margin: 0px;
+.tags               { display: flex; list-style: none; padding: 0px; margin: 0px;
                       margin-top: 0.2rem;
                     }
 .tags li            { font-size: 0.8rem;
@@ -125,3 +95,8 @@ figure  > img       { max-width: 100% }
                       margin-right: 0.4rem;
                       border-radius: 0.2rem;
                     }
+
+.columns            { display: flex; }
+.column             { flex: 1; }
+.by-theme   ul,
+.by-period  ul      { list-style: none; padding: 0px; }
