@@ -66,12 +66,12 @@ virtues of Mary His mother.
 ![The East Face of the Cross of Santa Anna, containing
 symbols of Christ's passion and crucifiction.
 TODO: Image Credits
-](/st-andrew-book/SA_CrossSymbols-07.svg)
+](/st-andrew-book/SA_CrossSymbols-07.svg){.fullwidth}
 
 
 ![The West Face of the Cross, containing the Marian symbols.
 TODO: Image Credits
-](/st-andrew-book/SA_CrossSymbols-08.svg)
+](/st-andrew-book/SA_CrossSymbols-08.svg){.fullwidth}
 
 
 There are three other sculptings on the cross. The *Titulus Crucis*,
