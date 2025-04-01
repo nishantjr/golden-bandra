@@ -13,8 +13,26 @@ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ### Browse Collections
 
+:::: columns
+
+::: {.column .by-period}
+
 #### By Period
 
 $for(periods)$
 * [$periodStart$-$periodEnd$: $title$]($url$)
 $-endfor$
+
+:::
+
+::: {.column .by-theme}
+
+#### By Theme
+
+$for(periods)$
+* [$periodStart$-$periodEnd$: $title$]($url$)
+$-endfor$
+
+:::
+
+::::

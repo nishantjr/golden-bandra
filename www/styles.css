@@ -96,3 +96,8 @@ figure  > img       { max-width: 100% }
                       margin-right: 0.4rem;
                       border-radius: 0.2rem;
                     }
+
+.columns            { display: flex; }
+.column             { flex: 1; }
+.by-theme   ul,
+.by-period  ul      { list-style: none; padding: 0px; }
