@@ -1,5 +1,7 @@
 ---
 title: British Authority
+periodStart: 1775
+periodEnd:   1947
 ---
 
 The British had always coveted Salsette s potential as the granary of the

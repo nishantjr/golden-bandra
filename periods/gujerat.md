@@ -1,5 +1,7 @@
 ---
 title: Gujerat
+periodStart: 1509
+periodEnd: 1534
 ---
 
 Portuguse-Gujerat interactions cover three distinct periods. Initially, when

@@ -1,5 +1,7 @@
 ---
 title: Town Planning Schemes
+periodStart: 1918
+periodEnd:   1921
 ---
 
 TPS Town Planning schemes beginning 1918 soon generated a series of changes in

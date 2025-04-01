@@ -1,5 +1,7 @@
 ---
 title: Portuguese Possession
+periodStart: 1534
+periodEnd:   1739
 ---
 
 The Portuguese presence in the western coast was mostly littoral , sufficient

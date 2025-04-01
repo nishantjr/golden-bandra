@@ -1,5 +1,7 @@
 ---
 title: Maratha Raj
+periodStart: 1739
+periodEnd:   1775
 ---
 
 The Maratha reign was shortlived, from 1739 to 1775, yet it had a major impact
