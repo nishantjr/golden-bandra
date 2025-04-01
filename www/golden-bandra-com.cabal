@@ -9,6 +9,7 @@ executable builder
                   , filepath
                   , hakyll == 4.16.*
                   , hakyll-images
+                  , monadlist
                   , pandoc
                   , pandoc-sidenote
 

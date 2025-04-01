@@ -2,13 +2,17 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE TypeApplications  #-}
 
-import          Data.Monoid (mappend)
-import          System.FilePath
-import          Text.Pandoc.Options
-import          Text.Pandoc.Extensions
-import          Text.Pandoc.SideNote
+import          Control.Monad.ListM (sortByM)
+import          Data.Maybe          (fromMaybe)
+import          Data.Monoid         (mappend)
+import          Data.Ord
 import          Hakyll
-import          Hakyll.Images   (loadImage, ensureFitCompiler)
+import          Hakyll.Images       (loadImage, ensureFitCompiler)
+import          System.FilePath
+import          Text.Pandoc.Extensions
+import          Text.Pandoc.Options
+import          Text.Pandoc.SideNote
+import          Text.Read           (readMaybe)
 
 --------------------------------------------------------------------------------
 
@@ -50,7 +54,7 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
 
 --- Frontpage
 
-frontpageCtx = listField "periods"  periodCtx (loadAllSnapshots "periods/*.md" "content")
+frontpageCtx = listField "periods"  defaultContext (loadAllSnapshots "periods/*.md" "content" >>= byPeriodStart)
                `mappend` defaultContext
 
 
@@ -75,13 +79,19 @@ itemCompiler =
 periodPattern :: Pattern
 periodPattern = "periods/*.md"
 
-periodCtx :: Context String
-periodCtx = (field "periodStart" (\i -> do return $ start $ itemIdentifier i)) `mappend`
-            (field "periodEnd"   (\i -> do return $ end   $ itemIdentifier i)) `mappend` defaultContext
-    where startEnd id = take 2 $ splitAll "-" $ last $ splitDirectories $ dropExtension $ toFilePath id
-          start id = head $ startEnd id
-          end id = last $ startEnd id
+byPeriodStart :: MonadMetadata m => [Item a] -> m [Item a]
+byPeriodStart = sortByM (comparingM periodStart)
 
+periodStart :: MonadMetadata m => Item a -> m Int
+periodStart i = do
+    psStr <- getMetadataField (itemIdentifier i) "periodStart"
+    return (fromMaybe 0 $ psStr >>= readMaybe)
+
+comparingM :: (Monad m, Ord a) => (b -> m a) -> b -> b -> m Ordering
+comparingM f x y = do
+    xk <- (f x)
+    yk <- (f y)
+    return $ compare xk yk
 
 --- Listings
 
