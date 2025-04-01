@@ -1,6 +1,7 @@
 --------------------------------------------------------------------------------
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE TypeApplications  #-}
+import Debug.Trace
 
 import          Control.Monad.ListM (sortByM)
 import          Data.Maybe          (fromMaybe)
@@ -18,6 +19,7 @@ import          Text.Read           (readMaybe)
 
 main :: IO ()
 main = hakyllWith (def {providerDirectory = ".."}) $ do
+    tags <- buildTags itemPattern (fromCapture "tag:*")
     match "CNAME" $ do
         route   idRoute
         compile $ copyFileCompiler
@@ -43,14 +45,25 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
         compile $ do getResourceBody
              >>= applyAsTemplate frontpageCtx
              >>= renderPandoc
-             >>= listingCompiler
+             >>= listingCompiler []
 
     match periodPattern $ do
         route   $ setExtension "html"
-        compile $ do mdCompiler >>= saveSnapshot "content" >>= listingCompiler
+        compile $
+            do ident <- takeFileName . dropExtension . toFilePath <$> getUnderlying
+               traceShow ident (pure ())
+               articles <- itemsMatchingTag tags ident
+               mdCompiler
+                >>= saveSnapshot "content"
+                >>= (listingCompiler articles)
 
     match "www/templates/*" $ compile templateBodyCompiler
 
+
+itemsMatchingTag :: Tags -> String -> Compiler [Item String]
+itemsMatchingTag tags tag =
+    loadAllSnapshots (fromList (fromMaybe [] $ lookup tag (tagsMap tags)))
+                     "content"
 
 --- Frontpage
 
@@ -87,24 +100,26 @@ periodStart i = do
     psStr <- getMetadataField (itemIdentifier i) "periodStart"
     return (fromMaybe 0 $ psStr >>= readMaybe)
 
-comparingM :: (Monad m, Ord a) => (b -> m a) -> b -> b -> m Ordering
-comparingM f x y = do
-    xk <- (f x)
-    yk <- (f y)
-    return $ compare xk yk
+periodCtx :: Context String
+periodCtx = (field "periodStart" (\i -> do return $ start $ itemIdentifier i)) `mappend`
+            (field "periodEnd"   (\i -> do return $ end   $ itemIdentifier i)) `mappend` defaultContext
+    where startEnd id = take 2 $ splitAll "-" $ last $ splitDirectories $ dropExtension $ toFilePath id
+          start id = head $ startEnd id
+          end id = last $ startEnd id
+
+periodsField = listField "periods"  periodCtx  (loadAllSnapshots "periods/*.md" "content")
 
 --- Listings
 
-listingCompiler :: Item String -> Compiler (Item String)
-listingCompiler item =
-    do ident <- getUnderlying
-       pure item
-        >>= loadAndApplyTemplate "www/templates/period.html" (listingCtx ident)
+listingCompiler :: [Item String] -> Item String -> Compiler (Item String)
+listingCompiler articles listingBody =
+    do pure listingBody
+        >>= loadAndApplyTemplate "www/templates/period.html" (listingCtx (pure articles))
         >>= applyMainTemplate
-  where
-    listingCtx :: Identifier -> Context String
-    listingCtx id = listField "articles" itemCtx (loadAllSnapshots itemPattern    "content") `mappend`
-                    defaultContext
+
+listingCtx :: Compiler [Item String] -> Context String
+listingCtx articles =
+    listField "articles" itemCtx articles `mappend` defaultContext
 
 --- Apply the main template and other nicities needed for a complete page.
 applyMainTemplate :: Item String -> Compiler (Item String)
@@ -131,3 +146,15 @@ removeInitialComponent = customRoute $ tailFilePath . toFilePath
     where tailFilePath path = case (splitPath path) of
                                    p:ps -> joinPath ps
                                    []   -> error "empty path"
+
+
+identifierReplaceExtension :: String -> Identifier -> Identifier
+identifierReplaceExtension ext id = fromFilePath $ ((flip replaceExtension) ext) . toFilePath $ id
+
+--- Utilities
+
+comparingM :: (Monad m, Ord a) => (b -> m a) -> b -> b -> m Ordering
+comparingM f x y = do
+    xk <- (f x)
+    yk <- (f y)
+    return $ compare xk yk
