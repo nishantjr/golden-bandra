@@ -1,6 +1,7 @@
 ---
 title: "The Church Murals"
 author: ""
+tags: st-andrew-church
 ---
 
 There were murals painted on two side walls of the church, another on

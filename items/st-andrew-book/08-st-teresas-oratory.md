@@ -2,6 +2,7 @@
 title: St Teresa's Oratory
 author: ""
 type: article
+tags: st-andrew-church
 ---
 
 The St Therese's Oratory was erected in 1929

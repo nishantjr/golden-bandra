@@ -4,6 +4,7 @@ subtitle: Rediscovering the Roots
 author: "Fr. Larry Pereira"
 thumbnail: "/golden-bandra/images/ranwar5.jpg"
 type: article
+tags: ranwar
 ---
 
 ![*A rooftop view of Ranwar Village:*

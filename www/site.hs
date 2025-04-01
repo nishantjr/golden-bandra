@@ -47,7 +47,7 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
              >>= renderPandoc
              >>= listingCompiler []
 
-    match periodPattern $ do
+    match (periodPattern .||. themePattern) $ do
         route   $ setExtension "html"
         compile $
             do ident <- takeFileName . dropExtension . toFilePath <$> getUnderlying
@@ -67,8 +67,9 @@ itemsMatchingTag tags tag =
 
 --- Frontpage
 
-frontpageCtx = listField "periods"  defaultContext (loadAllSnapshots "periods/*.md" "content" >>= byPeriodStart)
-               `mappend` defaultContext
+frontpageCtx = listField "periods"  defaultContext (loadAllSnapshots periodPattern "content" >>= byPeriodStart) `mappend`
+               listField "themes"   defaultContext (loadAllSnapshots themePattern  "content")                   `mappend`
+               defaultContext
 
 
 --- Items
@@ -107,7 +108,8 @@ periodCtx = (field "periodStart" (\i -> do return $ start $ itemIdentifier i)) `
           start id = head $ startEnd id
           end id = last $ startEnd id
 
-periodsField = listField "periods"  periodCtx  (loadAllSnapshots "periods/*.md" "content")
+themePattern :: Pattern
+themePattern = "themes/*.md"
 
 --- Listings
 

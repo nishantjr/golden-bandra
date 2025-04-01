@@ -4,6 +4,7 @@ author: Clarence Fernandes, Herman Rodrigues, and Denis Rodrigues
 thumbnail: /golden-bandra/images/Kshitj6RanwarXLowRes.jpg
 period: 19xx-present
 type: article
+tags: ranwar
 ---
 
 > This article has been written for the Celebrate Bandra '05 festival

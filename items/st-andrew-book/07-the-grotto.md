@@ -1,6 +1,7 @@
 ---
 title: The Grotto
 author: ""
+tags: st-andrew-church
 ---
 
 The Grotto of Our Lady of Lourdes near the main entrance of the church compound
