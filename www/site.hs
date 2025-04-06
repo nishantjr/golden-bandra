@@ -40,7 +40,7 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
         route   $ composeRoutes removeInitialComponent $ setExtension "html"
         compile $ do
             mdCompiler
-              >>= saveSnapshot "content"
+              >>= saveSnapshot "articleContent"
               >>= loadAndApplyTemplate "www/templates/item.html" itemCtx
               >>= applyMainTemplate
 
@@ -58,7 +58,7 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
             do tagName  <- takeFileName . dropExtension . toFilePath <$> getUnderlying
                articles <- itemsMatchingTag tags tagName
                mdCompiler
-                 >>= saveSnapshot "content"
+                 >>= saveSnapshot "tagContent"
                  >>= listingCompiler articles
 
     match "www/templates/*" $ compile templateBodyCompiler
@@ -66,12 +66,11 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
 
 itemsMatchingTag :: Tags -> String -> Compiler [Item String]
 itemsMatchingTag tags tag =
-    loadAllSnapshots (fromList (fromMaybe [] $ lookup tag (tagsMap tags)))
-                     "content"
+    loadAllSnapshots (fromList (fromMaybe [] $ lookup tag (tagsMap tags))) "articleContent"
 
 --- Frontpage
-frontpageCtx = listField "periods"  defaultContext (loadAllSnapshots periodPattern "content" >>= byPeriodStart) `mappend`
-               listField "themes"   defaultContext (loadAllSnapshots themePattern  "content")                   `mappend`
+frontpageCtx = listField "periods"  defaultContext (loadAllSnapshots periodPattern "tagContent" >>= byPeriodStart) `mappend`
+               listField "themes"   defaultContext (loadAllSnapshots themePattern  "tagContent")                   `mappend`
                defaultContext
 
 --- Items
@@ -85,7 +84,7 @@ itemCtx = listField "tagt" defaultContext loadTagSnapshots `mappend` defaultCont
           do ident <- getUnderlying
              mTags <- getMetadataField ident "tags"
              title <- getMetadataField ident "title"
-             snapshots <- loadAllSnapshots (periodPattern .||. themePattern) "content"
+             snapshots <- loadAllSnapshots (periodPattern .||. themePattern) "tagContent"
              traceShow (length snapshots) (pure ())
              traceShow ((ident, mTags, title)) (pure ())
              return $ filter (\x -> matches (foldr (.||.) nothing (map (\t -> fromGlob $ "*/" ++ t ++ ".md")  $ fromMaybe [] $ fmap (splitAll ",") mTags))  (itemIdentifier x)) snapshots
