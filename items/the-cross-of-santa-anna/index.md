@@ -1,11 +1,9 @@
 ---
 title: The Cross of Santa Anna
 subtitle: A Bible Carved in Stone
-author: XXX
-tags: portuguese-possession,st-andrew-church,santa-anna-church
-
+author: Clarence Fernandes, Herman Rodrigues, Denis Rodrigues
+tags: portuguese-possession,st-andrew-church
 ---
-
 
 The stone cross in St Andrew's is as much a religious symbol as a
 historical relic connecting St Andrew's with its older sister church, Santa Anna.

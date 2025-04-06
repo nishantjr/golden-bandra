@@ -3,8 +3,9 @@
 {-# LANGUAGE TypeApplications  #-}
 import Debug.Trace
 
+import          Control.Monad       (filterM)
 import          Control.Monad.ListM (sortByM)
-import          Data.Maybe          (fromMaybe)
+import          Data.Maybe          (fromMaybe, maybeToList)
 import          Data.Monoid         (mappend)
 import          Data.Ord
 import          Hakyll
@@ -37,7 +38,11 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
     --- Items
     match itemPattern $ do
         route   $ composeRoutes removeInitialComponent $ setExtension "html"
-        compile itemCompiler
+        compile $ do
+            mdCompiler
+              >>= saveSnapshot "content"
+              >>= loadAndApplyTemplate "www/templates/item.html" itemCtx
+              >>= applyMainTemplate
 
     --- Listings
     match "index.md" $ do
@@ -50,12 +55,11 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
     match (periodPattern .||. themePattern) $ do
         route   $ setExtension "html"
         compile $
-            do ident <- takeFileName . dropExtension . toFilePath <$> getUnderlying
-               traceShow ident (pure ())
-               articles <- itemsMatchingTag tags ident
+            do tagName  <- takeFileName . dropExtension . toFilePath <$> getUnderlying
+               articles <- itemsMatchingTag tags tagName
                mdCompiler
-                >>= saveSnapshot "content"
-                >>= (listingCompiler articles)
+                 >>= saveSnapshot "content"
+                 >>= listingCompiler articles
 
     match "www/templates/*" $ compile templateBodyCompiler
 
@@ -66,26 +70,26 @@ itemsMatchingTag tags tag =
                      "content"
 
 --- Frontpage
-
 frontpageCtx = listField "periods"  defaultContext (loadAllSnapshots periodPattern "content" >>= byPeriodStart) `mappend`
                listField "themes"   defaultContext (loadAllSnapshots themePattern  "content")                   `mappend`
                defaultContext
 
-
 --- Items
-
 itemPattern :: Pattern
 itemPattern = "items/**.md"
 
 itemCtx :: Context String
-itemCtx = defaultContext
-
-itemCompiler :: Compiler (Item String)
-itemCompiler =
-    do mdCompiler
-         >>= saveSnapshot "content"
-         >>= loadAndApplyTemplate "www/templates/item.html" itemCtx
-         >>= applyMainTemplate
+itemCtx = listField "tagt" defaultContext loadTagSnapshots `mappend` defaultContext
+    where
+      loadTagSnapshots =
+          do ident <- getUnderlying
+             mTags <- getMetadataField ident "tags"
+             title <- getMetadataField ident "title"
+             snapshots <- loadAllSnapshots (periodPattern .||. themePattern) "content"
+             traceShow (length snapshots) (pure ())
+             traceShow ((ident, mTags, title)) (pure ())
+             return $ filter (\x -> matches (foldr (.||.) nothing (map (\t -> fromGlob $ "*/" ++ t ++ ".md")  $ fromMaybe [] $ fmap (splitAll ",") mTags))  (itemIdentifier x)) snapshots
+      nothing = fromGlob "x" .&&. fromGlob "y" --- We want `complement everything`, but it is not exported.
 
 
 --- Periods
@@ -115,18 +119,16 @@ themePattern = "themes/*.md"
 
 listingCompiler :: [Item String] -> Item String -> Compiler (Item String)
 listingCompiler articles listingBody =
-    do pure listingBody
+    do  pure listingBody
         >>= loadAndApplyTemplate "www/templates/period.html" (listingCtx (pure articles))
         >>= applyMainTemplate
 
 listingCtx :: Compiler [Item String] -> Context String
-listingCtx articles =
-    listField "articles" itemCtx articles `mappend` defaultContext
+listingCtx articles = listField "articles" itemCtx articles `mappend` defaultContext
 
 --- Apply the main template and other nicities needed for a complete page.
 applyMainTemplate :: Item String -> Compiler (Item String)
-applyMainTemplate =     \i -> (loadAndApplyTemplate "www/templates/main.html" defaultContext) i
-                    >>= relativizeUrls
+applyMainTemplate i = (loadAndApplyTemplate "www/templates/main.html" defaultContext) i >>= relativizeUrls
 
 renderMd :: Item String -> Compiler (Item String)
 renderMd = renderPandocWith readerOptions writerOptions
@@ -148,7 +150,6 @@ removeInitialComponent = customRoute $ tailFilePath . toFilePath
     where tailFilePath path = case (splitPath path) of
                                    p:ps -> joinPath ps
                                    []   -> error "empty path"
-
 
 identifierReplaceExtension :: String -> Identifier -> Identifier
 identifierReplaceExtension ext id = fromFilePath $ ((flip replaceExtension) ext) . toFilePath $ id

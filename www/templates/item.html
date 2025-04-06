@@ -1,9 +1,9 @@
       <article class='article'>
       <header>
           <h1> $title$ </h1>
-          $if(subtitle)$ <p> $subtitle$ </p> $endif$
-          $if(period)$ <div> $period$ </div> $endif$
-          $if(author)$ <div class='author'> Article by: $author$</div> $endif$
+          $if(author)-$ <div class='author'> $author$</div> $-endif$
+          <!-- $if(tags)-$   <div class='tags'>   $tags$  </div> $-endif$ -->
+          <ul class='tags'> $for(tagt)-$   <li><a href='$url$'> $title$ </a></li> $-endfor$ </ul>
       </header>
       $body$
       </article>

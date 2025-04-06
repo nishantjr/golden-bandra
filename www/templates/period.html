@@ -10,8 +10,7 @@
               <h1> $title$</h1>
               <img src='$if(thumbnail)$$thumbnail$$endif$' />
               <address class="author">Article by $author$</address>
-              <ul class='tags'><li>Parsis</li><li>Land</li><li>Portuguese</li></ul>
-              </a>
+              <ul class='tags'> $for(tagt)-$<li><a href='$url$'> $title$ </a></li> $-endfor$</ul>
           </li>
           $endfor$
       </ul>
