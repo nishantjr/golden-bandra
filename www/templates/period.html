@@ -4,13 +4,6 @@
       </article>
       <ul class='article-list'>
           $for(articles)$
-          <li>
-              <a href='$url$'>
-              <div class='period'>$if(period)$$period$$else$&nbsp;$endif$</div>
-              <h1> $title$</h1>
-              <img src='$if(thumbnail)$$thumbnail$$endif$' />
-              <address class="author">Article by $author$</address>
-              <ul class='tags'> $for(tagt)-$<li><a href='$url$'> $title$ </a></li> $-endfor$</ul>
-          </li>
+          <li> $body$ </li>
           $endfor$
       </ul>

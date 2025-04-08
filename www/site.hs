@@ -36,13 +36,14 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
         compile $ copyFileCompiler
 
     --- Items
-    match itemPattern $ do
+    match itemPattern $  do
         route   $ composeRoutes removeInitialComponent $ setExtension "html"
         compile $ do
-            mdCompiler
-              >>= saveSnapshot "articleContent"
-              >>= loadAndApplyTemplate "www/templates/item.html" itemCtx
-              >>= applyMainTemplate
+            content <- mdCompiler >>= saveSnapshot "articleContent"
+            -- Here we branch to generate both the article listing,
+            -- and the main article page. The listing is thrown away after saving a snapshot.
+            loadAndApplyTemplate "www/templates/item.listing.html" itemCtx content >>= saveSnapshot "articleListing"
+            loadAndApplyTemplate "www/templates/item.html"         itemCtx content >>= applyMainTemplate
 
     --- Listings
     match "index.md" $ do
@@ -56,17 +57,17 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
         route   $ setExtension "html"
         compile $
             do tagName  <- takeFileName . dropExtension . toFilePath <$> getUnderlying
+               html <- mdCompiler
+               saveSnapshot "tagContent" html
                articles <- itemsMatchingTag tags tagName
-               mdCompiler
-                 >>= saveSnapshot "tagContent"
-                 >>= listingCompiler articles
+               listingCompiler articles html
 
     match "www/templates/*" $ compile templateBodyCompiler
 
 
 itemsMatchingTag :: Tags -> String -> Compiler [Item String]
 itemsMatchingTag tags tag =
-    loadAllSnapshots (fromList (fromMaybe [] $ lookup tag (tagsMap tags))) "articleContent"
+    loadAllSnapshots (fromList (fromMaybe [] $ lookup tag (traceShowId $ tagsMap tags))) "articleListing"
 
 --- Frontpage
 frontpageCtx = listField "periods"  defaultContext (loadAllSnapshots periodPattern "tagContent" >>= byPeriodStart) `mappend`
@@ -85,8 +86,6 @@ itemCtx = listField "tagt" defaultContext loadTagSnapshots `mappend` defaultCont
              mTags <- getMetadataField ident "tags"
              title <- getMetadataField ident "title"
              snapshots <- loadAllSnapshots (periodPattern .||. themePattern) "tagContent"
-             traceShow (length snapshots) (pure ())
-             traceShow ((ident, mTags, title)) (pure ())
              return $ filter (\x -> matches (foldr (.||.) nothing (map (\t -> fromGlob $ "*/" ++ t ++ ".md")  $ fromMaybe [] $ fmap (splitAll ",") mTags))  (itemIdentifier x)) snapshots
       nothing = fromGlob "x" .&&. fromGlob "y" --- We want `complement everything`, but it is not exported.
 
