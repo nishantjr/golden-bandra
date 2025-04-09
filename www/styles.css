@@ -7,8 +7,13 @@ html                {  background-color: #f6f6f6;
                        font-family: Times New Roman, serif;
                     }
 
+a                   { color: #428401; }
+a                   { color: #428401; }
+
 body > header       { margin-bottom: 3rem; }
-body > header h1    { font-size: 1.4rem; font-weight: bold; }
+body > header h1    { font-size: 1.8rem; font-weight: bold; 
+                      color: #026031;
+                    }
 
 h1 a                { text-decoration: none; color: inherit; }
 article             { padding-top: 1rem;
@@ -30,6 +35,8 @@ article,
                           }
 
 h3, h4                    { font-weight: normal; }
+.period h3                { margin-bottom: 0rem; }
+.period h2                { font-size: 1.2em; }
 
 article h1                { font-size: 1.8rem; font-weight: bold; color: #4b4a4a; }
 article                   { font-size: 1.5rem; }
@@ -102,3 +109,6 @@ figure  > img       { max-width: 100% }
 .column             { flex: 1; }
 .by-theme   ul,
 .by-period  ul      { list-style: none; padding: 0px; }
+.by-medium  ul      { list-style: none; padding: 0px;
+                      display: flex; gap: 1em;
+                    }

@@ -1,7 +1,6 @@
 ---
-title: "From Bandora to Bandra: A History of Bandra"
+title: "A History of Bandra—A Collective Archival Project"
 ---
-
 
 Lorem ipsum dolor sit amet from Bandora to Bandra consectetur adipiscing elit.
 Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -11,13 +10,23 @@ esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat
 non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
-### Browse Collections
+## Browse Collections
+
+### By Medium:
+
+::: by-medium
+* [Maps](#)
+* [Images](#)
+* [Illustrations](#)
+* [Data](#)
+* [Photographs](#)
+:::
 
 :::: columns
 
 ::: {.column .by-period}
 
-#### By Period
+### By Period:
 
 $for(periods)$
 * [$periodStart$-$periodEnd$: $title$]($url$)
@@ -27,7 +36,7 @@ $-endfor$
 
 ::: {.column .by-theme}
 
-#### By Theme
+### By Theme:
 
 $for(themes)$
 * [$title$]($url$)

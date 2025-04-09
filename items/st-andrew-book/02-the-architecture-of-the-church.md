@@ -3,6 +3,7 @@ title: The Architecture of the Church
 author: "XXX"
 type: article
 tags: st-andrew-church
+thumbnail: /st-andrew-book/stan4201.jpg
 ---
 
 ![](./stan4200.jpg){data-credit="Herman Rodrigues 2000"}
