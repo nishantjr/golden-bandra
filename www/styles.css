@@ -69,7 +69,8 @@ aside, .aside {
                     {  max-width: 62rem;
                        margin-left: auto;
                        margin-right: auto;
-                       background-color: #fff;
+                    }
+.period, .article   { background-color: white;
                     }
 
 p       > img,
@@ -95,6 +96,7 @@ figure  > img       { max-width: 100% }
                       margin-right: 0.4rem;
                       border-radius: 0.2rem;
                     }
+.tags a             { text-decoration: none; color: black; }
 
 .columns            { display: flex; }
 .column             { flex: 1; }
