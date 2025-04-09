@@ -3,6 +3,7 @@ title: Other Crosses of the Church of St Andrew
 author: ""
 type: article
 tags: st-andrew-church
+thumbnail: /st-andrew-book/CrossAnd.jpg
 ---
 
 A carved stone cross of unknown origin, sculpted in 1720, stands on a

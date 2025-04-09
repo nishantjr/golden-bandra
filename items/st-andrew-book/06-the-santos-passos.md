@@ -4,6 +4,7 @@ subtitle: The Depictions of Christ's Passion
 author: ""
 type: article
 tags: st-andrew-church
+thumbnail: /st-andrew-book/veronica.jpg
 ---
 
 

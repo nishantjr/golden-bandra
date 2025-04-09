@@ -2,6 +2,7 @@
 title: Christ the King Edifice
 author: ""
 tags: st-andrew-church
+thumbnail: /st-andrew-book/ChristKi.jpg
 ---
 
 ![](./L1210980.jpg)
