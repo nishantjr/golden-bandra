@@ -14,6 +14,7 @@ import          System.FilePath
 import          Text.Pandoc.Extensions
 import          Text.Pandoc.Options
 import          Text.Pandoc.SideNote
+import          Text.Pandoc.Shared  (headerShift)
 import          Text.Read           (readMaybe)
 
 --------------------------------------------------------------------------------
@@ -129,10 +130,11 @@ applyMainTemplate :: Item String -> Compiler (Item String)
 applyMainTemplate i = (loadAndApplyTemplate "www/templates/main.html" defaultContext) i >>= relativizeUrls
 
 renderMd :: Item String -> Compiler (Item String)
-renderMd = renderPandocWith readerOptions writerOptions
-  where readerOptions = def { readerExtensions = extensionsFromList readerExtensions }
+renderMd = renderPandocWithTransform readerOptions writerOptions (headerShift 1)
+  where readerOptions = def { readerExtensions = extensionsFromList readerExtensions
+                            }
         readerExtensions = [
-               Ext_fancy_lists, Ext_fenced_divs, Ext_footnotes, Ext_implicit_figures,
+               Ext_fancy_lists, Ext_fenced_divs, Ext_footnotes, Ext_header_attributes, Ext_implicit_figures,
                Ext_line_blocks, Ext_link_attributes, Ext_simple_tables, Ext_startnum,
                Ext_smart
            ]
