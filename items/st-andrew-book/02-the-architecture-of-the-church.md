@@ -205,6 +205,16 @@ After Vatican II churches began changing to an altar where the priest
 would face the faithful. In the Church of St Andrew this was done in the
 1990s.
 
+::: aside
+
+![
+The 'Juliet balcony' in the Sanctuary, (below) was from where
+indisposed priests could attend Mass out of view of the rest of the
+faithful in the church.
+](./TiffRawI.jpg)
+
+:::
+
 On the dome of the Sanctuary was a fresco depicting God the Father.
 There is an amusing description of this from the 1960s: "A regular hole in the general region of God the Father's stomach
 appeared to be the dwelling place of a family of sparrows. Eyes
@@ -213,11 +223,6 @@ Creator accommodatingly receiving unto Himself one of His more cheeky
 creations equipped with straw that was going to make his dwelling place
 more habitable..." Unfortunately this fresco was later painted over.
 
-The 'Juliet balcony' in the Sanctuary, (below) was from where
-indisposed priests could attend Mass out of view of the rest of the
-faithful in the church.
-
-![](./TiffRawI.jpg)
 
 ::: fullwidth
 ![](./MainAlta.jpg){width=100%}
@@ -328,20 +333,25 @@ in Australia. Attempts to recover them have not yet succeeded.
 
 ::: aside
 
-![](./LRPanelH.jpg)
+![&nbsp;](./LRPanelH.jpg)
 
 :::
 
 The panel may protray the prophet **Jeremiah**.
 
->   Jer.27:2: "This is what the Lord said to me: Make a yoke out of straps
+>   "This is what the Lord said to me: Make a yoke out of straps
 >   and crossbars and put it on your neck."
+>
+>   --- Jeremiah 27:2
 
-A small bundle and what seems to be a vessel at his feet. Jeremiah
-48:18: "Now, mortal man, pack a bundle just as a refugee would and
-start out before nightfall."
+A small bundle and what seems to be a vessel at his feet:
 
-The letters HEIAS appear at the base.
+> "Now, mortal man, pack a bundle just as a refugee would and
+> start out before nightfall."
+>
+> --- Jeremiah 48:18
+
+The letters HEI^AS^ appear at the base.
 
 ::: fullwidth
 ---
@@ -356,12 +366,14 @@ The letters HEIAS appear at the base.
 This panel may depict **Isaiah;** an angel holds
 a burning coal to his lips.
 
-(Isaiah 6:7) "Then one of the seraphim flew to me with a burning coal
-in his hand, which he had taken from the altar with tongs. He touched my
-mouth with it and said, Behold, this has touched your lips; and your
-iniquity is taken away and your sin is forgiven."
+> "Then one of the seraphim flew to me with a burning coal
+> in his hand, which he had taken from the altar with tongs. He touched my
+> mouth with it and said, Behold, this has touched your lips; and your
+> iniquity is taken away and your sin is forgiven."
+>
+> --- Isaiah 6:7
 
-The letters GENEIS appear at the base.
+The letters GENE^IS^ appear at the base.
 
 ::: fullwidth
 ---
@@ -375,15 +387,20 @@ The letters GENEIS appear at the base.
 
 **St Peter** portrayed with two keys.
 
-(Matthew 16:16), Jesus said, "I will give you the keys to the Kingdom
-of Heaven. Whatever you bind on Earth shall be bound in Heaven; and
-whatever you loose on Earth shall be loosed in Heaven". Often, one key
-is gold, representing the power to bind and loose in Heaven -spiritual
+> Jesus said, "I will give you the keys to the Kingdom
+> of Heaven. Whatever you bind on Earth shall be bound in Heaven; and
+> whatever you loose on Earth shall be loosed in Heaven".
+
+> --- Matthew 16:16
+
+Often, one key is gold,
+representing the power to bind and loose in Heaven---spiritual
 authority; the other silver, represents the power to bind and loose on
-Earth - temporal authority. At his feet, the papal tiara, signifying
+Earth---temporal authority.
+At his feet, the papal tiara, signifying
 papal authority which began with Peter, the first pope.
 
-S.Po for São Pedro
+S.P^o^ for São Pedro
 
 
 ::: fullwidth
@@ -402,7 +419,7 @@ The lion, a figure of courage and monarchy, is a symbol of St Mark.
 Legend has it that he was thrown to the lions and the animals refused to
 attack or eat him.
 
-S.M.COS for Santo Marcos
+S.M.^COS^ for Santo Marcos
 
 ::: fullwidth
 ---
@@ -418,7 +435,7 @@ sword, as that was the only death considered worthy for a Roman citizen.
 The book he holds represents St Paul's writings to the new Christian
 communities in his epistles.
 
-S.PLLo for São Paulo
+S.PLL^o^ for São Paulo
 
 
 # North Bas Relief: Coronation of Mary {.fullwidth}

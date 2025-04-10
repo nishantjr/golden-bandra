@@ -136,6 +136,7 @@ renderMd = renderPandocWithTransform readerOptions writerOptions (headerShift 1)
         readerExtensions = [
                Ext_fancy_lists, Ext_fenced_divs, Ext_footnotes, Ext_header_attributes, Ext_implicit_figures,
                Ext_line_blocks, Ext_link_attributes, Ext_simple_tables, Ext_startnum,
+               Ext_superscript, Ext_subscript,
                Ext_smart
            ]
         writerOptions = def::WriterOptions
