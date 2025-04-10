@@ -1,17 +1,19 @@
 ---
-title: The Architecture of the Church
-author: "XXX"
+title: The Art and Architecture of St Andrew Church
 type: article
 tags: st-andrew-church
-thumbnail: /st-andrew-book/stan4201.jpg
+thumbnail: /st-andrew-book/2015-HE1.jpg
 ---
-
-![](./stan4200.jpg){data-credit="Herman Rodrigues 2000"}
 
 For over 400 years, the structure of the Church of St Andrew has stood
 tall and graceful over its surroundings a landmark visible for miles in
 all directions. Fishermen from Bandra's five colourias while far out at
 sea would use it as a beckoning signpost of home.
+
+::: aside
+![Vikas Dilawari Architects. 2015](./2015-HE1.jpg)
+:::
+
 
 The sturdy walls, over five feet thick, support a steep roof of teak
 timbers, which would have been thatched at one time. There are reports
@@ -27,7 +29,20 @@ destroying the roof of the Church of St Andrew.
 > wind lifted through the air like feathers and carried distances. The
 > whole was like the ruin at the end of all things."
 >
-> History of the Jesuits by Cordara. Storm of 1618
+> *History of the Jesuits by Cordara. Storm of 1618*
+>
+
+::: aside
+![The walls of the church were originally made of stone and lime-mortar.
+The photograph alongside shows the underlying wall
+construction in the area where the old choir door entrance once was.
+This was bricked up in 1966. The old stone and mortar construction to
+the left is clearly visible.](StAndre1.jpg){data-credit="TR 2000"}
+:::
+
+![Herman Rodrigues. 2000.](./stan4200.jpg)
+
+
 
 The reconstructed roof was burnt when the Marathas invaded Bandora
 during the Maratha-Portuguese war of 1737-39. In the course of the
@@ -38,13 +53,7 @@ structure of the church. A major storm on October 16th 1940, and another
 equally violent storm on November 22nd 1948, when some portions of the
 roof lost their tiles and supporting members.
 
------
 
-![The walls of the church were originally made of stone and lime-mortar.
-The photograph alongside shows the underlying wall
-construction in the area where the old choir door entrance once was.
-This was bricked up in 1966. The old stone and mortar construction to
-the left is clearly visible.](StAndre1.jpg){data-credit="TR 2000"}
 
  
 ## The Facade
@@ -93,6 +102,11 @@ with almost single handedly converting Bandra to Christianity.
 
 ## The Chancel
 
+::: aside
+![Melville Mendes. c 1990s](./Communio.jpg)
+:::
+
+
 The chancel is the area between the nave and the sanctuary, where the
 two original wooden side altars as well as the present marble baptismal
 font are located. The chancel is accessed directly from the nave or
@@ -100,8 +114,7 @@ through two doors, one each on its northern and southern faces. The
 chancel leads to the sanctuary through an arched opening. In the early
 church, and up to 1966, there were four long wooden benches in the
 chancel for use by the faithful. Also, up to 1966 there was a wooden
-communion rail separating the nave from the chancel. (*photo alongside*)
-
+communion rail separating the nave from the chancel.
 The faithful would kneel at this rail to receive communion at Mass.
 
 ## The Nave
@@ -117,14 +130,14 @@ and at that time was hung with chandeliers. The choir loft is situated
 on an upper level at the eastern extremity of the nave. This is now
 being used as a temporary museum area to house church artifacts.
 
-![](./Communio.jpg){}
 
+# The Sanctuary and the Main Altar {.fullwidth}
 
-# The Sanctuary and the Main Altar
-
+::: fullwidth
 The main altar was constructed in 1906 after the previous one had been
 destroyed by termites. The present one, which is made of wood and built
 on a brick base paved with marble, extends almost to the roof.
+:::
 
 The life-size statue of St Andrew dominates the main altar. The Saint
 holds an X-shaped cross. Legend has it that when he was to be crucified,
@@ -142,12 +155,11 @@ The carved wooden panel on the main altar facade, the Agnus Dei, was
 fashioned from the original teak communion rails when these were removed
 in the 1990s.
 
-![](./LRL12200.jpg)
-
-![](./LRL12201.jpg)
-
-![](./LRL12202.jpg)
-
+::: fullwidth
+![Roy Gonsalves. 2015](./LRL12201.jpg){width=32%}
+![Roy Gonsalves. 2015](./LRL12200.jpg){width=32%}
+![Roy Gonsalves. 2015](./LRL12202.jpg){width=32%}
+:::
 
 At the very top of the altar is a statue of Bom Jesu flanked on one side
 by a statue of John the Baptist, with his distinctive animal skin robe
@@ -157,6 +169,12 @@ other regions of Salsette and Bombay Island, was afflicted by multiple
 outbreaks of the plague in the nineteenth century. St Sebastian is the
 saint who protects from "plague and pestilence".
 
+::: fullwidth
+![Roy Gonsalves. 2015](./LRL12203.jpg){width=32%}
+![Roy Gonsalves. 2015](./LRL12204.jpg){width=32%}
+![Roy Gonsalves. 2015](./LRL12205.jpg){width=32%}
+:::
+
 The altar reaches up almost to the sanctuary ceiling. It stands about
 three feet away from the back wall. Interestingly, there is a large
 niche on this back wall that hints at its use as the altar wall, perhaps
@@ -164,7 +182,6 @@ in the earliest days, with the life-size statue of Saint Andrew placed
 in it.
 
 Note the two circular windows on the back wall with the
-
 X-shaped cross of St Andrew. These are accessible through a gallery
 behind. The door on the north side to the sacristy was built in 1935 for
 easier access. The window on the south wall was built in 1964 for better
@@ -202,15 +219,15 @@ faithful in the church.
 
 ![](./TiffRawI.jpg)
 
-![](./MainAlta.jpg)
+::: fullwidth
+![](./MainAlta.jpg){width=100%}
+:::
 
 
-## South side altar
+# South side altar {.fullwidth}
+## Holy Crucifix upon a Golgotha Base {.fullwidth}
 
-### Holy Crucifix upon a Golgotha Base
-
-![](./LRSideAL.jpg)
-
+::: fullwidth
 The Jesuit Letter describes the side altars thus: "the other altar, the
 scene on Mount Calvary is depicted with statues of Our Lady and St. John
 at the foot of the Cross upon which Christ hangs. In the crypt of this
@@ -218,16 +235,26 @@ altar lies an ancient and treasured statue of the dead Christ, which is
 used during the Lenten services. Both these altars are the original
 ones; they are made of wood dexterously carved and painted."
 
+This statue is venerated by thousands from different parishes in Bandra
+on the night after the Good Friday service.
+
+![](./LRSideAL.jpg){width=49%}
+![](./LRSideA0.jpg){width=49%}
+:::
+
+
+
 Until fairly recently each side altar had its own tabernacle. The main
 altar was for the scheduled Masses. A visiting priest wanting to say a
 private Mass used a side altar.
 
-This statue is venerated by thousands from different parishes in Bandra
-on the night after the Good Friday service.
+::: aside
 
-![](./LRSideA0.jpg)
+![&nbsp;](./LRGolgot.jpg)
 
-![Notice the "Golgotha base" on which the crucifix is planted.
+:::
+
+Notice the "Golgotha base" on which the crucifix is planted.
 The skull and crossbones are symbols of death.
 Showing them under Jesus' feet symbolises Christ conquering Death by
 His death. Among the Jews it was traditionally represented that the skull of Adam,
@@ -236,16 +263,19 @@ was finally deposited at Golgotha, which in Aramaic means 'the place of the skul
 It was probably a small hill just outside the walls
 of ancient Jerusalem. Curiously the Golgotha base here depicts not one
 but two skulls.
-](./LRGolgot.jpg)
 
 
-## North side altar Our Lady of the Navigators
 
+# North side altar {.fullwidth}
+## Our Lady of the Navigators {.fullwidth}
+
+::: fullwidth
 The side altars are the original 16th century creations in wood. They
 are carved and painted in the style of that period known as
 "Flamboyant". This architectural style has its own parameters and
 certainly the abundance of carving, floral detail and gold leaf justify
 the name.
+:::
 
 The Jesuit Letter of the year 1669 describes the side altars thus:
 "... on the other is Our Lady, known as 'of the Navigators', and the
@@ -268,8 +298,11 @@ restored to its original place at the Church of St Andrew.
 
 ## The Pulpit
 
+::: aside
 ![](./PULPITCa.jpg){data-credit='NB 2015'}
 
+![](./HermanPU.jpg)
+:::
 
 Resembling a huge flower poised on the stalk which seems to grow out of
 the massive wall and curving upwards, the pulpit is the original one of
@@ -289,14 +322,20 @@ removed, a wooden stairway was erected inside the church. These two
 panels sadly have since disappeared and in 1999 seemed to have surfaced
 in Australia. Attempts to recover them have not yet succeeded.
 
-![](./HermanPU.jpg)
+::: fullwidth
+---
+:::
+
+::: aside
 
 ![](./LRPanelH.jpg)
 
+:::
+
 The panel may protray the prophet **Jeremiah**.
 
-Jer.27:2: "This is what the Lord said to me: Make a yoke out of straps
-and crossbars and put it on your neck."
+>   Jer.27:2: "This is what the Lord said to me: Make a yoke out of straps
+>   and crossbars and put it on your neck."
 
 A small bundle and what seems to be a vessel at his feet. Jeremiah
 48:18: "Now, mortal man, pack a bundle just as a refugee would and
@@ -304,27 +343,57 @@ start out before nightfall."
 
 The letters HEIAS appear at the base.
 
-This panel may depict **Isaiah;** an angel holds
+::: fullwidth
+---
+:::
 
+::: aside
+
+![](./LRPanelG.jpg)
+
+:::
+
+This panel may depict **Isaiah;** an angel holds
 a burning coal to his lips.
 
-(Isaiah 6:7) \"Then one of the seraphim flew to me with a burning coal
+(Isaiah 6:7) "Then one of the seraphim flew to me with a burning coal
 in his hand, which he had taken from the altar with tongs. He touched my
 mouth with it and said, Behold, this has touched your lips; and your
-iniquity is taken away and your sin is forgiven.\"
+iniquity is taken away and your sin is forgiven."
 
 The letters GENEIS appear at the base.
 
+::: fullwidth
+---
+:::
+
+::: aside
+
+![](./LRPanelS.jpg)
+
+:::
+
 **St Peter** portrayed with two keys.
 
-(Matthew 16:16), Jesus said, \"I will give you the keys to the Kingdom
+(Matthew 16:16), Jesus said, "I will give you the keys to the Kingdom
 of Heaven. Whatever you bind on Earth shall be bound in Heaven; and
-whatever you loose on Earth shall be loosed in Heaven\". Often, one key
+whatever you loose on Earth shall be loosed in Heaven". Often, one key
 is gold, representing the power to bind and loose in Heaven -spiritual
 authority; the other silver, represents the power to bind and loose on
 Earth - temporal authority. At his feet, the papal tiara, signifying
-papal authority which began with Peter, the first pope.\
-S.Po for for São Pedro
+papal authority which began with Peter, the first pope.
+
+S.Po for São Pedro
+
+
+::: fullwidth
+---
+:::
+
+::: aside
+![](./LRPanel0.jpg)
+:::
+
 
 **St Mark**, one of the four evangelists, with the Gospels in one hand
 and a quill in the other, and a lion crouching at his feet.
@@ -335,26 +404,24 @@ attack or eat him.
 
 S.M.COS for Santo Marcos
 
+::: fullwidth
+---
+:::
+
+::: aside
+![](./LRPanel1.jpg)
+:::
+
 The panel with **St Paul** holding a sword. He was beheaded with a
 sword, as that was the only death considered worthy for a Roman citizen.
 
-The book he holds represents St Paul\'s writings to the new Christian
+The book he holds represents St Paul's writings to the new Christian
 communities in his epistles.
 
 S.PLLo for São Paulo
 
-![](./LRPanelG.jpg)
 
-![](./LRPanelS.jpg)
-
-![](./LRPanel0.jpg)
-
-![](./LRPanel1.jpg)
-
-
-## North Bas Relief: Coronation of Mary
-
-![](./WierixCr.jpg)
+# North Bas Relief: Coronation of Mary {.fullwidth}
 
 Two ancient wood panels with exquisite carvings hang above the side
 doors in the middle of the nave possibly coming from the Santa Anna
@@ -371,6 +438,10 @@ inspired by engraving books brought and circulated by Jesuits from
 Europe, particularly by the work of the famous Flemish engravers, the
 Wierixes.
 
+::: fullwidth
+![Drawing by Hieronymus Wierix](./WierixCr.jpg){width=49%}
+![Drawing by Hieronymus Wierix](./WierixC0.jpg){width=49%}
+
 Jan and Hieronymus Wierix were part of a Flemish dynasty of printmakers
 in the 16th and early 17th centuries. They were active in Antwerp and
 Brussels and were associated with the Jesuits in a project to publish a
@@ -378,14 +449,18 @@ book of drawings that were intended as working models of faithful
 depictions of incidents of the Gospels. These were used widely in
 missionary outposts like India and China, and had a considerable
 influence on the iconography of local artists and wood carvers.
-
 The prints were finally published in a separate volume from the text in
 1593, the *Evangelicae Historiae Imagines* ("Pictures of the Gospel
 Stories").
 
-![Drawings by Hieronymus Wierix](./WierixC0.jpg)
+:::
 
-## South Bas Relief: Christ Triumphant
+
+# South Bas Relief: Christ Triumphant {.fullwidth}
+
+::: aside
+![Drawing by Hieronymus Wierix](./WierixCh.jpg)
+:::
 
 
 This is the second bas relief that probably came from the Church of
@@ -407,20 +482,25 @@ the top from which a white banner floats. Christ bears this in His hand
 as His standard of power, and to signify His victory over Death and
 Hell.
 
-![Drawing by Hieronymus Wierix](./WierixCh.jpg)
 
 
+# The Belfry {.fullwidth}
 
-## The Belfry
-
-![](./BelfreyT.jpg)
-
+::: fullwidth
 Two towers flank the facade adding 10 feet on each side to its
 width. The north tower serves as the belfry and houses the three
 bells that peal out each day to remind the faithful at the times of
 the Angelus, three times each day, at sunrise, noon and sunset. The
 bells are also rung on festive occasions, as at the Christmas and
 the Easter Masses.
+:::
+
+::: aside
+
+![Genelle Alves. 2015.](./BelfreyT.jpg){width=70%}
+
+:::
+
 
 The large bell is rung to announce a death in the parish, at which
 time the tone is more somber.
@@ -438,6 +518,15 @@ coastal villages up to Bandra. Older parishioners recount hearing
 from their even older relatives how on these occasions people used
 to throw their gold and jewelry into the village wells and seek
 temporary refuge in the nearby hills.
+
+::: aside
+
+![Sketch of the largest bell in the belfrey being hoisted into the bell tower in 1937.
+Genelle Alves. 2015.
+](./GynelleB.jpg)
+
+:::
+
 
 A more recent occasion when the bells were rung in alarm was in
 February 1956 during the 13-hours adoration at the 8 a.m. Mass, when
@@ -459,11 +548,9 @@ Von Humprt, Brilon*, was presented to the church in 1934 by Sir
 Dominic Joseph Ferreira, K.C.S.S., in memory of his wife, Josephine.
 The installation of this bell is depicted on this page.
 
-![Sketch of the largest bell in the belfrey being hoisted into the bell tower in 1937.](./GynelleB.jpg)
+# The Attic {.fullwidth}
 
-
-## The Attic
-
+::: fullwidth
 On March 10th 1861, an entry in the personal diary of a parishioner,
 Philip Balthazar Pereira, recorded the completion of the ceiling of the
 church. To someone sitting in the nave of the church today, the ceiling,
@@ -472,7 +559,15 @@ the visually fascinating grid of teak beams above it that form the
 support for the roof of the church. Stout beams of teak wood, hundreds
 of years old, weave a lattice of wood over the heads of the faithful
 sitting in the pews each day.
+:::
 
+::: fullwidth
+![](./stan4201.jpg){width=49%}
+![](./stan4202.jpg){width=49%}
+:::
+
+
+::: fullwidth
 One interesting section of this forest of sawed teak has a crossbeam at
 the east end where the old church ended. This 4 x 5 inch beam runs
 across horizontally for about eight feet. On it is a neat inscription in
@@ -480,25 +575,27 @@ Portuguese: "*on 5th of April 1823, by Antonio Da Cunha, master
 builder, of Manori*" attesting to the extensive roof repair work he
 conducted.
 
-![](./stan4201.jpg)
 
-![](./stan4202.jpg)
-
-![](./stanloft.jpg)
-
-![](./stanmest.jpg)
-
-![](./stanlof0.jpg)
+![](./stanloft.jpg){width=32.5%}
+![](./stanmest.jpg){width=32.5%}
+![](./stanlof0.jpg){width=32.5%}
+:::
 
 
-## The Bosco Hall
 
-![](./BoscoHal.jpg)
+# The Bosco Hall {.fullwidth}
 
-At one time this building was used as part of the early St Andrew\'s
+::: fullwidth
+At one time this building was used as part of the early St Andrew's
 School. Later, when St Andrew's High School was built, the building
 continued to be used as the premises of the St Andrew's Girls High
 School.
+:::
+
+::: aside
+![](./BoscoHal.jpg)
+:::
+
 
 In the 1950s, the 'Bosco Club' was formed as a forum for youth
 activities, in what came to be called the 'Bosco Hall'. It had 'ping

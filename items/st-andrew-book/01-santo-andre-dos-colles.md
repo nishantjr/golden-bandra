@@ -8,8 +8,6 @@ type: article
 tags: st-andrew-church
 ---
 
-![View of Bandora on the Island of Salsette. 1831](StAndrewSketch1831.jpg)
-
 Twice every year, as winter gives way to the swelter of summer, and again when
 the monsoon damp begins to dry out, the regulars at morning Mass at the Church
 of St Andrew are privileged to witness a gradual, wondrous traverse.
@@ -17,6 +15,10 @@ As the sun rises in the sky far beyond the Bandra Railway Station, its rays
 flood through the skylight above the choir loft of the Church of
 St Andrew and fall like a spotlight on the main arch between the gilded side
 altars.
+
+::: aside
+![View of Bandora on the Island of Salsette. 1831](StAndrewSketch1831.jpg)
+:::
 
 Each week, as if manipulated by a divine stagehand, the luminous circle glides
 steadily across the span. Finally, on the morning of the equinox, on March 21
@@ -29,7 +31,11 @@ all around. It serves as a reminder to the faithful that the ancient structure
 in which they worship is the embodiment of both human wisdom and heavenly
 design.
 
-![TODO: Image is cut-off](GynelleSACPorch.jpg)
+::: fullwidth
+![TODO: Image is cut-off
+    Genelle Alves. 2015.
+](GynelleSACPorch.jpg)
+:::
 
 To appreciate just how long the Church of St Andrew has
 dominated the Bandra shoreline, it is worth recalling that it is about 50 years
@@ -96,10 +102,12 @@ Not surprisingly the Church of St Andrew gets an entire chapter in his book,
 since it was, after all, "the oldest building now standing in Bandra". But of
 course, Fernandes was by no stretch the first person to write about the church.
 
-![TODO: caption](StAndrewsCADVikasEdit.jpg)
+::: fullwidth
+![Vikas Dilawari Architects. 2015](StAndrewsCADVikasEdit.jpg)
+:::
 
-Among the earliest mentions of the structure is in the Account of the Parish of
-St Andrew, situated in the same village of Bandra, which appeared in the annual
+Among the earliest mentions of the structure is in the *Account of the Parish of
+St Andrew, situated in the same village of Bandra*, which appeared in the annual
 Jesuit Letter to the Order's headquarters in Rome in 1669, about seven decades
 after the church had been built.
 
@@ -153,4 +161,6 @@ example, fervent prayers, wonderful cooperation and generous self-sacrifice."
 
 With grace and devotion, many more equinoxes will follow.
 
-![TODO: Caption](STAndrews.jpg)
+::: fullwidth
+![Herman Rodrigues. 2003.](STAndrews.jpg)
+:::
