@@ -32,6 +32,7 @@ article,
 .article header p         { margin-top: 0.2rem; margin-bottom: 0rem; }
 .article h2               { font-size: 1.6rem;
                             font-weight: bold;
+                            clear: left;
                           }
 
 h3, h4                    { font-weight: normal; }
@@ -59,15 +60,17 @@ figure                    { font-size: 1.2rem; margin: 0px; }
  * From: https://kennethfriedman.org/thoughts/2019/marginal-notes/
  */
 
-.article > :not(:nth-child(2)):not(.aside):not(header):not(:has(> .fullwidth)) { padding-left: 24rem; }
+.article > :not(:nth-child(2)):not(.aside):not(header):not(.fullwidth)
+    { padding-left: 24rem; }
+.fullwidth, aside, .aside { clear: left; }
 aside, .aside {
     display: inline;
     float: left;
-    clear: left;
     position: relative;
-    width: 17rem;
+    width: 22rem;
     font-size: 16px;
 }
+
 
 /* Layout */
 /* ====== */
