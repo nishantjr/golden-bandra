@@ -2,7 +2,7 @@
                 <div class='period'>$if(period)$$period$$else$&nbsp;$endif$</div>
                 <h1>$title$</h1>
                 <img src='$if(thumbnail)$$thumbnail$$endif$'/>
-                <address class="author">$author$</address>
+                $if(author)-$ <address class="author">$author$</address> $-endif$
                 <ul class='tags'>
                     $-for(tagt)-$
                     <li>$title$</li>
