@@ -110,8 +110,11 @@ figure  > img       { max-width: 100% }
 
 .columns            { display: flex; }
 .column             { flex: 1; }
-.by-theme   ul,
+
+.untagged     ul,
+.drafts       ul,
+.nearly-there ul,
+.by-theme     ul,
+.by-medium    ul,
 .by-period  ul      { list-style: none; padding: 0px; }
-.by-medium  ul      { list-style: none; padding: 0px;
-                      display: flex; gap: 1em;
-                    }
+.by-medium  ul      { display: flex; gap: 1em; }
