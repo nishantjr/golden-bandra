@@ -16,9 +16,7 @@ non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 ::: by-medium
 * [Maps](#)
-* [Images](#)
 * [Illustrations](#)
-* [Data](#)
 * [Photographs](#)
 :::
 
@@ -39,6 +37,42 @@ $-endfor$
 ### By Theme:
 
 $for(themes)$
+* [$title$]($url$)
+$-endfor$
+
+:::
+
+::::
+
+
+:::: columns
+
+::: {.column .nearly-there}
+
+### Nearly There
+
+$for(nearly-there)$
+* [$title$]($url$)
+$-endfor$
+
+:::
+
+::: {.column .drafts}
+
+### Drafts
+
+$for(drafts)$
+* [$title$]($url$)
+$-endfor$
+
+:::
+
+
+::: {.column .untagged}
+
+### Untagged
+
+$for(untagged)$
 * [$title$]($url$)
 $-endfor$
 

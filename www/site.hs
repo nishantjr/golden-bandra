@@ -50,7 +50,7 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
     match "index.md" $ do
         route   $ setExtension "html"
         compile $ do getResourceBody
-             >>= applyAsTemplate frontpageCtx
+             >>= applyAsTemplate (frontpageCtx tags)
              >>= renderPandoc
              >>= listingCompiler []
 
@@ -70,11 +70,20 @@ itemsMatchingTag :: Tags -> String -> Compiler [Item String]
 itemsMatchingTag tags tag =
     loadAllSnapshots (fromList (fromMaybe [] $ lookup tag (tagsMap tags))) "articleListing"
 
+
 --- Frontpage
-frontpageCtx = listField "periods"  defaultContext (loadAllSnapshots periodPattern "tagContent" >>= byPeriodStart) `mappend`
-               listField "themes"   defaultContext (loadAllSnapshots themePattern  "tagContent")                   `mappend`
-               listField "untagged" defaultContext (loadAllSnapshots itemPattern   "articleContent")               `mappend`
-               defaultContext
+frontpageCtx tags =
+        listField "periods"      defaultContext (loadAllSnapshots periodPattern "tagContent" >>= byPeriodStart)          `mappend`
+        listField "themes"       defaultContext (loadAllSnapshots themePattern  "tagContent")                            `mappend`
+        listField "untagged"     defaultContext (loadAllSnapshots itemPattern   "articleContent" >>= filterM isUntagged) `mappend`
+        listField "drafts"       defaultContext (itemsMatchingTag tags "drafts")                                         `mappend`
+        listField "nearly-there" defaultContext (itemsMatchingTag tags "nearly-there")                                   `mappend`
+        defaultContext
+    where isUntagged :: Item String -> Compiler Bool
+          isUntagged i = do tags  <- getMetadataField (itemIdentifier i) "tags"
+                            return $ case tags of
+                                Nothing -> True
+                                Just s  -> (s == "")
 
 --- Items
 itemPattern :: Pattern
@@ -88,7 +97,8 @@ itemCtx = listField "tagt" defaultContext loadTagSnapshots `mappend` defaultCont
              mTags <- getMetadataField ident "tags"
              title <- getMetadataField ident "title"
              snapshots <- loadAllSnapshots (periodPattern .||. themePattern) "tagContent"
-             return $ filter (\x -> matches (foldr (.||.) nothing (map (\t -> fromGlob $ "*/" ++ t ++ ".md")  $ fromMaybe [] $ fmap (splitAll ",") mTags))  (itemIdentifier x)) snapshots
+             return $ filter (\x -> matches (foldr (.||.) nothing (map (\t -> fromGlob $ "*/" ++ t ++ ".md")  $ fromMaybe [] $ fmap (splitAll ",") mTags))  (itemIdentifier x))
+                             snapshots
       nothing = fromGlob "x" .&&. fromGlob "y" --- We want `complement everything`, but it is not exported.
 
 

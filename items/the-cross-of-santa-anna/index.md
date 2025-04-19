@@ -3,7 +3,7 @@ title: The Cross of Santa Anna
 subtitle: A Bible Carved in Stone
 author: Clarence Fernandes, Herman Rodrigues, Denis Rodrigues
 thumbnail: /the-cross-of-santa-anna/side_cro.jpg
-tags: portuguese-possession,st-andrew-church
+tags: portuguese-possession,st-andrew-church,nearly-there
 ---
 
 The stone cross in St Andrew's is as much a religious symbol as a
