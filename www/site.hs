@@ -68,11 +68,12 @@ main = hakyllWith (def {providerDirectory = ".."}) $ do
 
 itemsMatchingTag :: Tags -> String -> Compiler [Item String]
 itemsMatchingTag tags tag =
-    loadAllSnapshots (fromList (fromMaybe [] $ lookup tag (traceShowId $ tagsMap tags))) "articleListing"
+    loadAllSnapshots (fromList (fromMaybe [] $ lookup tag (tagsMap tags))) "articleListing"
 
 --- Frontpage
 frontpageCtx = listField "periods"  defaultContext (loadAllSnapshots periodPattern "tagContent" >>= byPeriodStart) `mappend`
                listField "themes"   defaultContext (loadAllSnapshots themePattern  "tagContent")                   `mappend`
+               listField "untagged" defaultContext (loadAllSnapshots itemPattern   "articleContent")               `mappend`
                defaultContext
 
 --- Items
